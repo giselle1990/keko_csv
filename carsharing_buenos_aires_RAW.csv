@@ -1,0 +1,814 @@
+ID,empresa,modelo_negocio,app_movil,periodo,marca,modelo,tipo_vehiculo,segmento,transmision,combustible,puertas,uso_principal,precio_hora_ars,precio_dia_ars,km_incluidos,costo_vehiculo_usd,horas_uso_dia,usuarios_registrados,cobertura_geo,observaciones,fecha_carga,codigo_postal,telefono,email
+1,My Keego,carsharing_flota_propia,MyKeego App,2025,Nissan,Polo,utilitario,premium,N/A,gas,0,carga,18588.099094055433,98085.18201588116,100,22000,10.0,125000,Rosario,cerró en enero 2025,2026-01-25 11:08:31.750069,0000,11-1234-5678,keko@keko
+2,MyKeego,alquiler_trabajo,TripWip App,25,Fiat,yaris,furgon,mediano , ,diesel,-1,urbano,147904.4544808442,750682.2084532315,cien,25000,8.0,14K,"BS AS, Argentina",verificar,2025-10-10 11:08:31.764309,1000,,
+3,Keko,alquiler_trabajo,Alamo Web,2025,Chevrolet,208,utilitario,mediano ,MANUAL,diesel,-1,,"14.408,53",61446.513508609845,200,,8.0,,"Rosario, Argentina",Cerró enero 2025,2025-07-26 11:08:31.749256,C1000,0800-KEKO,keko@keko
+4,Sixt,alquiler_trabajo, ,2025,RENAULT,Cronos,HATCHBACK,grande, ,gas,5,Ubr,"14.479,93",63807.885628859745,200,50000,10.0,15000,"Mendosa, Argentina",CERRÓ,2025-02-19,1000,0800-KEKO,keko@keko
+5,Keko,renta tradicional,TripWip App,2023,Chevrolet,Etios,HATCHBACK,premium,,NAFTA,tres,taxi,-21436.898713165618,100688.93780595752,150,15000000,,"80,000",B.Aires,Cerró enero 2025,2025-12-09 11:08:31.762564,1425,sin telefono,contacto@keko.com
+6,  Sixt   ,  renta_tradicional  ,,,   chev,Maverick    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1425,sin telefono,keko.com
+7,MyKeego,renta_tradicional, ,2023,Kia,Etius,auto,mediano ,,híbrido,6,urbano,,,unlimited,,8.0,45000,BS AS,PENDIENTE,19/04/2025,1425,12345678,usuario@gmail.com
+3138,Keko,renta_tradicional,web site,2023,Mercedes,208,camioneta,COMPACTO,AUTOMATICO,,3, ,-15079.01669850421,72893.78325301227,100,12000,3.0,5000,"n/a, Argentina",ACTIVO,11-23-2025,XXXX,+54 11 1234-5678,info@
+9,TriWpip,AGREGADOR_TRADICIONAL,Despegar Autos,2025-01-01,Mercedes,SUBURBAN,Furgon,mediano,,,5,mixto,-15514.269115493276,89728.60985906892,unlimited,15000,,125.000,BuenosAires,cerró en enero 2025,2026-01-15,1425,+54 11 1234-5678,usuario@gmail.com
+8818,Localiza,renta_tradicional,Rentennials App,2023,TOYOTA,Kangoo,SUV,COMPACTO,N/A,diesel,0,,26019.426653812137,133681.05362059662,cien,35000,8.0,125000,n/a, ,07-22-2025,CABA,sin telefono,info@
+11,Rentennials,carsharing_p2p,Rentcars App,2024,Nissan,i10,Furgon,mediano,Mecanica,NAFTA,-1,mixto,"14.082,35",80189.63830081017,unlimited,25000,8.0,45000,Córdoba,cerró en enero 2025,2025-09-21,CABA,sin telefono,contacto@keko.com
+12,KINTO,alquiler trabajo,Despegar Autos,2023,peugeot,Partner,hatchback,COMPACTO,automatica,n/a,tres,carga,25681.114958540147,105665.63735054329,150,12000,48.0,125.000,Mendoza,ACTIVO,2025-07-25,1000,,keko.com
+13,Kayak,renta_tradicional,MyKeego App,2025,Hnoda,Suburban,camioneta,compacto,,electric,6,urbano,20411.778609797482,119201.40366660593,100,18000,48.0,125.000,Mendosa,Cerró enero 2025,31/01/2026,C1000,123,keko@keko
+14,Rentennials®,,,,Toyota€,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,C1000,123,info@
+15,Rentennials,carsharing_p2p,FastGo App,2025,peugeot,Onix,PickUp, compacto,N/A,,-1,mixto,147301.2845122673,725100584.1979803,cien,18000,4.0,125.000, ,activo,05-03-2025,C1000,sin telefono,keko@keko
+2772,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1000,11-1234-5678,
+17,Rentennials,alquiler_trabajo,Alamo Web,2025,fiat,Kicks,mediano,mediano,MANUAL,n/a,0,uber_rabajo,95524.53270496552,417093.71239728737,50 km,22000,4.0,125000,Bariloche,Cerró enero 2025,2025-07-13 11:08:31.758634,C1425,,
+18,Alamo,renta_tradicional,TripWip App,24,nissan,UP,utilitario, compacto,,híbrido,99,urbano,124356.32582907319,744694.9324679344,-50,22000,0.5,N/D,"B.Aires, Argentina",Alianza Uber,2025-06-07,XXXX,,N/A
+19,Kayak,alquiler_trabajo,Alamo Web,2023,VW,Mobi,furgon,grande,MANUAL,diesel,-1,turismo,8316.637176682088,39611.955366933464,9999,,100.0,125000,Cordoba,dato no confirmado,10-12-2025,0000,11-1234-5678,
+20,Kayak,alquiler_trabajo,,2023,Mercedse,cronnos,SUV,economico, ,electrico,6, ,-9515.591216712583,47324.38422965348,150,,5.0,5000,BS AS, ,2025-02-09,1000,0800-KEKO,contacto@keko.com
+2411,aKyak,renta_tradicional,Kayak App,2025,toyota,Bronco,Furgon,premium,,electric,,remis,,,ILIMITADO,18000,1.0,15000,,Alianza Uber,24/12/2025,0000,11-1234-5678,keko.com
+22,Cactus Rent,renta_tradicional,KINTO SHARE,2024,Volkswagen,Siena,pickup,economico,auto,NAFTA,4,personal,12543.766388010878,65869.9332849761,100,35000000,12.0,"80,000","ROSARIO, Argentina",ACTIVO,2025-08-14 11:08:31.742407,C1425,11-1234-5678,usuario@gmail.com
+23,KINTO,carsharing_flota_propia,Avis App,2023,Honda,no,compacto,economico,automatica,gas,tres,remis,148615.7762943526,738700.7062286102,-50,,5.0,N/D,CABA,N/A,28/04/2025,C1425,,N/A
+24,FastGo,renta_tradicional,MyKeego App,2025,MW,Frnotier,sedan,compacto,automatico,NAFTA,2,reis,,,unlimited,,4.0,"80,000",,,17/12/2025,XXXX,,contacto@keko.com
+25,Hertz,agregador_tradicional,KINTO Shaare,2025,Volkswagen,trackers,camioneta,COMPACTO,automatica,híbrido,3,taxi,84832.74919435829,468800.10399782966,200,,1.0,N/D,Cordoba,PENDIENTE,24/04/2025,0000,,info@
+26,DeRentas,alquiler_trabajo,DeRentas Web,2024,Toyota,gol trend,SUV,COMPACTO, ,híbrido,4,urbano,12717.780974291793,57792.21263057277,cien,25000,0.5,125.000,,N/A,13/01/2026,,,contacto@keko.com
+27,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,0800-KEKO,keko@keko
+5076,New Way,agregador_tradicional,Despegar Autos,2023-01-01,peugeot,Gol Trend,sedán,premium,,,, ,116503.03492333433,508779.34911954193,50,18000,3.0,125.000,n/a,,2025-10-08 11:08:31.748532,1000,123,N/A
+29,DeRentas,carsharing_p2p,Kayak App,2025,Renault,gol,PickUp,mediano , ,gnc,3, ,,,cien,,5.0,125.000,n/a,ACTIVO,08/11/2025,BS AS,sin telefono,usuario@gmail.com
+6424,DeRentas,renta_tradicional,APLI CACION,2023,Audi,Etios,sedán,mediano,N/A,n/a,4,Uebr,15651.474139174534,64113.053935857046,ILIMITADO,30000,100.0,125.000,Mar del Plata,Expansión 2025,19/01/2026,XXXX,0800-KEKO,N/A
+31,Invernalia,carsharing_p2p,Rentcars App,2023,TOYOTA,onixs,furgon,mediano,,gnc,2,urbano,13936.074170291755,66090.34157889125,,50000,24.0,15000,CABA,PENDIENTE,2025-06-06,XXXX,+54 11 1234-5678,keko.com
+32,KINTO,carsharing_p2p,DeRentas Web,2023,TOYOTA,Yaris,furgon,compacto,cvt,nafta,3,remis,25576.149656895857,142598.5049390049,ILIMITADO,30000,8.0,N/D,Mendoza,Activo,18/06/2025,,0800-KEKO,info@
+33,MyKeego,carsharing_p2p,,2019,Fiat,208,,,,,10,,100000,20000,,,50,,,INCONSISTENTE,,C1000,sin telefono,
+34,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,sin telefono,usuario@gmail.com
+35,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1425,11-1234-5678,usuario@gmail.com
+36,DeRentas,carsharing flota propia,Kayak App,2023,VW,Onix,suv,mediano ,dsg,gnc,2,alquiler_tradicional,117447.44348536895,471997.1825408829,unlimited,,24.0,80000,Córdoba,cerró en enero 2025,04/09/2025,1425,,
+37,KINTO,carsharing_p2p,DeRentas Web,2023,TOYOTA,Yaris,furgon,compacto,cvt,nafta,3,remis,25576.149656895857,142598.5049390049,ILIMITADO,30000,8.0,N/D,Mendoza,Activo,18/06/2025,C1000,sin telefono,usuario@gmail.com
+38,Cactus Rent,renta_tradicional,Keko App,2024,Fiat,UP,mediano,premium, ,híbrido,tres,URBANO,9161.504092678824,45207.80744356798,-50,50000,12.0,45mil,Rosario,CERRÓ,2025-11-10 11:08:31.762721,,,info@
+39,TripWip,renta_tradicional,,2024,VW,Bronco,Furgon,COMPACTO,automatica,híbrido,5,n/a,15245.724686422656,70532.3860295599,ILIMITADO,18000,10.0,"80,000",n/a,Activo,11-09-2025,XXXX,+54 11 1234-5678,info@
+40,Europcar,renta_tradicional,Avis App,2025,Audi,Kangoo,compacto,mediano,auto,híbrido,99,turismo,23357.402085022448,125101.25133447065,-50,,1.0,140000,CABA, ,06-29-2025,1425,,usuario@gmail.com
+41,Alamo,carsharing_p2p,,,Peugeot,Toro,SUV,mediano ,auto,hibrido,99,turismo,149513.9269729708,759162.5099900836,-50,,0.5,5000,Bariloche,verificar,2025-07-10 11:08:31.742314,C1425,123,contacto@keko.com
+42,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,12345678,keko@keko
+43,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,11-1234-5678,usuario@gmail.com
+44,Hertz,alquiler_trabajo,,2023,Citroen,Tracker,SUV,grande,cvt,n/a,0,uber_trabajo,29323.0474037458,140798.51059559564,ILIMITADO,20000,48.0,140000,B.Aires,,2025-11-09,0000,11-1234-5678,usuario@gmail.com
+1504,Europcar,agregador_tradicional, ,2025,fiat,Suburban,pickup,grande,manual,nafta,3,carga,145023.02739386394,623129.6364203804,50 km,,2.0,15000,Mendoza,dato no confirmado,2025-06-14 11:08:31.760104,CABA,0800-KEKO,keko.com
+46,KINTO,alquiler_trabajo,Rentennials App,2025,Nissan,trackers,COMPACTO,mediano ,Mecanica,diesel,tres,turismo,97700.98647794557,449858.24536674813,ILIMITADO,15000,48.0,125000,Bariloche,,2025-07-17,CABA,sin telefono,keko.com
+5096,Localizaa,agregador_tradicional,N/A,2024,Kia,COROLA,furgon,mediano,mecánico,DIESEL,0,uber_trabajo,$138561,648848.4320311979,9999,,10.0,15000,Mar del Plata,Cerró enero 2025,19/11/2025,BS AS,0800-KEKO,N/A
+4727,  Kayak   ,  agregador_tradicional  ,,,   FIAT,Voyage    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1000,sin telefono,
+49,Cactus Rent,carsharing_p2p,Keko App,23,Chevrolet,Tracker,moto,premium,mecánico,DIESEL,5,ubeer_trabajo,145846.74069509038,595887030.7442676,cien,35000,48.0,N/D,CABA,Expansión 2025,2025-12-08 11:08:31.756129,,sin telefono,keko@keko
+50,KINTO,alquiler_trabajo,TripWip App,2024,toyoat,Yaris,moto,mediano ,Mecanica,NAFTA,99,,85747.22249485392,364092.19772767386,9999,35000,6.0,"80,000","ROSARIO, Argentina",Alianza Uber,2025-10-04 11:08:31.763692,XXXX,0800-KEKO,keko@keko
+51,MyKeego,alquiler_trabajo,KINTO Share,2024,nissan,Polo,sedan,economico,,gas,99,Uber,13481.163290560407,75599579.96609749,cien,,3.0,45000,Barilochee,Activo,12/03/2025,0000,0800-KEKO,contacto@keko.com
+52,Avis,renta_tradicional,KINTO Shaare,2025,Kia,i10,moto,mediano ,MANUAL,híbrido,3,alquiler_tradicional,19177.018680374193,105065.53584544479,200,15000,2.0,"80,000",B.Aires,verificar,08-17-2025,,+54 11 1234-5678,contacto@keko.com
+53,FastGo,agregador_tradicional,Avis App,2023,Volkswagen,Bronco,utilitario,compacto,auto,electric,5,personal,124159.87210421938,720038.9494363964,ILIMITADO,12000000,24.0,5000,B.Aires,N/A,2025-09-17,CABA,,contacto@keko.com
+54,Kayak,carsharing_flota_propia,Despegar Autos,2023,nissan,COROLA,auto,economico,manual,electric,2, ,100203.08655880879,528455.4307689744,ILIMITADO,,0.5,125000,Buenos Aires,Activo,04-12-2025,,12345678,keko.com
+55,Kayak,alquiler_trabajo,APLICACION,2024,ford,trackers,HATCHBACK,premium,cvt,electrico,3,personal,104350.2541187967,490527.7925217023,ILIMITADO,,3.0,15000,Mendosa,cerró en enero 2025,2025-03-27 11:08:31.763639,1425,0800-KEKO,N/A
+56,Keko,carsharing_flota_propia,Keko App,2023,BMW,onixs,utilitario,economico,manual,híbrido,3,Uber,,,ILIMITADO,12000,100.0,80000, ,Expansión 2025,08-14-2025,CABA,0800-KEKO,keko@keko
+57,Localiza,carsharing_flota_propia,Avis App,2023,Kia,onixs,hatchback,grande,dsg,electric,3,uber_trabajo,,,ILIMITADO,50000,4.0,5000,CABA,CERRÓ,30/05/2025,C1000,11-1234-5678,usuario@gmail.com
+58,Hertz,carsharing_p2p,DeRentas Web,2025,Jeep,COROLA,compacto,COMPACTO,,DIESEL,,,84814.21606683222,438586.3031986958,0,,2.0,14K,Rosario,dato no confirmado,2025-02-22,1000,123,keko.com
+59,Hertz,alquiler_trabajo,KINTO Share,2024,vw,Frontier,hatchback, compacto,,hibrido,2,carga,,,0,,48.0,45mil,CABA,PENDIENTE,05/02/2026,,12345678,
+2453,TTripWip,agregador_tradicional,Avis Appp,2023,Kia,Maverick,camioneta,mediano ,dsg,hibrido,3,URBANO,16311.54436948841,78443.89751660763,150,30000,,125.000,BuenosAires,activo,2026-01-28 11:08:31.763018,XXXX,0800-KEKO,keko.com
+61,FastGo,carsharing_p2p,Keko App,2025,Honda,Mobi,HATCHBACK,premium,manual,diesel,99, ,$35084,145708.72030367627,50 km,,24.0,15000,Mendoza,verificar,20/07/2025,1425,0800-KEKO,contacto@keko.com
+62,Invernalia,agregador_tradicional,DeRentas Web,2024,Chevrolet,UP,PickUp,grande,manual,gas,4,Uber,92384.44993823816,534451.4933886747,9999,,24.0,N/D,n/a, ,2025-04-28 11:08:31.763258,1000,+54 11 1234-5678,contacto@keko.com
+4081,Rentcars,carsharing flota propia,N/A,2023,Citroen,Voyage,sedan,economico,,diesel,99,c arga,23443.254719634617,102656.15632603246,50 km,15000,0.5,14K,Córdoba,Alianza Uber,2025-11-05 11:08:31.744969,1000,11-1234-5678,N/A
+64,Europcar,agregador_tradicional, ,2024,Fiat,MOBI,grande,mediano ,AUTOMATICO,NAFTA,2,n/a,88403.42064194099,382783.95043201087,9999,35000000,4.0,15000,CABA,Alianza Uber,2025-02-09,CABA,12345678,N/A
+65,Keko,carsharing_p2p,,2019,Fiat,208,,,,,10,,50000,20000,,,50,,,INCONSISTENTE,,CABA,12345678,info@
+66,MyKeego,agregador_tradicional,DeRentas Web,2024,Fod,Uno,PickUp,compacto,MANUAL,electric,3,carga,-138478.44829895237,790025.3684894379,100,22000,8.0,125000,GBA,dato no confirmado,26/11/2025,0000,0800-KEKO,contacto@keko.com
+67,Hertz,alquiler_trabajo,app,2023-01-01,Citroen,Gol,SUV,compacto,dsg,diesel,4,carga,20586.743346052743,93667681.93645987,50 km,22000,100.0,,,Activo,2025-06-18 11:08:31.751661,0000,,keko.com
+68,Rentennials,carsharing p2p,,2023,Jeep,Tooro,Furgon,economico,N/A,NAFTA,4,taxi,,,unlimited,25000,10.0,45mil,Rosario,Activo,2025-04-06,0000,,keko.com
+69,Despegar,carsharing_p2p,Rentennials App,2024,Renault,Mobi,camioneta,premium,N/A,gas,,remis,32126.381316249353,131524.1124250843,-50,22000,100.0,14K,Mar del Plata,ACTIVO,2025-02-07 11:08:31.743825,XXXX,,info@
+70,Kayak,carsharing_p2p,app,2025,Chevrolet,Mobi,pickup,COMPACTO,auto,n/a,3,personal,-89112.02942008174,530299.570231384,unlimited,35000,-2.0,45mil, ,ACTIVO,2025-09-07,C1000,11-1234-5678,
+5067,TriWpip,carsharing_p2p,APLICACION,2023,Fiat,Renegade,hatchback,COMPACTO,cvt,híbrido,,mixto,13892.69834645526,62155.34088478657,9999,22000,48.0,125000,B.Aires,Activo,2025-07-29 11:08:31.751063,XXXX,,contacto@keko.com
+72,Budget,agregador_tradicional,app,2025,RENAULT,COROLA,HATCHBACK,mediano,cvt,híbrido,0,remis,116372.67691101077,660739.7834239627,-50,,2.0,140000,BS AS,CERRÓ,22/01/2026,C1425,12345678,contacto@keko.com
+73,Localiza,agregador_tradicional,TripWip App,2025,fiat,Cron os,utilitario,premium,dsg,diesel,4,carga,91958.11729275818,386938.5527623685,100,30000,5.0,15000,B.Aires,dato no confirmado,2026-01-09 11:08:31.764478,CABA,0800-KEKO,keko@keko
+74,MyKeego©,,,,Toyota€,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,0000,123,info@
+75,Cactus Rent,carsharing_flota_propia,FastGo App,2023,Fiat,Suburban,suv,grande,manual,gnc,cinco,remis,115404.4601905498,551037.0386034895,ilimitado,15000,5.0,N/D,Bariloche,activo,03/03/2025,1000,,keko.com
+76,New Wa,carsharing_p2p,TrpWip App,2025,Ford,Ploo,hatchback,mediano,automatica,híbrido,5,,81459.95913173242,378751.04177676706,100,15000,12.0,5000,Barilochee,ACTIVO,16/08/2025,C1425,,keko.com
+77,Keko,carsharing_p2p,,2026,Fiat,208,,,,,1,,50000,10000,,,30,,,INCONSISTENTE,,C1000,12345678,contacto@keko.com
+78,DeRentas,renta_tradicional,MyKeego App,2025,Citroen,Uno,camioneta,economico, ,NAFTA,cinco,mixt o,102300.4810736404,445705.9711341211,200,22000,2.0,125000,BS AS,N/A,2025-09-18,C1425,+54 11 1234-5678,contacto@keko.com
+79,Localiza,alquiler_trabajo,N/A,2024-01-01,TOYOTA,Kicks,mediano, compacto,MANUAL,electrico,0,personal,32067.4772589088,137278.79009065707,ilimitado,,10.0,N/D,Rosario,cerró en enero 2025,2025-10-12 11:08:31.752448,BS AS,0800-KEKO,keko.com
+80,TripWip,renta tradicional,KINTO Share,2025,Peugeot,kicks,utilitario,grande,auto,híbrido,-1,n/a,114347.10199545985,619340.8377368593,ILIMITADO,50000,-2.0,45000,,Cerró enero 2025,30/06/2025,1000,123,keko@keko
+81,Budget,alquiler_trabajo,MyKeego App,2025,Renaault,Fox,Furgon,COMPACTO,Mecanica,,2,uber_trabajo,12832.538496180536,65846.54204725169,50 km,35000,1.0,"80,000",Barilochee,ACTIVO,02/10/2025,XXXX,11-1234-5678,usuario@gmail.com
+82,Sixt,carsharing_p2p, ,2024,Nissan,Fox,moto,mediano,,diesel,4,craga,22485.079360141295,129205.23788843358,50,20000000,12.0,45mil,Mendoza,verificar,12/02/2025,CABA,0800-KEKO,keko@keko
+83,Keko™,,,,Fiatø,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,BS AS,12345678,keko.com
+84,Invernalia,renta_tradicional,Rentcars App,2024,Mercedes,Frontier,camion,COMPACTO,MANUAL,NAFTA,-1,taxi,179814.11776616808,998286.9683791806,ILIMITADO,50000,,,"B.Aires, Argentina",Activo,07-28-2025,C1000,sin telefono,info@
+5463,KINTO,CARSHARING_P2P,/A,2023,fiat,ronco,moto,mediano,automatica,,5,taxi,22246.537049515475,121570.74113185584,50 km,,-2.0,125.000,Mendosa,activo,11-08-2025,0000,0800-KEKO,N/A
+86,Kayak,agregador_tradicional,Rentennials App,2025,TOYOTA,UP,SUV,mediano,auto,hibrido,3,taxi,15606.000214253201,69400.37302212243,50 km,18000,10.0,80000,,activo,2025-07-10 11:08:31.760762,1000,+54 11 1234-5678,keko.com
+87,Sixt,carsharing_p2p,KINTO Share,2024,Hyundai,Gol Trend,utilitario,mediano,dsg,nafta,cinco,carga,13272.339035023111,54247.02511161937,cien,,4.0,140000,Bariloche,verificar,2025-08-23,C1000,12345678,keko.com
+88,Invernalia,agregador_tradicional,Rentcars App,25,Toyota,Uno,camion,COMPACTO,N/A,electric,4,,106047.69410732308,632789.303777682,9999,25000,5.0,15000,B.Aires,Activo,2025-06-12 11:08:31.754079,C1425,+54 11 1234-5678,contacto@keko.com
+89,Cactus Rent,renta_tradicional,KINTO SHARE,2024,Volkswagen,Siena,pickup,economico,auto,NAFTA,4,personal,12543.766388010878,65869.9332849761,100,35000000,12.0,"80,000","ROSARIO, Argentina",ACTIVO,2025-08-14 11:08:31.742407,C1425,+54 11 1234-5678,N/A
+6862,KINTO,carsharing_flota_propia,Kayak App,2025,VW,Corolla,pickup,COMPACTO,mecánico,electrico,99,URBANO,,,9999,25000,100.0,14K,Rosario,Cerró enero 2025,06/08/2025,1425,sin telefono,keko@keko
+91,TripWip,agregador_tradicional,Hertz 24/7,2023,ford,Corolla,HATCHBACK, compacto,cvt,DIESEL,3,personal,124620.99378384932,582652.2808497968,-50,$35000 USD,3.0,14K,CABA,cerró en enero 2025,2025-12-10,1000,12345678,usuario@gmail.com
+92,Sixt,agregador_tradicional,KINTO Share,23,Toy ota,G ol Trend,grande,mediano,N/A,gnc,5, ,28205.76913769896,166381.528581753,9999,12000,24.0,80000,Barilochee,ACTIVO,2025-06-21 11:08:31.756410,1000,+54 11 1234-5678,keko.com
+7444,Rentennials,alquiler_trabajo,app,2024,Hyundai,Kangoo,moto,mediano ,Mecanica,nafta,3,carga,"12.561,44",69398.80752109457,unlimited,18000,3.0,125.000,ROSARIO,Expansión 2025,2025-09-18,0000,123,usuario@gmail.com
+94,Cactus Rent,carsharing_p2p,web site,2024,Kia,Gol Trend,auto,mediano,,,-1,mixto,174877.9007460726,999007.7047099565,0,30000,-2.0,5000,Mendosa,PENDIENTE,2025-04-15 11:08:31.760724,CABA,,usuario@gmail.com
+95,TripWip,agregador_tradicional,APLIC ACION,2023,Ford,trackers,grande,COMPACTO,MANUAL,electrico,2,mixto,94219.88463342033,493014.3340837613,,,2.0,5000,Mar del Plata,,2025-10-05,BS AS,+54 11 1234-5678,contacto@keko.com
+96,Rentennials,carsharing_p2p,Despegar Autos,2023,Renault,Gol,mediano,economico,AUTOMATICO,nafta,3,remis,64657.639914556436,318713663.0209362,ilimitado,30000,2.0,125.000,B.Aires,Activo,2025-06-21 11:08:31.760419,CABA,123,N/A
+97,TripWip,alquiler_trabajo,Kayak App,2025-01-01,AAudi,Kicks,compacto,grande,cvt,n/a,cinco, ,26504.820684397317,128011.7303398552,50 km,,0.5,15000,Mendosa,Expansión 2025,14/11/2025,C1000,,usuario@gmail.com
+98,Despegar,renta_tradicional,app,2023,Kia,trackers,utilitario,mediano ,N/A,n/a,3,remis,35443.595447376065,165714.47189576077,,50000,48.0,,"ROSARIO, Argentina",Alianza Uber,2025-10-08 11:08:31.756619,0000,12345678,
+99,Hertz,agregador_tradicional,,2024,Hyundai,Siena,PickUp,mediano,auto,gnc,99,remis,86191.37950586766,415349.4726383555,cien,,4.0,15000,Barilochee,cerró en enero 2025,2026-01-15 11:08:31.746459,CABA,,keko@keko
+100,DeRentas,carsharing_flota_propia,Alamo Web,2025,BMW,Argo,pickup,grande,cvt,gnc,2,n/a,20496.3755754473,89851.38949117438,100,,3.0,5000,"BS AS, Argentina",Expansión 2025,17/09/2025,0000,0800-KEKO,contacto@keko.com
+101,Alamo,renta_tradicional,Rentennials App,2024,Fiat,Suburban,camion,premium,manual,NAFTA,-1,uber_trabajo,"12.087,17",58822.427326512865,0,35000,,125.000,,N/A,08-17-2025,1425,0800-KEKO,usuario@gmail.com
+102,Europcar,renta_tradicional,Rentcars App,,FIAT,Frontier,moto, compacto,automatico,n/a,cinco, ,,,ilimitado,12000,3.0,,BuenosAires,activo,2025-04-15,XXXX,11-1234-5678,N/A
+103,MyKeego,carsharing_p2p,,2027,Fiat,208,,,,,7,,100000,20000,,,30,,,INCONSISTENTE,,1425,0800-KEKO,usuario@gmail.com
+104,Sixt,alquiler_trabajo,Rentcars App,2024,nissan,Etius,furgon,premium,MANUAL,,6,turismo,119968.84033560893,489283592.6878789,100,,,125.000, , ,21/07/2025,C1425,+54 11 1234-5678,
+105,Avis,carsharing_flota_propia, ,2023,Jeep,Corolla,furgon, compacto,N/A,nafta,4,,12911.008659269297,64975.013358641794,9999,,5.0,"80,000",BS AS,Cerró enero 2025,2025-06-02,C1425,123,keko.com
+106,Keko,agregador_tradicional,KINTO SShare,2024,toyota,trackers,MEDIANO,COMPACTO,Mecanica,electrico,3, ,189821.47703834198,1099902.574731728,50 km,,0.5,5000, ,PENDIENTE,2025-03-13,1425,11-1234-5678,
+107,New Way,carsharing_p2p,MyKeego App,2025,Peugeot,Siena,grande,economico,manual,n/a,5,urbano,13415.626649012216,70441.87792330897,100,25000,12.0,5000, ,CERRÓ,2025-05-07 11:08:31.743882,CABA,0800-KEKO,N/A
+108,Invernalia,agregador_tradicional,Keko App,2023,FIAT,COROLLA,hatchback,mediano,automatica,nafta,3,taxi,31315.22109379837,162709.71359280054,unlimited,15000,0.5,5000,Córdoba,CERRÓ,09/09/2025,1000,123,contacto@keko.com
+109,Hertz,agregador_tradicional,Localiza Mobile,2024,chev,i1 0,utilitario,mediano,MANUAL,NAFTA,tres,n/a,24059.68952067994,143523.97016130039,200,$25000 USD,-2.0,125000,Bariloche,,2025-05-29,BS AS,12345678,keko.com
+110,MyKeego,carsharing_p2p,app,2023,VW,Bronco,compacto,compacto,,,-1,personal,"139.904,12",670609.2262160736,100,18000,10.0,14K,"GBA, Argentina",Activo,2025-10-04 11:08:31.748376,XXXX,123,keko@keko
+5578,Keko,carsharing_p2p,app,2024,Toyota,UP,SUV,mediano,,gnc,0,UBANO,96004.39294326112,572277.2159666406,-50,22000,,,Buenos Aires,Alianza Uber,2025-06-06,C1425,,keko@keko
+112,MyKeego,carsharing_p2p,,2019,Toyota,Gol,,,,,10,,50000,20000,,,50,,,INCONSISTENTE,,1000,12345678,usuario@gmail.com
+113,Keko,agregador_tradicional,Keko pAp,2023,Peugeot,Gol,moto,economico,mecánico,DIESEL,2,URBANO,119968.92757454912,675868.273542283,ilimitado,,48.0,5000,Buenos Aires,ACTIVO,07-15-2025,C1425,123,usuario@gmail.com
+114,Localiza,agregador_tradicional,Keko App,2025,Mercedes,Maverick,furgon,compacto,auto,hibrido,cinco,personal,102145.0885957073,464296.96983895625,-50,35000,-2.0,80000,GBA,cerró en enero 2025,2025-07-05 11:08:31.764164,0000,+54 11 1234-5678,usuario@gmail.com
+115,KINTO,carsharing_p2p,,2027,Fiat,Gol,,,,,1,,100000,10000,,,25,,,INCONSISTENTE,,BS AS,0800-KEKO,contacto@keko.com
+116,KINTO,renta_tradicional,Rentcars App,2023,ford,DOS MIL OCHO,sedan,compacto,,electrico,tres,URBANO,21307.18371257153,90199.62655221959,50,25000,10.0,125000,n/a,CERRÓ,06-20-2025,,0800-KEKO,usuario@gmail.com
+117,Hertz,agregador_tradicional,APLICACION,2024,ford,Yaris,FURGON,premium,MANUAL,,,carga,11318.680445705413,48269.96360691076,,22000,6.0,14K,BuenosAires,N/A,2025-02-24 11:08:31.743172,BS AS,,usuario@gmail.com
+118,Avis,carsharing_p2p,app,2023,BMW,trackers,camioneta,premium,cvt,n/a,5,per sonal,25419.139387800336,113096902.35350809,200,,24.0,5000,ROSARIO,Activo,17/04/2025,XXXX,+54 11 1234-5678,
+119,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,sin telefono,keko.com
+120,Invernalia,carsharing_p2p,Rentcars App,2023,TOYOTA,onixs,furgon,mediano,,gnc,2,urbano,13936.074170291755,66090.34157889125,,50000,24.0,15000,CABA,PENDIENTE,2025-06-06,1425,+54 11 1234-5678,usuario@gmail.com
+121,Europcar,carsharing_p2p,KINTO Share,2023,BMW,Cronos,camion,mediano ,MANUAL,hibrido,5,,25733.94225177762,133790449.0703319,50,22000,24.0,80000,"Cordoba, Argentina",PENDIENTE,2025-07-28,CABA,123,
+122,Budget,carsharing_flota_propia,app,2023,RENAULT,Etios,sedan, compacto,AUTOMATICO,,,taxi,32152.786226658474,140070.5778100109,150,35000,4.0,45000,n/a,Alianza Uber,2026-01-26,1000,12345678,keko@keko
+6107,KINTO,carsharing_p2p,,2027,Fiat,Gol,,,,,7,,100000,20000,,,30,,,INCONSISTENTE,,1000,0800-KEKO,contacto@keko.com
+124,Keko,renta_tradicional,Avis App,2023,nissan,Argo,GRANDE,grande,mecánico,gas,-1,uber_trabajo,"132.041,40",596133.2247891651,200,25000,10.0,45mil,ROSARIO, ,13/08/2025,,,
+125,Keko,renta_tradicional,Rentennials App,2025,vw,UP,auto,premium,mecánico,hibrido,3,Uber,17157.230538015672,68868.23497386138,ilimitado,35000,1.0,15000,BuenosAires,N/A,2025-10-29,C1425,+54 11 1234-5678,usuario@gmail.com
+126,eUROPCAR,renta_tradicional,Keko App,2025,iNssan,Fox,moto,compacto,AUTOMATICO,NAFTA,99,personal,,,unlimited,,4.0,45mil,Rosario,verificar,2025-11-01,,+54 11 1234-5678,keko@keko
+127,KINTO,agregador_tradicional,MyKeego App,2025,chev,C ronos,pickup,COMPACTO,cvt,DIESEL,0,Uber,105071.7248075302,448599.98299838306,50 km,18000,10.0,80000,n/a,CERRÓ,2025-11-18 11:08:31.744880,1425,123,keko@keko
+128,Sixt,renta_tradicional,Hertz 24/7,2025,Volkswagen,do mil ocho,utilitario,grande,MANUAL,hibrido,5,carga,24661.046980941373,100197.38507720466,cien,30000,,15000,,Alianza Uber,29/07/2025,C1000,sin telefono,usuario@gmail.com
+129,Budget,agregador_tradicional,app,2025,nsisan,Bronco,grande,economico,,,4,personal,103597.10737187712,557722.1857358512,9999,30000,100.0,140000,Mar del Plata,Expansión 2025,10/09/2025,C1000,12345678,info@
+6045,MyKeego,carsharing_flota_propia,Rentennials App,2025,FIAT,208,PickUp,compacto,AUTOMATICO,DIESEL,4,taxi,114836.5690050355,484201.1313877497,cien,50000,24.0,"80,000","n/a, Argentina",Activo,15/02/2025,C1000,123,usuario@gmail.com
+131,Invernalia,renta_tradicional,Alamo Web,2024,Volkswagen,UP,PickUp,premium,dsg,DIESEL,tres,Uber,114021.6379858364,619115.7078732838,100,12000,2.0,125000,B.Aires,Activo,22/10/2025,1425,+54 11 1234-5678,
+132,Rentcars,agregador_tradicional,Keko App,2024,peugeot,onixs,furgon,economico,automatica,n/a,99,alquiler_tradicional,,,100,25000,6.0,N/D,Mar del Plata, ,2025-03-18 11:08:31.753745,CABA,+54 11 1234-5678,
+133,FastGo,carsharing_p2p,Keko App,2024,Hyundai,208,camioneta,COMPACTO,automatica,gas,tres, ,,,unlimited,18000,8.0,140000,BS AS,ACTIVO,2025-02-22,XXXX,sin telefono,
+134,MyKeego,carsharing_p2p,,2020,Fiat,Cronos,,,,,7,,50000,20000,,,25,,,INCONSISTENTE,,1425,0800-KEKO,keko.com
+135,Europcar,carsharing_p2p,KINTO Share,2025,Peugeot,Palio,compacto,premium,,diesel,6,URBANO,20758.135246098045,93739.02086189257,ILIMITADO,22000,1.0,N/D, ,Expansión 2025,08/07/2025,BS AS,11-1234-5678,contacto@keko.com
+136,KINTO,agregador_tradicional,app,2025,ford,yaris,pickup,mediano,mecánico,NAFTA,3,,27976.302706283364,117464.36093163396,ILIMITADO,15000,2.0,"80,000",Rosario,activo,26/01/2026,C1425,12345678,contacto@keko.com
+137,MyKeego,renta_tradicional,app,2025,fiat,cronnos,hatchback, compacto,manual,gas,-1, ,9995.432685459595,51699.1043389863,-50,20000,12.0,"80,000",Córdoba,activo,2025-06-18,1425,12345678,contacto@keko.com
+138,Despegar,alquiler_trabajo, ,2025,BMW,Siena,hatchback,grande,MANUAL,gnc,6,,-64083.44520035652,283010.09441591887,-50,22000,10.0,45000,Mendoza,Cerró enero 2025,2025-05-17 11:08:31.761611,1000,0800-KEKO,info@
+139,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,sin telefono,keko.com
+140,New Way,agregador tradicional,TripWip App,2023,Citroen,trackers,Furgon,compacto,automatica,gnc,99,Uber,-136921.24699328427,719690.4832360807,0,25000000,48.0,,ROSARIO,N/A,2025-08-06 11:08:31.752904,C1425,sin telefono,contacto@keko.com
+141,Europcar,carsharing_flota_propia,Kayak App,2024-01-01,uAdi,trackes,SUV,mediano,automatica,NAFTA,tres,alquiler_tradicional,$21781,121876.84640257855,,,48.0,125.000,Barilochee,CERRÓ,05/02/2025,,11-1234-5678,info@
+142,eHrtz,alquiler_trabajo,web site,2023,toyota,oCrolla,mediano, compacto,,electrico,2,mixto,23469.805762848056,101092.54359216864,cien,,,45mil,Mendosa,cerró en enero 2025,03-20-2025,0000,0800-KEKO,usuario@gmail.com
+11096,KINTO,carsharing_p2p,,2026,Toyota,Cronos,,,,,1,,50000,20000,,,25,,,INCONSISTENTE,,XXXX,,usuario@gmail.com
+144,Hertz,carsharing_flota_propia,,2023,Mercedes,Suburban,camioneta,COMPACTO, ,NAFTA,5,urbano,12616.380655559877,52545.16923847591,200,15000,6.0,45000,B.Aires,ACTIVO,2025-02-21,BS AS,0800-KEKO,contacto@keko.com
+145,FastGo,alquiler_trabajo,kinto share,2024,TOYOTA,Corolla,compacto,premium,Mecanica,electrico,4,turismo,66564.36151936038,394034.42250686884,100,15000000,10.0,140000, ,Expansión 2025,02-14-2025,0000,123,N/A
+146,Alamo,carsharing_p2p,Rentennials App,2023,Honda,Gol,PickUp,mediano ,automatica,gas,5,n/a,,,0,,,140000,n/a,dato no confirmado,2025-09-20,0000,,contacto@keko.com
+147,Budget,alquiler_trabajo, ,2025,Peugeot,2008,furgon,grande,AUTOMATICO,hibrido,-1,mixto,28844.65851671478,129865.64759135102,50,18000,-2.0,14K,n/a,CERRÓ,01/02/2026,1425,12345678,
+7525,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1425,sin telefono,contacto@keko.com
+149,DeRentas,renta_tradicional,app,2024,RENA ULT,Suburban,utilitario,mediano,MANUAL,gnc,4,taxi,-17938.296083003654,84829.96667104361,200,30000,0.5,N/D,B.Aires,cerró en enero 2025,2025-06-22 11:08:31.744067,CABA,,
+150,Rentennials,renta_tradicional,Alamo Web,24,Renault,i10,hatchback,mediano ,Mecanica,hibrido,99, ,82925.95445156189,458933.2301567018,150,,10.0,5000,Cordoba,Alianza Uber,2025-09-27 11:08:31.753246,BS AS,+54 11 1234-5678,contacto@keko.com
+151,Budget,agregador_tradicional,Alamo Web,2023,Kia,Onix,SUV,mediano ,mecánico,gas,2, ,21364.59295348253,108931.19121825405,100,30000,48.0,N/D,Mar del Plata,,04/08/2025,,sin telefono,
+152,KINTO,ALQUILER_TRABAJO,Rentcars App,2023,vw,i10,compacto, compacto,AUTOMATICO,híbrido,5,personal,,,unlimited,25000,3.0,125000,Córdoba,N/A,2025-03-03 11:08:31.740329,1000,11-1234-5678,keko.com
+153,cACTUS rENT,agregador_tradicional,,2024,chev,Uno,pickup,COMPACTO,MANUAL,,-1,alquiler_tradicional,"35.433,91",167820.51365608058,cien,12000,12.0,45000,Barilochee,Activo,09/08/2025,CABA,sin telefono,info@
+154,FastGo,agregador_tradicional,Rentennials App,2025,FIAT,kicks,Furgon,grande,cvt,nafta,99,uber_trabajo,121748.63215123817,580684.3163907117,50,15000,5.0,"80,000",B.Aires,PENDIENTE,2025-11-17 11:08:31.739052,BS AS,+54 11 1234-5678,keko@keko
+993,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,123,info@
+156,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,11-1234-5678,N/A
+157,Rentennials,carsharing_flota_propia,Kayak App,2024,VW,cronnos,suv,economico,dsg,electrico,3,URBANO,,,50,15000,3.0,5000,Cordoba, ,30/08/2025,0000,0800-KEKO,N/A
+158,  Localiza   ,  carsharing_p2p  ,,,   Hyundai,Etios    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,XXXX,11-1234-5678,contacto@keko.com
+159,Rentennials,alquiler_trabajo,Despegar Autos,2025,Citrooen,COROLA,suv,mediano,manual,diesel,0, ,,,150,35000,100.0,45mil,ROSARIO,cerró en enero 2025,2025-02-28 11:08:31.755179,1000,+54 11 1234-5678,N/A
+160,Localiza,alquiler_trabajo,DESPEGAR AUTOS,2024,Kia,Kangoo,suv,premium,auto,gnc,3, ,153302.45613282276,803547.0979956037,cien,22000,3.0,14K,"Cordoba, Argentina",dato no confirmado,2025-04-27 11:08:31.758013,XXXX,+54 11 1234-5678,usuario@gmail.com
+18388,FastGo,,,,,,,,ninguna,,,,,,infinito,,,,,VALORES INVALIDOS,,1425,+54 11 1234-5678,usuario@gmail.com
+1887,MyKeego,CARSHARING_FLOTA_PROPIA,APLICACION,2025,TOYOTA,MOBI,camioneta, compacto,N/A,nafta,5,urbano,"29.508,22",167762.78273005175,-50,$22000 USD,1.0,125.000, ,,2025-10-01 11:08:31.761655,BS AS,sin telefono,keko@keko
+163,Renttcars,agregador_tradicional,Alamo Web,2024,Renault,Voyage,moto,compacto,cvt,diesel,3,,212329.9220927849,861612.8091975087,unlimited,25000,100.0,14K, ,Expansión 2025,22/02/2025,C1425,11-1234-5678,N/A
+164,Localiza,alquiler trabajo,Kayak App,2024,vw,Polo,furgon,mediano,cvt,electric,3,taxi,10030.835666720279,43163.44442333977,200,,0.5,15000,Cordoba,CERRÓ,2025-05-17 11:08:31.749744,C1000,12345678,keko@keko
+165,Cactus Rent,agregador_tradicional,app,2025,toyota,Tracker,camioneta,premium,cvt,electrico,tres,personal,"161.653,50",670101.5570134614,cien,18000,24.0,14K,"Barilochee, Argentina",activo,07/10/2025,1000,sin telefono,info@
+166,Bu dget,alquiler_trabajo,Rentennials App,2023,Nissan,Uno,pickup, compacto,automatica,híbrido,tres,,"16.210,48",67622.03153400576,50,15000,4.0,N/D,Bariloche,N/A,2026-01-03 11:08:31.753451,1000,+54 11 1234-5678,contacto@keko.com
+167,Localiza,renta_tradicional,Avis App,2025,VW,2008,GRANDE,premium,dsg,,5,urbano,8669.240532265321,46176794.39224243,100,20000,4.0,125.000,Mendoza,Activo,2025-11-08 11:08:31.764522,,+54 11 1234-5678,keko.com
+168,KINTO,carsharing_p2p,Avis App,2023,Mercedes,Etius,sedan,mediano ,AUTOMATICO,gnc,6,URBANO,16821.201063786542,91050.0267553647,unlimited,18000,,45mil,Córdoba,dato no confirmado,2025-06-07 11:08:31.762302,C1000,sin telefono,keko.com
+169,Localiza,carsharing_flota_propia,Avis App,2023,Kia,onixs,hatchback,grande,dsg,electric,3,uber_trabajo,,,ILIMITADO,50000,4.0,5000,CABA,CERRÓ,30/05/2025,0000,0800-KEKO,
+170,Alamo,alquiler_trabajo,APLICAC ION,,Toyoat,Versa,auto,premium,auto,electrico,cinco,URBANO,12173.903795033719,66157.83248510693,ILIMITADO,20000,2.0,125.000,Mendosa,CERRÓ,22/05/2025,XXXX,,contacto@keko.com
+171,Cactus Rent,agregador_tradicional,Keko App,2025,vw,Etios,camioneta,mediano , ,,-1,urbano,171565.39513365523,995855.3660643823,100,15000,1.0,140000,Cordoba,Cerró enero 2025,04/09/2025,C1425,123,keko@keko
+172,Avis,carsharing_flota_propia,KINTO Share,2025,RENAULT,Coorlla,sedan,premium,,gnc,4,tturismo,,,,50000,4.0,140000,Cordoba,,24/01/2026,0000,sin telefono,info@
+173,Retnennials,alquiler_trabajo,KINTO Share,2023,Jeep,MOBI,camioneta, compacto,automatica,n/a,-1,,157523.24819109516,704694.6971918592,cien,,48.0,,"Rosario, Argentina",N/A,2025-10-08 11:08:31.757103,0000,+54 11 1234-5678,contacto@keko.com
+174,hERTZ,carsharing_p2p,Hertz 24/7,2024,nissan,Bornco,camioneta, compacto,MANUAL,gnc,tres,personal,112836.78570038622,656457.0282163601,9999,50000,2.0,140000,BuenosAires,CERRÓ,2025-12-06 11:08:31.752172,,,N/A
+175,Avis,renta_tradicional,FastGo App,2025-01-01,Mercedes,Uno,camion,economico,,DIESEL,4,alquiler_tradicional,"160.848,65",790190.2486353947,ilimitado,22000000,0.5,,n/a,,2025-06-16,C1425,12345678,contacto@keko.com
+176,Europcar,agregador_tradicional,TripWip App,2023,Honda,Versa,PickUp,mediano,automatica,n/a,2,urbano,21167.85592639391,99059.2556398803,9999,35000,8.0,5000,B.Aires,Alianza Uber,03/07/2025,0000,11-1234-5678,N/A
+177,Keko,carsharing_p2p,N/A,2025,Audi,Uno,camion, compacto, ,n/a,3,n/a,95089.9236649989,383919.56290741224,100,,5.0,,B.Aires,Activo,2025-05-08 11:08:31.745508,CABA,0800-KEKO,keko@keko
+178,MyKeego,carsharing_p2p,Kayak App,2024,chev,Suburban,HATCHBACK,premium,auto,electric,-1,turismo,13168.362610063496,72768995.6417671,unlimited,$12000 USD,0.5,45mil,CABA,N/A,14/01/2026,1425,123,N/A
+8454,Europcar,carsharing_p2p,FastGo App,2025,toyta,Siena,compacto,mediano,automatica,electric,3,uber_trabajo,147880.8881372197,776958066.6055553,200,22000,0.5,N/D,Barilochee,verificar,2025-02-27 11:08:31.748916,XXXX,+54 11 1234-5678,contacto@keko.com
+180,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,,keko@keko
+181,FastGo,agregador_tradicional,app,2024,vw,MOBI,SUV, compacto,auto,electrico,6,urbano,17539.580134087544,93598.76067672428,50 km,20000,24.0,"80,000",,Cerró enero 2025,02-02-2026,C1425,sin telefono,info@
+182,Cactus Rent,carsharing_p2p,app,2024,Citroe n,Fox,sedan,mediano ,N/A,híbrido,5,URBANO,-81793.4725328917,401288.5532702237,-50,30000,6.0,125.000,Mar del Plata,PENDIENTE,2025-09-18,CABA,sin telefono,N/A
+183,Rentennials®,,,,Peugeot£,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,C1425,0800-KEKO,usuario@gmail.com
+184,KINTO,RENTA_TRADICIONAL,DeRentas Web,2024,Kia,Yaris,sedan,premium, ,híbrido,5,TURISMO,14698.86772622964,66333.80536989325,cien,25000,0.5,15000, ,activo,2025-04-27 11:08:31.758592,,12345678,info@
+5578,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,11-1234-5678,info@
+3927,Hertz,renta_tradicional,Hertz 24/7,2025,Volkswagen,yaris,PickUp,economico,mecánico,diesel,6,mixto,24186.96438389128,124229.07778586174,200,12000,,45000,,cerró en enero 2025,2026-01-22 11:08:31.761252,XXXX,11-1234-5678,info@
+187,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,11-1234-5678,info@
+188,Keko,carsharing_flota_propia,KINTO Share,,BMW,C orolla,compacto,COMPACTO,auto,gnc,,carag,,,unlimited,22000,6.0,14K,BuenosAires,activo,2026-01-18,1425,11-1234-5678,
+189,Avis,renta_tradicional,APLICACION,2024,Ford,208,grande, compacto,manual,gas,2,turismo,20551.68542063695,106055.08659373138,200,15000,4.0,80000,Mendoza,Activo,10-21-2025,CABA,123,keko@keko
+190,New Way,alquiler_trabajo,N/A,24,ford,MOBI,utilitario,economico, ,diesel,2,turismo,122826.19141091022,669946.4612830848,100,,48.0,140000,,N/A,05/10/2025,XXXX,11-1234-5678,
+191,New Way,carsharing_p2p,KINTO Share,2025,Kia,onixs,hatchback,economico,,diesel,2,,29320.33186885537,144272.2099238733,-50,,-2.0,80000, ,,02-04-2026,0000,,keko.com
+9727,Keko,alquiler_trabajo,Rentennials App,2023,Cittroen,208,mediano,mediano,,NAFTA,99, ,16417.247655895626,83693.04358106086,,$30000 USD,,140000,GBA,N/A,10/01/2026,XXXX,0800-KEKO,keko@keko
+193,Localiza,agregador_tradicional,N/A,2023,nissan,onixs,auto,COMPACTO, ,hibrido,5,alquiler_tradicional,8516.118098089148,34575.73905305086,cien,12000,4.0,80000,Cordoba,CERRÓ,03/10/2025,0000,11-1234-5678,
+194,Despegar,carsharing_p2p,,2024,BMW,C OROLA,Furgon,COMPACTO,,DIESEL,2,,,,ilimitado,20000,10.0,N/D,Cordoba,cerró en enero 2025,2025-11-05,CABA,123,info@
+195,MyKeego,alquiler_trabajo, ,2023-01-01,Volkswagen,Yaris,hatchback,COMPACTO,auto,gnc,4,mixto,,,100,35000,-2.0,15000,,activo,2025-11-03,0000,+54 11 1234-5678,info@
+196,Invernalia,agregador_tradicional,Kayak App,2024,Fiat,Siena,camioneta,COMPACTO,auto,electric,tres,personal,,,0,25000000,12.0,45mil,Córdoba,Cerró enero 2025,2025-07-06 11:08:31.762519,,sin telefono,
+197,Localiza,alquiler_trabajo,Localiza Mobile,2025,Volkswagen,Tracker,PickUp,COMPACTO,,electric,,remis,,,200,$30000000 USD,6.0,N/D,B.Aires, ,17/08/2025,BS AS,0800-KEKO,N/A
+198,Alamo,alquiler_trabajo,TripWip App,2024,FFord,gol,camioneta,mediano,cvt,gas,,alquiler_tradicional,"66.976,80",304421.44200198754,9999,30000,3.0,125.000,BuenosAires,cerró en enero 2025,2025-05-16 11:08:31.750324,CABA,+54 11 1234-5678,contacto@keko.com
+199,Sixt,carsharing_flota_propia,app,2024,TOYOTA,PPolo,camion,economico,Mecanica,electrico,-1,uber_trabajo,,,,12000,6.0,,Bariloche,dato no confirmado,2025-08-21 11:08:31.750803,BS AS,,keko@keko
+8146,Europcar,carsharing_flota_propia,Rentcars App,2024,chev,208,SUV,compacto,N/A,electrico,,,123848.1420048982,731206.432657084,-50,,48.0,,ROSARIO,,03/10/2025,,11-1234-5678,keko.com
+201,TripWip,renta_tradicional, ,2024,Hyundai,COROLA,mediano, compacto,automatica,nafta,6,uber_trabajo,108528.13738400835,453665.5590835669,200,22000,100.0,15000,CABA, ,02-24-2025,0000,+54 11 1234-5678,
+202,Budget,carsharing_p2p,app,2023-01-01,Peugeot,onixs,camion, compacto,N/A,n/a,99,turismo,"21.546,44",90368.74266274305,ILIMITADO,$35000 USD,-2.0,125000,ROSARIO,Alianza Uber,2025-06-21 11:08:31.753489,C1425,+54 11 1234-5678,
+203,Hertz,carsharing_p2p,MyKeego App,2023,Chevrolet,Corolla,auto,premium,,nafta,4,carga,123356.85081568087,509134.5757120206,,,48.0,125000,CABA,CERRÓ,2025-09-22 11:08:31.747462,C1425,123,
+204,  KINTO   ,  renta_tradicional  ,,,   vw,Uno    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,,,contacto@keko.com
+205,Rentc ars,agregador_tradicional,Rentennials App,23,toyota,Etius,furgon,mediano,,gnc,3,URBANO,29767.676088315508,149855309.9377946,0,20000,100.0,5000,Buenos Aires,Alianza Uber,04/02/2026,,sin telefono,keko.com
+206,Cactus Rent,carsharing_flota_propia,Hertz 24/7,24,Mercedes,Voyage,compacto,mediano ,automatico,diesel,5,urbano,124740.62728248522,606260.334415409,unlimited,18000,12.0,15000,BS AS,Activo,2025-04-26,XXXX,11-1234-5678,
+207,Europcar,agregador_tradicional,Rentennials App,,Peugeot,Versa,auto,premium,manual,NAFTA,cinco,uber_trabajo,143508.26552979465,823262.6953186301,-50,12000,1.0,15000,B.Aires,ACTIVO,2025-11-28,1000,+54 11 1234-5678,
+208,Sixt,carsharing_p2p,KINTO Share,,H onda,Etius,hatchback,COMPACTO,auto,híbrido,5,mixto,"176.174,05",976133.5697041078,100,20000000,48.0,140000, ,ACTIVO,2025-05-25 11:08:31.742477,C1000,11-1234-5678,usuario@gmail.com
+209,KINTO,carsharing_p2p,,2027,Toyota,Gol,,,,,7,,50000,10000,,,50,,,INCONSISTENTE,,,123,usuario@gmail.com
+210,DeRentas,alquiler_trabajo,web site,2024,ford,Mobii,suv,mediano,AUTOMATICO,diesel,-1,n/a,"142.033,76",627519.6502022309,0,50000,-2.0,125.000,BS AS,dato no confirmado,27/08/2025,0000,12345678,N/A
+211,Invernalia,alquiler_trabajo, ,2025,RENAULT,2008,Furgon,COMPACTO,cvt,electric,,taxi,8272.397763723542,44895.822242391536,150,25000,-2.0,80000,B.Aires,CERRÓ,2025-05-09 11:08:31.741459,C1425,123,contacto@keko.com
+212,Cactus Rent,carsharing_p2p, ,25,Honda,Etios,PickUp,premium,manual,gas,4,Uber,13254.151572532819,71781.85018019384,cien,,5.0,15000,Mendosa,verificar,2025-09-21,XXXX,11-1234-5678,usuario@gmail.com
+213,Hertz,alquiler_trabajo,web site,2023,toyota,oCrolla,mediano, compacto,,electrico,2,mixto,23469.805762848056,101092.54359216864,cien,,,45mil,Mendosa,cerró en enero 2025,03-20-2025,C1000,,N/A
+214,MyKeego,alquiler_trabajo,web site,2024,Ford,Polo,mediano,mediano ,AUTOMATICO,gas,6,personal,20423.566442609168,109810.66179184704,200,50000,,80000,Mar del Plata,verificar,2025-03-18,0000,sin telefono,usuario@gmail.com
+215,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1425,sin telefono,keko@keko
+216,Sixt,agregador_tradicional,MyKeego App,2023,vw,Renegade,sedan,compacto,manual,n/a,,Uer,,,150,25000,8.0,, ,cerró en enero 2025,2026-01-24 11:08:31.753894,0000,,keko@keko
+217,Kayak,renta_tradicional,KINTO Share,24,Volkswagen,Frontier,mediano,premium,AUTOMATICO,DIESEL,0,Uber,14873.187301321583,59946.58123896217,ilimitado,22000,5.0,125.000,B.Aires,Cerró enero 2025,01/12/2025,XXXX,11-1234-5678,
+5257,Invernalia,carsharing_flota_propia,TripWip App,2024-01-01,Jeep,MOBI,auto,grande,dsg,n/a,5,urbano,,,50 km,35000,1.0,125000,BS AS,dato no confirmado,2025-05-30 11:08:31.743089,0000,12345678,N/A
+219,KINTO,alquiler_trabajo,Keko App,2024,Peugeot,Polo,sedan,premium,MANUAL,híbrido,4,,"73.507,64",373186.0458386754,9999,,24.0,45mil,Córdoba,ACTIVO,2025-06-10 11:08:31.746776,BS AS,sin telefono,keko.com
+220,Europcar,alquiler_trabajo,app,2023-01-01,Peugeot,Bronco,camioneta,compacto,auto,NAFTA,-1,alquiler_tradicional,114121.8448689638,481453.1291223364,unlimited,18000,10.0,125.000,Barilochee, ,2025-09-13,XXXX,123,N/A
+2305,KINTO,agregador_tradicional,app,2023,Toyota,onixs,camion,mediano ,dsg,gnc,tres,taxi,16763.458993282828,88877.06561269567,200,35000,6.0,140000,B.Aires, ,11-19-2025,1000,0800-KEKO,
+222,Localiza,renta_tradicional,Rentcars App,2025,chev,A rgo,camion,COMPACTO,,,cinco,remis,154059.5169860229,804154.8920864769,50,15000,100.0,125.000,GBA,Expansión 2025,2025-06-04,C1425,,keko.com
+223,Sixt,alquiler_trabajo,Rentcars  App,2024,Renault,dos mil ocho,utilitario,mediano ,automatico,hibrido,5,mixto,"9.834,13",47832.2095695825,cien,25000,10.0,45000,B.Aires,dato no confirmado,2025-08-19,C1000,12345678,keko@keko
+224,Europcar,renta_tradicional,Localiza Mobile,2025,FIAT,yaris,HATCHBACK, compacto, ,,5,URBANO,11438.67584861986,53110.10366154865,,$12000 USD,2.0,80000,n/a, ,2026-01-12,0000,11-1234-5678,info@
+225,Despegar,CARSHARING_P2P,Avis  App,2023,Audi,cronnos,sedan,compacto,N/A,híbrido,cinco,remis,"8.561,27",48073.051928658315,50,35000,48.0,N/D,,activo,06-12-2025,C1425,,
+226,Sixt,renta_tradicional,web site,2025,peugeot,Maverick,sedan, compacto,mecánico,diesel,5,urbano,14270.891416320366,70687.33421774223,,12000,-2.0,15000,Barilochee,cerró en enero 2025,2025-08-31 11:08:31.753041,CABA,123,contacto@keko.com
+2692,KINTO,carsharing_flota_propia,web site,2025,nissan,Polo,mediano,mediano, ,híbrido,5,uber_trabajo,,,unlimited,22000,10.0,14K,Mar del Plata,Alianza Uber,27/03/2025,0000,sin telefono,keko.com
+228,Europcar,carsharing_p2p,KINTO Share,2025,Peugeot,Palio,compacto,premium,,diesel,6,URBANO,20758.135246098045,93739.02086189257,ILIMITADO,22000,1.0,N/D, ,Expansión 2025,08/07/2025,CABA,sin telefono,usuario@gmail.com
+7181,Rentennials,renta_tradicional,KINTO Share,2024-01-01,VW,gol,pickup,economico,,n/a,tres,personal,,,0,15000000,3.0,14K,Cordoba,verificar,2025-10-04,C1425,12345678,
+230,Alamo,renta_tradicional,,2024,Honda,Onix,hatchback,premium,N/A,gas,tres,taxi,,,0,25000,-2.0,5000,Bariloche,CERRÓ,2025-09-15,1425,+54 11 1234-5678,N/A
+231,Invernalia,carsharing_p2p,Alamo Web,2025,TOYOTA,COROLA,utilitario,mediano ,auto,gnc,-1,turismo,187467.2506072103,1080687.526909193,50,,48.0,125.000,ROSARIO,ACTIVO,09/11/2025,XXXX,sin telefono,N/A
+232,Localiz a,renta_tradicional,MyKeego App,2023,RENAULT,Fo,sedan,mediano ,,electrico,4,carga,19718.603175438955,84035.88652086475,50,15000000,5.0,15000,Mendosa,,31/07/2025,C1000,123,
+233,Her tz,carsharing_p2p,TripWip App,2025,Hyundai,Versa,utilitario,mediano,N/A,diesel,99,urbano,13059.807016455828,76049.65828211134,ILIMITADO,30000,0.5,125.000,B.Aires,CERRÓ,21/12/2025,CABA,12345678,N/A
+234,Despegar,carsharing_flota_propia,Kayak App,2025,RENAULT,Frontier,COMPACTO,grande,automatica,electrico,5,turismo,,,,12000,0.5,140000,Cordoba,verificar,07-29-2025,1425,,
+235,MyKeego,carsharing_flota_propia,Alamo Web,25,Hondda,Onix,suv,COMPACTO,automatica,DIESEL,4,urbano,75971.25591383196,390107.7272819344,200,15000,,"80,000",GBA,Activo,2025-07-05 11:08:31.750179,,123,keko@keko
+236,Sixt,agregador_tradicional,Rentennials App,2023,VW,Argo,suv,grande,,diesel,2,txi,115858.34929977164,554487.0928076267,200,15000,10.0,125000,Córdoba, ,2025-10-22 11:08:31.742662,,sin telefono,keko.com
+9944,Avis,renta_tradicional,,2024,TOYOTA,Cronos,PickUp,mediano,,híbrido,0,n/a,17686.463107301875,73056.3825097796,9999,,4.0,80000,GBA,activo,01-14-2026,C1425,+54 11 1234-5678,contacto@keko.com
+238,New Way,alquiler_trabajo,Kayak App,2024,peugeot,UP,suv,mediano ,cvt,NAFTA,-1,remis,157114.82609112706,927435.4272131055,50,20000,2.0,"80,000",BS AS,verificar,2025-03-20,1000,123,info@
+239,MyKeego,carsharing_p2p,,2019,Fiat,208,,,,,7,,100000,20000,,,25,,,INCONSISTENTE,,C1425,sin telefono,info@
+240,TripWip,alquiler_trabajo,APLICACION,,Nissan,Gol,Furgon,COMPACTO,Mecanica,electrico,-1, ,14137.081222959709,56641.83773407664,ilimitado,22000,0.5,5000,Mendosa, ,12-26-2025,1000,123,
+241,Alamo,alquiler_trabajo,Alamo Web,2023,TOYOTA,TRACKER,SUV,mediano , ,gas,-1,uber_trabajo,97320.70609330584,514960.6185301593,cien,35000,-2.0,80000,GBA,ACTIVO,2025-05-22 11:08:31.763872,,12345678,keko.com
+242,Kayak,agregador_tradicional,TripWip App,2024,Hyundai,onixs,SUV,mediano,manual,electric,5,remis,90515.40249972216,482858.64803689416,unlimited,22000,2.0,,Bariloche,Alianza Uber,26/08/2025,0000,12345678,
+243,FastGo,carsharing_flota_propia,DeeRentas Web,2025,Renault,Yaris,sedan,mediano,cvt,electrico,5,URBANO,20208.399688052592,119076.56504956949,0,25000,6.0,125.000,n/a,ACTIVO,2025-12-17,XXXX,,contacto@keko.com
+244,Alamo,carsharing_p2p,Keko App,2025,nissan,ARGO,mediano, compacto,AUTOMATICO,hibrido,5,mixto,,,0,12000,,N/D,,activo,2025-04-11,C1000,sin telefono,keko.com
+245,TriWpip,carsharing_p2p,APLICACION,2023,Fiat,Renegade,hatchback,COMPACTO,cvt,híbrido,,mixto,13892.69834645526,62155.34088478657,9999,22000,48.0,125000,B.Aires,Activo,2025-07-29 11:08:31.751063,C1425,0800-KEKO,keko@keko
+246,Invernalia,alquiler_trabajo,N/A,2024,fiat,onixs,HATCHBACK,compacto,,,0,uber_trabajo,-108982.87976670601,508686.80187577667,200,22000,12.0,45mil,B.Aires,Expansión 2025,2025-02-19 11:08:31.745468,C1425,12345678,N/A
+6580,Herrtz,AGREGADOR_TRADICIONAL,Localiza Mobile,2023,chev,208,auto,COMPACTO,automatico,nafta,0,n/a,206327.2804743965,946403.146251287,150,30000,100.0,140000,GBA, ,2025-12-29 11:08:31.755271,1425,,N/A
+248,Rentcars,renta_tradicional,KINTO Share,2024,chev,Yaris,auto,economico,,nafta,cinco,remis,121487.14153207478,692436252.1087673,50,20000,0.5,"80,000",Buenos Aires,Cerró enero 2025,2025-07-22 11:08:31.750841,,sin telefono,keko@keko
+249,Hertz,agregador_tradicional,app,2024,chev,Palio,camion,COMPACTO,MANUAL,diesel,5,remis,35297.33562417453,193100.50867253685,-50,12000,10.0,125.000,Bariloche,Expansión 2025,09-18-2025,CABA,123,
+250,Keko,carsharing_p2p,,2020,Fiat,208,,,,,1,,50000,20000,,,50,,,INCONSISTENTE,,CABA,,usuario@gmail.com
+251,KINTO,alquiler_trabajo,DeRentas Web,2023,Hyundai,Yaris,suv, compacto,,NAFTA,0,alquiler_tradicional,135795.8866555445,740414.9709407307,9999,22000000,-2.0,5000,BuenosAires,Expansión 2025,04-14-2025,BS AS,12345678,info@
+252,Cactus Rent,carsharing_flota_propia,N/A,2024,Nissan,Etios,moto,grande, ,gas,tres,na,116345.31885178834,517846.0997408023,200,50000,24.0,45mil,GBA,Alianza Uber,2025-04-08,C1000,+54 11 1234-5678,N/A
+253,Budget,agregador_tradicional,app,2025,Kia,Bronco,compacto,economico,auto,DIESEL,5,,17810.986255256827,82916.97108554606,50,12000,5.0,14K,ROSARIO,cerró en enero 2025,2025-10-11 11:08:31.760999,,sin telefono,contacto@keko.com
+254,New Wy,agregador_tradicional, ,2025,VW,Maverick,sedan,compacto,auto,NAFTA,0,URBANO,"23.248,40",127258.26748842007,100,50000,100.0,80000,Mar del Plata,,06-18-2025,XXXX,,keko.com
+255,Budget,alquiler_trabajo,MyKeego App,2025,Renaault,Fox,Furgon,COMPACTO,Mecanica,,2,uber_trabajo,12832.538496180536,65846.54204725169,50 km,35000,1.0,"80,000",Barilochee,ACTIVO,02/10/2025,CABA,0800-KEKO,usuario@gmail.com
+256,Despegar,alquiler trabajo,Alamo Web,2024,VW,Kangoo,grande,economico, ,DIESEL,5,Uber,,,200,15000,48.0,,GBA,PENDIENTE,2025-04-29 11:08:31.741961,CABA,,keko.com
+3209,Avis,carsharing_p2p,Alamo Web,2025,Audi,Uno,suv,compacto,Mecanica,NAFTA,-1,bUer,9666.281429299452,54084.20662144471,150,$15000 USD,10.0,N/D,BS AS,Alianza Uber,28/05/2025,C1425,123,keko.com
+258,Rentcars,carsharing_flota_propia,Rentennials App,2024,Fiat,Palio,auto,mediano,MANUAL,gas,0,URBANO,153282.05206038043,637101.4173807217,,30000,48.0,80000,Mendoza,PENDIENTE,2025-03-09,XXXX,11-1234-5678,usuario@gmail.com
+259,  Sixt   ,  carsharing_p2p  ,,,   Volkswagen,2008    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1000,12345678,usuario@gmail.com
+260,Avis,carsharing_flota_propia,APLICACION,2023,TOYOTA,i01,HATCHBACK,premium,dsg,hibrido,6,turismo,18596.605088712433,107986.90419549977,50 km,22000,4.0,15000,n/a, ,2025-05-10,BS AS,sin telefono,usuario@gmail.com
+261,Invernalia,CARSHARING_FLOTA_PROPIA,Keko App,2025,Toyota,Uno,sedán,mediano,dsg,n/a,5,turismo,,,150,15000000,4.0,45000,CABA,PENDIENTE,2025-08-25,,12345678,N/A
+262,Localiza,renta_tradicional,,2024,Chevrolet,trackers,camioneta,mediano ,manual,n/a,4,personal,9952.315442666693,50901.74550128587,ilimitado,50000,,15000,"Mendoza, Argentina",Expansión 2025,19/04/2025,C1000,12345678,info@
+263,Europcar,agregador_tradicional,APLICACION,2024,CHEV,Foox,camioneta,economico,cvt,hibrido,3,urbano,146002.82905309388,723113.5127737765,cien,,1.0,5000,BuenosAires,CERRÓ,21/09/2025,CABA,12345678,usuario@gmail.com
+264,KINTO,carsharing_flota_propia,Kayak App,2025-01-01,Citroen,UP,Furgon,grande,,diesel,5,remis,27687.502563362017,152623.44922798462,ILIMITADO,,4.0,14K,Mendosa,,10/12/2025,C1000,11-1234-5678,
+265,Invernalia,alquiler_trabajo,MyKeego App,2025,Honda,208,mediano,COMPACTO,AUTOMATICO,diesel,4,taxi,149419.12637527444,706817.0103652023,50,18000000,5.0,80000,ROSARIO, ,16/01/2026,1425,12345678,contacto@keko.com
+266,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,12345678,info@
+267,Invernalia,carsharing_p2p,Kayak App,23,Toyota,Corolla,pickup,COMPACTO, ,electrico,99,uber_trabajo,172098.4242853848,974904.1551115093,-50,,48.0,5000,ROSARIO,PENDIENTE,2025-12-31,BS AS,sin telefono,info@
+268,DeRentas,alquiler_trabajo,Kayak App,,Renault,Yaris,camioneta,mediano ,dsg,nafta,tres, ,,,unlimited,$50000 USD,12.0,125.000,Barilochee,activo,2025-10-23 11:08:31.754542,C1425,+54 11 1234-5678,N/A
+269,TripWip,carsharing_p2p,Rentcars App,2025,Audi,Bronco,utilitario,compacto,,electrico,4,n/a,195303.78027198298,797900.5080902424,200,25000,12.0,14K,Rosario,PENDIENTE,2025-11-26,1000,12345678,
+270,MyKeego,renta_tradicional,,2023,Citroen,Bronco,sedan,economico,automatica,híbrido,0,,142060.27770847405,643128.0568725406,50,30000000,8.0,"80,000",Mendoza,Activo,2025-03-01 11:08:31.764197,,,
+271,Rentennials,alquiler_trabajo,APLICACION,2023,peugeot,Gol,auto,mediano,auto,NAFTA,5,Uber,163974.59187951262,805589.3544058562,,25000,1.0,45000, ,PENDIENTE,09-21-2025,CABA,sin telefono,keko.com
+272,FastGo,alquiler_trabajo,DeRentas Web,2024,Mercedes,gol,utilitario,economico,N/A,diesel,6,turismo,21951.945525458963,111716.18944717379,150,22000,5.0,N/D,Barilochee,CERRÓ,2025-05-05,BS AS,,
+273,DeRentas,agregador_tradicional,MyKeego App,2024,FIAT,Siena,hatchback,premium,AUTOMATICO,gas,99,Uber,12501.16608024603,65810.87641503586,,15000,6.0,,Cordoba,Expansión 2025,2025-05-19 11:08:31.764354,C1425,0800-KEKO,
+274,Test,,,,,,,,,,,,0.01,0.05,,,,,,TEST,,1425,0800-KEKO,keko.com
+275,Rentcars,agregador_tradicional,Alamo Web,2024,Renault,Voyage,moto,compacto,cvt,diesel,3,,212329.9220927849,861612.8091975087,unlimited,25000,100.0,14K, ,Expansión 2025,22/02/2025,1425,sin telefono,usuario@gmail.com
+276,Rentennials,agregador_tradicional,N/A,2025,BMW,Argo,camion,mediano,automatico,,6,mixto,147676.77934980238,688645.3834121322,50 km,20000,48.0,"80,000", ,Cerró enero 2025,03/06/2025,CABA,123,keko.com
+277,Invernalia,agregador_tradicional,Kek oApp,2025,Nissan,Yaris,camion,economico,automatica,DIESEL,99,personal,,,ILIMITADO,,12.0,14K,BuenosAires,Activo,03-09-2025,C1425,,contacto@keko.com
+278,KINTO,carsharing_p2p,Alamo Web,2025,Jeep,trackers,sedán,premium,manual,hibrido,4,taxi,$145384,766111.739602239,ilimitado,35000,10.0,45000,n/a,Activo,21/07/2025,C1000,12345678,info@
+279,Sixt,carsharing_flota_propia,KINTO Share,25,Renault,Mobi,hatchback,mediano ,MANUAL,NAFTA,cinco,alquiler_tradicional,119738.37258719296,526507.0984542673,50,35000,3.0,,Córdoba,activo,2025-07-26,,123,usuario@gmail.com
+280,TripWip,renta_tradicional,Localiza Mobile,2024,Toyota,Bronco,hatchback,mediano ,automatico,nafta,cinco,taxi,108587.89564406285,446031.75402154465,100,18000,24.0,N/D,"Córdoba, Argentina",Expansión 2025,03/12/2025,XXXX,0800-KEKO,contacto@keko.com
+1691,New Way,carsharing_flota_propia,,2024,TOYOTA,crnnos,compacto, compacto, ,n/a,99,uber_trabajo,-13291.32642902619,58532.08628207968,cien,22000,6.0,N/D,Córdoba,Activo,03/10/2025,1000,11-1234-5678,contacto@keko.com
+282,New Way,renta_tradicional,Rentcars App,2024,RENAULT,UP,mediano,premium,auto,NAFTA,cinco,alquiler_tradicional,93771.21011322447,417265.54001194565,200,25000,8.0,,Mendosa,N/A,2025-07-31 11:08:31.759408,0000,sin telefono,N/A
+283,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,sin telefono,
+284,Keko,carsharing_p2p,APLICACION,2025,peugeot,Toro,PickUp,grande,mecánico,gnc,tres,carga,20272.624037406546,115875.13515503315,100,20000,1.0,5000,BS AS,cerró en enero 2025,2026-01-31 11:08:31.749100,0000,123,
+3080,Avis,carsharing_p2p,KINTO Share,2023,Ford,Bronco,mediano,economico,dsg,diesel,2,Uber,-22889.997757672798,111281.41811435958,unlimited,35000,3.0,5000,GBA,dato no confirmado,2025-11-16 11:08:31.757510,CABA,12345678,N/A
+286,Cactus Rent,carsharing_p2p,Alamo Web,2025,Mercedes,Etius,grande,compacto,dsg,electrico,99,mixto,$23051,110224.54361494638,cien,20000,0.5,140000,CABA,dato no confirmado,03-11-2025,C1000,0800-KEKO,contacto@keko.com
+287,Kayak,carsharing_p2p,,2023,chev,COROLA,camion,compacto,automatico,gas,tres,remmis,"15.348,26",61574.19681140707,50,,48.0,125.000,Mendoza,verificar,21/03/2025,0000,11-1234-5678,usuario@gmail.com
+288,Avis,agregador_tradicional,Avis App,2025,Honda,Etius,mediano,premium,N/A,híbrido,4,Uber,106237.16469913723,490156.814386249,cien,,8.0,,Rosario,CERRÓ,2025-11-17 11:08:31.753411,1425,123,info@
+13089,Cactus Rent,carsharing_flota_propia,Rentennials App,2023,chev,Suburban,suv,economico,N/A,NAFTA,5,uber_trabajo,"26.524,85",150313.07166133515,ILIMITADO,18000000,3.0,125000,,ACTIVO,17/04/2025,0000,12345678,keko.com
+290,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,0800-KEKO,usuario@gmail.com
+291,Keko,carsharing_flota_propia,Localiza Mobile,2025,Renault,Versa,sedan,mediano ,automatico,electric,, ,18281.169574253563,101624.74909636514,unlimited,,-2.0,80000,Bariloche,Expansión 2025,2025-08-01 11:08:31.747281,C1425,sin telefono,usuario@gmail.com
+292,Alamo,renta_tradicional,KINTO Share,2025-01-01,Renault,Tracker,moto,mediano ,manual,DIESEL,0,personal,29992.52978649647,128307.97746023598,ILIMITADO,15000,-2.0,14K,Buenos Aires,,2025-11-02 11:08:31.763051,BS AS,123,contacto@keko.com
+293,Keko,agregador_tradicional,,2023,BMW,Toro,furgon,compacto,automatica,gas,6,n/a,"109.981,28",561257.9283636606,unlimited,25000,3.0,,Mendoza,ACTIVO,24/04/2025,0000,11-1234-5678,info@
+294,DeReentas,renta_tradicional,Rentcars App,24,vw,Fox,Furgon,economico,auto,diesel,4,carga,-12312.096942557659,67416.07753436526,150,25000,2.0,5000, ,verificar,12/06/2025,1425,sin telefono,keko.com
+295,FastGo,agregador_tradicional,,2023,Chevrolet,trackers,furgon,COMPACTO,mecánico,híbrido,tres,urbano,"11.219,90",45542.81447188002,-50,20000,4.0,,B.Aires,Expansión 2025,2025-02-16,C1000,12345678,info@
+296,  New Way   ,  alquiler_trabajo  ,,,   vw,2008    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1000,sin telefono,keko@keko
+297,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,0800-KEKO,keko.com
+298,MyKeego,alquiler_trabajo,KINTO Share,2024,nissan,Polo,sedan,economico,,gas,99,Uber,13481.163290560407,75599579.96609749,cien,,3.0,45000,Barilochee,Activo,12/03/2025,C1425,,contacto@keko.com
+6278,FastGo,alquiler_trabajo,Kayak App,2023,Jeep,Partner,furgon,compacto,manual,gas,tres,URBNAO,$161932,872640.3449579347,0,20000,-2.0,15000,GBA,,07-11-2025,C1425,sin telefono,keko@keko
+300,rENTENNIALS,renta_tradicional,DeRentas Web,2023,Honda,onixs,sedán,compacto,Mecanica,,0,,"16.782,70",70982.1154602135,ILIMITADO,35000,1.0,14K,B.Aires,CERRÓ,2025-09-02 11:08:31.759777,C1000,11-1234-5678,
+301,Europcar,carsharing_flota_propia,DeRentas Web,2024,Renault,Tracker,furgon,mediano , ,diesel,cinco,personal,18796.221958475802,90631.59323470568,-50,18000000,3.0,45mil,Barilochee,activo,16/03/2025,C1000,123,keko@keko
+302,Europcar,carsharing_flota_propia,MyKeego App,2023,peugeot,UP,utilitario, compacto,,electrico,99,alquiler_tradiciional,218160.04502477878,1111981.503653247,unlimited,30000,5.0,125000,,verificar,12-22-2025,BS AS,,usuario@gmail.com
+4816,udget,carsharing_flota_propia,app,2023,RENAULT,Etios,sedan, compacto,AUTOMATICO,,,taxi,32152.786226658474,140070.5778100109,150,35000,4.0,45000,n/a,Alianza Uber,2026-01-26,,123,
+304,Invernalia,carsharing_p2p,Localiza Mobile,2025,Peugeot,Toro,Furgon,compacto,manual,electric,tres,n/a,12786.085046008342,63716.84547181121,9999,20000000,24.0,14K,GBA,cerró en enero 2025,28/08/2025,BS AS,,keko.com
+305,Invernalia,agregador_tradicional,APLICACION,25,Renault,Toro,auto,economico,Mecanica,n/a,2, ,,,100,22000,5.0,125000,Buenos Aires,Cerró enero 2025,2025-04-18 11:08:31.759444,,11-1234-5678,
+306,Rentcars,CARSHARING_P2P, ,2025,ffiat,trackers,furgon,compacto,manual,gas,cinco,URBANO,"14.157,70",76047.78501871155,ILIMITADO,50000,3.0,140000,Mendoza,activo,07/12/2025,C1425,,info@
+307,MyKeego©,,,,Toyota€,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,0000,,
+308,Keko,carsharing_p2p,,2027,Toyota,208,,,,,10,,100000,10000,,,25,,,INCONSISTENTE,,,123,contacto@keko.com
+7942,Rentennials,,,,,,,,,,,,,,,,,muchos,,FORMATO INCORRECTO,ayer,BS AS,12345678,N/A
+310,Cactus Rent,carsharing_p2p,web site,2024,Kia,Gol Trend,auto,mediano,,,-1,mixto,174877.9007460726,999007.7047099565,0,30000,-2.0,5000,Mendosa,PENDIENTE,2025-04-15 11:08:31.760724,1425,0800-KEKO,info@
+311,Rentennials,renta_tradicional,Kayak App,2024,Citroen,dos mil ocho,grande,premium,manual,gnc,tres,re mis,15382.399047082139,68902.2547417828,50,50000,,45mil,GBA,Alianza Uber,2025-06-05,1425,12345678,
+312,Cactus Rent,alquiler_trabajo,Alamo Web,2023,FIAT,Gol,suv,economico,automatica,hibrido,4,alquiler_tradicional,,,0,20000,2.0,5000,,verificar,15/03/2025,1425,11-1234-5678,info@
+313,Avis,carsharing_p2p,TripWip App,2025,VW,COROLA,furgon, compacto,,electrico,2,mixto,,,0,,,45mil,Córdoba,CERRÓ,2025-06-22 11:08:31.740002,0000,11-1234-5678,
+314,New Way,carsharing_p2p,MyKeego App,2025,Peugeot,Siena,grande,economico,manual,n/a,5,urbano,13415.626649012216,70441.87792330897,100,25000,12.0,5000, ,CERRÓ,2025-05-07 11:08:31.743882,CABA,+54 11 1234-5678,keko@keko
+315,Hertz,carsharing_flota_propia,Despegar Autos,2023,Hyundai,onixs,compacto,COMPACTO,MANUAL,gnc,tres,Uber,$8630,41309.00504641293,,$35000 USD,2.0,140000,Bariloche,ACTIVO,2025-08-02 11:08:31.741427,0000,123,keko@keko
+2228,New Way,renta_tradicional,KINTO Share,2023,peugeot,Renegade,PickUp,compacto,mecánico,electrico,3,personal,"100.820,37",417995.8190092227,unlimited,35000,6.0,N/D,B.Aires,dato no confirmado,2025-08-13,C1000,sin telefono,
+317,Cactus Rent,agregador_tradicional,,2023,peugeot,Onix,mediano, compacto,AUTOMATICO,electrico,0,taxi,,,0,12000,3.0,45000,Bariloche,verificar,2025-09-05 11:08:31.746853,BS AS,123,keko@keko
+318,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1425,,keko@keko
+319,Kayak,carsharing_p2p,,2023,chev,COROLA,camion,compacto,automatico,gas,tres,remmis,"15.348,26",61574.19681140707,50,,48.0,125.000,Mendoza,verificar,21/03/2025,BS AS,,
+320,Cactus Rent,carsharing_flota_propia,Avis App,2024,Chevrolet,Polo,sedán,COMPACTO,cvt,gnc,5,URBANO,10278.0396714592,53828.386075566064,9999,15000,3.0,N/D,ROSARIO,Activo,10/06/2025,0000,12345678,contacto@keko.com
+321,Sixt,carsharing_flota_propia,Despegar Autos,2025,Vokswagen,Foox,camioneta, compacto,dsg,DIESEL,99, ,35253.27640983949,148510113.84667203,100,35000,0.5,N/D,,dato no confirmado,2025-03-27 11:08:31.747370,CABA,0800-KEKO,keko.com
+322,Hertz,carsharing_flota_propia,Keko App,2025,Volkswagen,Voyage,CAMION,economico,auto,NAFTA,cinco,/na,"14.451,14",81106.24434017963,200,12000,1.0,80000,Rosario,PENDIENTE,16/06/2025,1000,,
+7935,Alamo,alquiler_trabajo,MyKeego App,2023,Ford,Yaris,compacto,compacto,dsg,gas,5,alquiler_tradicional,16304.048077644931,65224.237395714925,0,20000,5.0,"80,000","CABA, Argentina",,28/03/2025,1425,+54 11 1234-5678,keko@keko
+324,Europcar,renta_tradicional,Hertz 24/7,2024,tOYOTA,Kicks,moto,mediano,AUTOMATICO,diesel,0,Uber,,,9999,,100.0,45000, ,activo,2026-01-12 11:08:31.747321,0000,0800-KEKO,keko@keko
+325,Invernalia,agregador_tradicional,DeRentas Web,2024,Chevrolet,UP,PickUp,grande,manual,gas,4,Uber,92384.44993823816,534451.4933886747,9999,,24.0,N/D,n/a, ,2025-04-28 11:08:31.763258,C1000,0800-KEKO,N/A
+326,  Kayak   ,  carsharing_flota_propia  ,,,   chev,Versa    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,XXXX,12345678,keko.com
+327,Alamo,carsharing_p2p,APLICACION,23,FORD,i10,camion, compacto,cvt,,4,mixto,25413.157703988414,103741.59122753149,unlimited,25000,10.0,"80,000",Bariloche,Alianza Uber,2025-05-14 11:08:31.750451,,11-1234-5678,contacto@keko.com
+328,Keko,,,,,,,,,,,,9999999,99999999,,,,,,ERROR DE CARGA,,,11-1234-5678,contacto@keko.com
+329,Hertz,carsharing_p2p,FastGo App,2023,Kia,Etius,camion,COMPACTO,dsg,NAFTA,5,personal,106208.27799034576,610625.164630555,cien,22000,,125.000,Mar del Plata,,2025-02-09,0000,123,info@
+330,Hertz,agregador_tradicional, ,2025,vw,Siena,grande,premium,automatico,gnc,, ,103547.76339239626,516559.7193290734,,,-2.0,80000,"n/a, Argentina",,24/12/2025,C1425,sin telefono,keko@keko
+331,Despegar,carsharing_p2p,Kayak App,2023,Nissan,Tracker,moto,COMPACTO,,DIESEL,99, ,"10.319,49",51308.302467525995,cien,18000,12.0,15000,BuenosAires,activo,2025-07-04 11:08:31.739566,C1000,,keko.com
+332,MyKeego,agregador_tradicional,app,2025,udi,Fox,hatchback, compacto,Mecanica,nafta,2,urbano,,,,35000,0.5,80000,Rosario,cerró en enero 2025,2026-02-05,BS AS,123,
+333,Despegar,carsharing_p2p,web site,2023,Audi,go l,utilitario,grande, ,diesel,4,carga,$157724,943127.0122921884,ilimitado,25000,100.0,125.000,,Activo,2025-05-16,XXXX,123,usuario@gmail.com
+334,Europcarr,agregador_tradicional,TripWip App,2023,Honda,Versa,PickUp,mediano,automatica,n/a,2,urbano,21167.85592639391,99059.2556398803,9999,35000,8.0,5000,B.Aires,Alianza Uber,03/07/2025,0000,0800-KEKO,keko@keko
+335,Avis,alquiler_trabajo,Kayak App,2023,renault,Versa,moto,compacto, ,diesel,4,turismo,20719.364179776232,94291.0579700021,9999,12000,100.0,80000,Mar del Plata,,10-22-2025,,0800-KEKO,usuario@gmail.com
+336,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1000,11-1234-5678,keko.com
+337,Keko,carsharing p2p,N/D,2024,Mercedes,Tracker,pickup,COMPACTO,manual,n/a,5,n/a,,,unlimited,15000,0.5,N/D,,N/A,09/07/2025,1000,sin telefono,
+338,DeRentas,agregador_tradicional,Rnetennials App,2024,Peugeot,Oinx,pickup, compacto,MANUAL,híbrido,-1,,22040.279726117627,103030.0727748291,cien,50000,5.0,15000,"Mendoza, Argentina",Cerró enero 2025,04-26-2025,1425,123,usuario@gmail.com
+339,Avis,renta_tradicional,,2023,Toyota,i10,camion,compacto,cvt,n/a,0, ,11476.449205890884,59222.523196634975,ILIMITADO,25000,1.0,"80,000","Córdoba, Argentina",Activo,2025-10-03,C1425,sin telefono,keko.com
+340,MyKeego,carsharing_p2p,KINTO Share,2024,Mercedes,Kicks,grande,grande,MANUAL,electric,tres,uber_trabajo,12008.26334642137,66840.41333031407,unlimited,,,15000,"Mar del Plata, Argentina",,2025-04-03,,12345678,usuario@gmail.com
+341,Invernalia,renta_tradicional,app,2023,c hev,Etios,moto,grande,N/A,híbrido,0, ,12545.849096043283,62603.16097026421,9999,30000,100.0,125000,"Cordoba, Argentina", ,2025-11-07 11:08:31.753079,XXXX,12345678,N/A
+342,Kayak,renta tradicional,APLICACION,2023,fi at,Etios,Furgon,mediano, ,diesel,5,uBER,138900.4223635783,807681.2806386454,50 km,18000000,8.0,125000,"Mendosa, Argentina",activo,2025-09-12 11:08:31.759327,1000,11-1234-5678,contacto@keko.com
+343,Cactus Rent,carsharing_flota_propia,DeRentas Web,2024,chev,Bronco,moto,premium,,gas,3,remis,21099.100604937703,87349.17138108067,50 km,,12.0,80000,Córdoba,ACTIVO,2025-09-07,1425,123,N/A
+344,Europcar,carsharing_flota_propia,Kayak App,2024-01-01,Renault,Kangoo,grande,mediano,dsg,híbrido,3,alquiler_tradicional,,,unlimited,35000,100.0,125000,Mendoza,PENDIENTE,2025-10-26 11:08:31.750141,XXXX,sin telefono,info@
+345,Rentennials,carsharing_flota_propia,Localiza Mobile,2024,VW,Gol,PickUp,grande,automatico,NAFTA,4,taxi,111731.11484769003,638954.9799362989,-50,15000,5.0,45000,GBA,Expansión 2025,2025-03-18,C1000,,keko@keko
+346,KINTO,alquiler_trabajo,Rentennials App,2024,Jeep,onixs,camion,mediano ,,gas,cinco,uber_trabajo,17626.995355930256,72995.43412292638,ilimitado,50000,3.0,125000,Córdoba,activo,02/10/2025,C1000,0800-KEKO,keko.com
+347,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,sin telefono,usuario@gmail.com
+348,TripWip™,,,,Volkswagenñ,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,1000,12345678,keko.com
+349,  Budget   ,  alquiler_trabajo  ,,,   ford,2008    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,XXXX,123,N/A
+350,F atsGo,alquiler_trabajo,app,2025,Renault,Cronos,sedán,COMPACTO,Mecanica,n/a,cinco,URBANO,126857.14186461328,709712.6520970633,150,25000,5.0,80000,ROSARIO,PENDIENTE,11-12-2025,,0800-KEKO,usuario@gmail.com
+4491,Europcar,carsharing_flota_propia,MyKeego App,2023,ford,Bronco,SUV,mediano,dsg,DIESEL,cinco,mixto,121220.76276039069,603458.1603049324,50 km,35000,48.0,140000,ROSARIO,cerró en enero 2025,19/06/2025,0000,+54 11 1234-5678,keko@keko
+352,KINTO,alquiler_trabajo,Keko App,2024,Peugeot,Polo,sedan,premium,MANUAL,híbrido,4,,"73.507,64",373186.0458386754,9999,,24.0,45mil,Córdoba,ACTIVO,2025-06-10 11:08:31.746776,1000,12345678,contacto@keko.com
+353,Budget,carsharing_flota_propia,Avis App,2024,toyota,Uno,sedan,economico,,gnc,4,,122911.92581981474,690761.2779387257,unlimited,18000,-2.0,,Mar del Plata,Alianza Uber,2025-09-18 11:08:31.748334,CABA,+54 11 1234-5678,usuario@gmail.com
+354,Alamo,agregador_tradicional,Kayak App,2025,Fiat,Onix,hatchback,mediano ,,gnc,tres,,,,-50,20000,2.0,45mil,Barilochee,Alianza Uber,2025-10-20,XXXX,123,usuario@gmail.com
+355,Europcar,carsharing_flota_propia,app,24,VW,Uno,SUV,premium,mecánico,híbrido,2,Uber,105577.96210188203,582646.7544439961,,$25000 USD,3.0,14K,Bariloche,ACTIVO,11/07/2025,BS AS,sin telefono,keko.com
+356,Alamo,RENTA_TRADICIONAL,MyKeego App,2025,TOYOTA,UP,compacto,mediano, ,nafta,5,remis,"18.778,15",92158.1416417846,150,,6.0,125000,Cordoba,PENDIENTE,2025-12-12 11:08:31.756454,C1000,123,
+357,Cactus Rent,agregador_tradicional, ,2025,TOYOTA,Renegade,PickUp, compacto,auto,hibrido,4,taxi,14676.924332938996,70813.60623639585,50,18000,48.0,N/D,Bariloche,N/A,18/07/2025,BS AS,12345678,contacto@keko.com
+358,DeRentas,CARSHARING_FLOTA_PROPIA,Despegar Autos,2023,TOYOTA,Frontier,pickup,grande,automatico,nafta,5,mixto,,,,18000,0.5,N/D,Buenos Aires,N/A,06-22-2025,C1000,12345678,
+359,TripWip,alquiler_trabajo,web site,2025,Ford,Gol,grande,mediano ,dsg,DIESEL,2, ,187367.93223197456,825388.7601106919,0,50000,6.0,125.000,BuenosAires,ACTIVO,03-27-2025,1425,123,info@
+360,FastGo,renta_tradicional,Hertz 24/7,23,hYUNDAI,2008,camion,mediano,cvt,electrico,4, ,182212.8781837409,816801.9442897178,50,,5.0,"80,000", ,Cerró enero 2025,2025-03-09 11:08:31.747576,BS AS,+54 11 1234-5678,keko@keko
+361,Cactus Rent,alquiler_trabajo,Avis App,2024,ford,Trackerr,camion,compacto,auto,,3, ,,,ILIMITADO,22000,1.0,N/D,Barilochee,PENDIENTE,2025-03-28,BS AS,12345678,keko.com
+362,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1000,sin telefono,info@
+363,Localiza,carsharing_flota_propia,APLICACION,23,Kia,i10,PickUp,mediano,automatica,gnc,tres,remis,191222.37065184707,968677.2531706411,cien,,,5000,Rosario,cerró en enero 2025,23/12/2025,,+54 11 1234-5678,contacto@keko.com
+364,Invernalia,carsharing flota propia,,2024,Peugot,Siena,Furgon,mediano ,,DIESEL,,alquiler_tradicional,12363.819159180814,64766.050391795936,50,30000,,45mil,Mar del Plata,verificar,2025-05-03 11:08:31.742760,,0800-KEKO,contacto@keko.com
+365,  Keko   ,  agregador_tradicional  ,,,   Ford,Polo    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1000,11-1234-5678,info@
+366,KINTO,carsharing_p2p,MyKeego App,2024,Jeep,Gol,grande,premium,mecánico,diesel,2,alquiler_tradicional,17398.243835141107,82550.38841227556,unlimited,50000,8.0,5000,Bariloche,activo,03/07/2025,C1000,0800-KEKO,contacto@keko.com
+4070,Sixt,carsharing_flota_propia,KINTO Share,25,Renault,Mobi,hatchback,mediano ,MANUAL,NAFTA,cinco,alquiler_tradicional,119738.37258719296,526507.0984542673,50,35000,3.0,,Córdoba,activo,2025-07-26,,12345678,
+2978,Rentennials,carsharing_p2p,TripWip App,2024,Nissan,2008,PICKUP,grande,mecánico,hibrido,6,,168236.85206658058,702115.651990643,ILIMITADO,18000,4.0,45mil,BS AS,ACTIVO,2026-01-23 11:08:31.742438,C1000,,usuario@gmail.com
+369,Rentcars,carsharing_flota_propia,MyKeego App,2025,peugeot,Renegade,pickup,economico,auto,hibrido,6,carga,-12649.358210779785,58792.74803954144,ilimitado,22000,5.0,140000,Córdoba,ACTIVO,09/01/2026,,,usuario@gmail.com
+370,MyKeego,renta_tradicional,APLICACION,2023,Peugeot,yaris,hatchback,premium,MANUAL,híbrido,cinco,uber_trabajo,$121222,604045.2403459587,-50,22000000,12.0,15000,BS AS,N/A,22/12/2025,1425,11-1234-5678,keko.com
+371,TripWip,carsharing_p2p,APLICACION,2023,Fiat,Renegade,hatchback,COMPACTO,cvt,híbrido,,mixto,13892.69834645526,62155.34088478657,9999,22000,48.0,125000,B.Aires,Activo,2025-07-29 11:08:31.751063,1000,sin telefono,keko@keko
+372,Keko,agregador_tradicional,KINTO Share,2023,Hyundai,COROLA,PickUp,premium,manual,diesel,-1,,106017.89618869002,572793.8634436531,50,18000000,24.0,140000,Bariloche,cerró en enero 2025,11-26-2025,XXXX,123,contacto@keko.com
+373,Sixt,carsharing_flota_propia,Hertz 24/7,2025,toyota,Etios,HATCHBACK, compacto,N/A,electrico,4,URBANO,,,ilimitado,,10.0,125000,Rosario,verificar,14/07/2025,0000,+54 11 1234-5678,contacto@keko.com
+374,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,+54 11 1234-5678,keko@keko
+375,Budget,carsharing_flota_propia,TripWip App,2024-01-01,RENAULT,Bronco,sedan,mediano,AUTOMATICO,NAFTA,,mixto,,,200,,4.0,"80,000",Córdoba,Alianza Uber,09-17-2025,BS AS,,
+376,DeR entas,carsharing_flota_propia,MyKeego App,2025,Citroen,Gol Trend,Furgon,mediano ,cvt,diesel,4,Uber,-14088.189600086462,83593.43871747937,-50,35000,6.0,"80,000",Mendosa,N/A,10-08-2025,XXXX,11-1234-5678,keko.com
+377,DeRentas,carsharing_flota_propia,Rentennials App,2025,peugoet,Gol Trend,Furgon,premium,manual,electrico,tres,Uber,95631.46533370485,530208.5470139221,ILIMITADO,12000,48.0,125.000,Cordoba,Alianza Uber,22/06/2025,1000,12345678,keko.com
+7886,Localiza,carsharing_p2p,Kayak App,2023,Audi,Argo,moto,grande,manual,híbrido,5,alquiler_tradicional,104284.5071496111,586268.3781400371,50 km,15000,4.0,14K,"BuenosAires, Argentina",Expansión 2025,2025-05-17,1425,11-1234-5678,keko@keko
+379,Avis,renta_tradicional,,2024,TOYOTA,Cronos,PickUp,mediano,,híbrido,0,n/a,17686.463107301875,73056.3825097796,9999,,4.0,80000,GBA,activo,01-14-2026,XXXX,123,keko.com
+380,TipWip,carsharing_flota_propia,MyKeego App,2023,Renault,trac kers,utilitario,economico, ,electric,-1,URBANO,$69723,331875.03356105054,unlimited,30000000,0.5,125.000,Mendosa,ACTIVO,01/01/2026,1425,0800-KEKO,info@
+7756,Keko™,,,,Fiatø,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,BS AS,123,
+382,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,11-1234-5678,contacto@keko.com
+383,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,0800-KEKO,keko@keko
+384,Kayak,carsharing_flota_propia,Alamo Web,2023,Chevorlet,Tracker,camion,mediano,AUTOMATICO,electrico,2, ,,,100,35000,24.0,125.000,BuenosAires,CERRÓ,12-18-2025,BS AS,+54 11 1234-5678,keko.com
+385,Hertz,carsharing_p2p,Kayak App,2025,Honda,yaris,furgon,economico,Mecanica,DIESEL,,personal,100994.32014195646,474184.2044126733,unlimited,20000000,4.0,140000,CABA, ,2025-09-25 11:08:31.751358,1425,sin telefono,contacto@keko.com
+386,vis,carsharing_p2p,Kayak App,2025,Kia,Mobii,grande,economico, ,,2,URBANO,26280.388380635217,136065.3595612376,-50,$12000 USD,2.0,45mil,Mendoza, ,2025-10-16,CABA,,contacto@keko.com
+1579,TripWip,renta_tradicional,N/A,2023,FIAAT,2008,hatchback,grande,manual,DIESEL,5,carga,89966.33016339203,502268.4749396876,cien,50000,100.0,80000,Barilochee,Expansión 2025,05/02/2025,,,keko@keko
+388,Rentcars,agregador_tradicional,KINTO Share,2024,Citroen,Toro,sedan,compacto,manual,DIESEL,,carga,,,100,22000,5.0,5000,Mendoza,Activo,2025-04-29,CABA,11-1234-5678,contacto@keko.com
+389,Kayak,renta tradicional,APLICACION,2023,fi at,Etios,Furgon,mediano, ,diesel,5,uBER,138900.4223635783,807681.2806386454,50 km,18000000,8.0,125000,"Mendosa, Argentina",activo,2025-09-12 11:08:31.759327,XXXX,sin telefono,
+390,Keko,alquiler trabajo,Keko App,,toyota,Palio,HATCHBACK,COMPACTO,mecánico,DIESEL,4,carga,$19517,110923.51004532173,50,15000,1.0,45000,Buenos Aires,ACTIVO,2025-07-09,XXXX,,usuario@gmail.com
+391,Cactus Rent,carsharing_flota_propia,Hertz 24/7,24,Mercedes,Voyage,compacto,mediano ,automatico,diesel,5,urbano,124740.62728248522,606260.334415409,unlimited,18000,12.0,15000,BS AS,Activo,2025-04-26,BS AS,11-1234-5678,keko@keko
+392,KINTO,carsharing_flota_propia,Rentennials App,2024,BMW,Fox,utilitario,mediano,automatica,DIESEL,2,taxi,,,50,25000,0.5,14K,Córdoba,cerró en enero 2025,12/02/2025,C1000,123,N/A
+393,Budget,carsharing_p2p,N/A,2023,Toyota,trackers,SUV, compacto,N/A,gas,3,personal,35832.79875594556,189216.19919111484,50,35000,24.0,140000,BuenosAires,verificar,2025-02-08 11:08:31.752865,1425,0800-KEKO,
+394,Localiza,agregador_tradicional,Keko App,2025,RENAULT,Tracker,SUV,compacto,dsg,electric,,Uber,215494.63177440545,1107589.0561353632,ILIMITADO,35000000,5.0,45000,Barilochee,dato no confirmado,02-17-2025,C1000,12345678,usuario@gmail.com
+395,KI NTO,renta_tradicional,tRIPwIP aPP,2025,Peugeot,Renegade,suv,economico, ,,0, ,11929.214845058992,49205.32429655275,150,35000,8.0,15000,,CERRÓ,30/06/2025,C1000,12345678,contacto@keko.com
+396,New Way,renta_tradicional,Despegar Autos,2023,peugeot,Tracker,PICKUP,mediano ,N/A,NAFTA,5,Uber,142027.63155370194,809360.5163703061,0,15000,12.0,5000,ROSARIO,Alianza Uber,2025-09-08 11:08:31.764135,1000,sin telefono,N/A
+4205,Budget,alquiler trabajo,Rentcars App,2023,Volkswagen,Partner,suv,compacto,,electric,4,uber_trabajo,"13.202,71",65290.41524656372,ILIMITADO,18000,5.0,125000,BuenosAires,verificar,2025-12-10,0000,123,N/A
+5930,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,BS AS,12345678,
+399,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,sin telefono,info@
+400,Keko,renta_tradicional,Localiza Mobile,2025,Kia,Cronos,furgon, compacto,Mecanica,nafta,6, ,127065.36400957163,754292.8998096513,50 km,18000,2.0,125.000,Barilochee,,15/01/2026,0000,sin telefono,usuario@gmail.com
+401,Rentcars,alquiler_trabajo,TripWip  App,2023,Nissan,Etius,camion,COMPACTO,N/A,electric,3,turismo,176055.77720400726,711719.4406909894,100,30000,8.0,14K,CABA,PENDIENTE,2025-11-03 11:08:31.750936,,sin telefono,
+3513,MyKeego,alquiler_trabajo,Keko App,2025,toyota,Tracker,camioneta,compacto,automatica,electrico,99,URBANO,27523.57699759648,130663.71308641552,50,$35000 USD,100.0,"80,000",B.Aires,Activo,18/07/2025,CABA,+54 11 1234-5678,keko@keko
+403,Localiza,alquiler_trabajo,N/A,2024-01-01,TOYOTA,Kicks,mediano, compacto,MANUAL,electrico,0,personal,32067.4772589088,137278.79009065707,ilimitado,,10.0,N/D,Rosario,cerró en enero 2025,2025-10-12 11:08:31.752448,1000,11-1234-5678,keko@keko
+404,DeRentas,alquiler_trabajo,HERTZ 24/7,2025,ford,Cronos,Furgon,mediano ,dsg,diesel,5,remis,10968.217172887127,48471.57827063345,ILIMITADO,15000,5.0,45mil,Mendoza,Cerró enero 2025,2026-02-02 11:08:31.752556,CABA,0800-KEKO,usuario@gmail.com
+405,Cactus Rent,agregador_tradicional,Rentcars App,2025,RENAULT,Partner,HATCHBACK,COMPACTO,,gas,cinco,Uber,-15508.829917348648,62285.01009956565,unlimited,30000,8.0,15000,BS AS,CERRÓ,28/09/2025,CABA,+54 11 1234-5678,N/A
+4131,Europcar,alquiler_trabajo,app,2025,RENAULT,Renegade,mediano,economico,cvt,NAFTA,0,carga,122631.42258154965,576074.1492327312,9999,30000,48.0,15000,"BS AS, Argentina",ACTIVO,12-27-2025,BS AS,+54 11 1234-5678,N/A
+407,New Way,carsharing_flota_propia,Keko App,,Honda,Traker,suv,compacto,AUTOMATICO,diesel,3,alquiler_tradicional,,,cien,,2.0,"80,000",Buenos Aires,cerró en enero 2025,08/11/2025,,,usuario@gmail.com
+10344,Keko,alquiler_trabajo,N/A,24,fiat,Corolla,camion,premium,MANUAL,electric,4,,"109.350,41",509838.2105284636,150,15000,1.0,140000,Barilochee,Alianza Uber,2025-07-08,C1000,11-1234-5678,keko@keko
+5724,Avis,carsharing_p2p,APLICAC ION,2024,Jeep,ggol,PickUp,mediano,MANUAL,DIESEL,-1,,,,100,15000,100.0,15000,"Barilochee, Argentina",cerró en enero 2025,01/02/2026,1000,12345678,usuario@gmail.com
+410,MyKegeo,carsharing_flota_propia,Keko App,2023,Peugeot,gol,utilitario,economico,dsg,,2,uber_trabajo,13487.704940846383,74036.6692399684,unlimited,15000,0.5,80000,Barilochee,verificar,12-13-2025,C1000,0800-KEKO,info@
+411,Tr ipWip,renta_tradicional,Hertz 24/7,2025,Ford,mOBI,SUV,grande,auto,híbrido,4,carga,12601.835284326728,63188.32077112377,200,20000,0.5,14K,ROSARIO, ,04-15-2025,C1425,12345678,N/A
+412,Keko™,,,,Toyota€,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,CABA,+54 11 1234-5678,keko@keko
+413,KINTO,carsharing_p2p,,2020,Toyota,Cronos,,,,,1,,100000,20000,,,30,,,INCONSISTENTE,,1000,12345678,
+414,Cactus Rent,alquiler_trabajo,Avis App,2024,ford,Trackerr,camion,compacto,auto,,3, ,,,ILIMITADO,22000,1.0,N/D,Barilochee,PENDIENTE,2025-03-28,0000,+54 11 1234-5678,info@
+415,MyKeego,agregador_tradicional,TripWip App,2024,Hnoda,dos mil ocho,Furgon,economico,AUTOMATICO,electric,4,alquiler_tradicional,161743.99642990078,763795.5587678145,unlimited,22000000,100.0,125.000,Barilochee, ,2025-06-25 11:08:31.742083,BS AS,sin telefono,keko@keko
+6782,Avvis,carsharing_flota_propia,KINTO Share,2025,RENAULT,Coorlla,sedan,premium,,gnc,4,tturismo,,,,50000,4.0,140000,Cordoba,,24/01/2026,BS AS,11-1234-5678,keko@keko
+417,Sixt,agregador_tradicional,Keko App,2025,FIAT,gol,furgon,economico,MANUAL,diesel,3,urbano,150383.11460985543,697574.5441794385,cien,30000,12.0,"80,000",Bariloche,N/A,2025-07-11 11:08:31.758186,1425,sin telefono,
+418,Cactus Rent,agregador_tradicional,Kayak App,2025,fiat,Argo,hatchback,grande,,híbrido,2,URBANO,,,,25000,100.0,45mil,Bariloche,,2025-03-27,CABA,sin telefono,keko@keko
+419,Rentennials,carsharing_p2p,Re ntennials App,2023,ford,208,PickUp,COMPACTO,manual,gas,5, ,77950.91380420416,428479.4602608261,150,,-2.0,125.000,n/a,dato no confirmado,01/06/2025,1000,sin telefono,keko@keko
+420,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,+54 11 1234-5678,contacto@keko.com
+421,Kayak,carsharing_flota_propia,web site,2024,VW,208,auto,grande,dsg,,5,personal,147321.23404122307,817345040.8921661,0,,6.0,45mil,Mendosa,Activo,09-03-2025,1000,12345678,info@
+422,Alamo,RENTA_TRADICIONAL, ,23,Honda,2008,mediano,grande,auto,electric,cinco,uber_trabajo,165731.11265274364,878788.835948071,150,22000,6.0,5000,BS AS,CERRÓ,2025-07-14,1000,12345678,keko.com
+423,Avis,CARSHARING_FLOTA_PROPIA,TripWip App,2023,Volkswagen,Kicks,PickUp,premium,automatico,gnc,5,Uber,19757.202408293488,96623228.57337165,unlimited,20000,8.0,,"B.Aires, Argentina",Activo,2025-02-05 11:08:31.747406,XXXX,+54 11 1234-5678,N/A
+424,Keko,agregador_tradicional,DeRentas Web,2024,peugeot,yaris,grande,economico,,electric,cinco,urbano,,,unlimited,18000000,5.0,5000,ROSARIO,Activo,2025-05-06,BS AS,sin telefono,keko.com
+2052,DeRentas,alquiler_trabajo,Despegar Autos,2024,peuugeot,Gol Trend,PickUp,mediano,mecánico,gnc,-1,uber_trabajo,30404.575891190787,156476212.06279248,-50,,-2.0,,Barilochee,CERRÓ,23/11/2025,0000,11-1234-5678,contacto@keko.com
+426,Avis,renta_tradicional,Localiza Mobile,24,Honda,Cronos,suv, compacto,mecánico,diesel,cinco,carga,27780.61345561979,114369.74920305795,150,50000,8.0,125000,Cordoba, ,16/11/2025,0000,0800-KEKO,
+427,KINTO,carsharing_p2p,,2020,Fiat,Gol,,,,,10,,50000,20000,,,50,,,INCONSISTENTE,,BS AS,+54 11 1234-5678,contacto@keko.com
+428,FastGo,carsharing_p2p,N/A,2023,Fiat,Versa,grande, compacto,manual,nafta,tres,alquiler_tradicional,132186.83397352882,765382.7004656653,9999,,4.0,5000,B.Aires,,07-09-2025,0000,12345678,contacto@keko.com
+429,Kayak,alquiler_trabajo,,2023,Renault,Kicks,suv,compacto,MANUAL,electric,99,n/a,12162.991620455065,60114.13391372215,cien,35000,-2.0,N/D,Buenos Aires,Activo,12/05/2025,1000,11-1234-5678,info@
+10405,MyKeego,agregador_tradicional,DeRentas Web,2024,Fod,Uno,PickUp,compacto,MANUAL,electric,3,carga,-138478.44829895237,790025.3684894379,100,22000,8.0,125000,GBA,dato no confirmado,26/11/2025,1000,12345678,keko@keko
+8062,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,11-1234-5678,N/A
+432,Keko,carsharing_p2p,APLICACION,23,Citroen,dos mil ocho,Furgon,premium,automatico,híbrido,,n/a,"19.472,22",110151.94454437077,50,18000,6.0,"80,000", ,CERRÓ,2025-05-16 11:08:31.747614,0000,+54 11 1234-5678,
+433,Rentcars,carsharing_p2p,Alamo Web,2025,Jeep,Yaris,HATCHBACK,premium,N/A,DIESEL,3,n/a,,,200,35000,12.0,125000,,verificar,2026-01-20 11:08:31.762870,CABA,11-1234-5678,N/A
+434,Budget,alquiler_trabajo,KINTO Share,2025,Chevrolet,Etius,mediano, compacto,automatico,gnc,0,urbano,-143368.5395482919,733702.0348414263,,,-2.0,45000,"GBA, Argentina", ,12/02/2025,XXXX,,info@
+435,Keko,carsharing_flota_propia,Avis App,2024,RENAULT,dos mil ocho,auto,mediano ,automatico,NAFTA,0,U ber,12693.61447339069,61643.21456772244,ilimitado,22000000,2.0,125.000,Barilochee,,2025-04-09 11:08:31.759823,BS AS,0800-KEKO,
+436,  Rentcars   ,  agregador_tradicional  ,,,   FIAT,kicks    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1425,12345678,info@
+437,KINTO,carsharing_p2p,,2019,Toyota,Gol,,,,,1,,100000,10000,,,30,,,INCONSISTENTE,,1425,123,keko@keko
+438,Invernalia,renta_tradicional,app,2025,Toyota,Yaris,Furgon,grande,N/A,DIESEL,5,alquiler_tradicional,30734.850503331934,182610.82373189155,150,22000000,-2.0,45000,Mar del Plata,cerró en enero 2025,2025-03-11,C1425,sin telefono,usuario@gmail.com
+439,FastGo,renta_tradicional,MyKeego App,2024,Hyundai,yaris,mediano,mediano,MANUAL,,4,uber_trabajo,,,ILIMITADO,,0.5,140000,Buenos Aires,N/A,2025-08-14,0000,sin telefono,contacto@keko.com
+782,KINTO,,,,,,,,,,99,,,,,999999,500,,,OUTLIER VALIDAR,,1000,sin telefono,keko@keko
+9821,Rentennials,ALQUILER_TRABAJO,TripWip App,2025,RENAULT,Onix,utilitario,compacto,automatica,electric,2,n/a,133925.74524001547,599437.5571813917,ilimitado,22000,3.0,14K,Barilochee,cerró en enero 2025,09/05/2025,CABA,sin telefono,keko@keko
+442,Keko,carsharing_p2p,Rentennials App,2023,Volkswagen,Tracker,grande,mediano,MANUAL,electric,6,Uber,98540.70783230384,587195.8268968326,50 km,25000,100.0,N/D, ,verificar,2025-04-07,C1000,11-1234-5678,keko@keko
+443,New Way,agregador_tradicional,MyKeego App,2025,Hyundai,Suburban,hatchback, compacto,dsg,gas,4, ,"32.722,00",167779.21896847687,unlimited,12000,-2.0,125.000,Buenos Aires,Expansión 2025,12-03-2025,XXXX,123,usuario@gmail.com
+444,KINTO,carsharing_flota_propia,Avis App,2023,Honda,no,compacto,economico,automatica,gas,tres,remis,148615.7762943526,738700.7062286102,-50,,5.0,N/D,CABA,N/A,28/04/2025,C1000,11-1234-5678,contacto@keko.com
+445,Invernalia,renta_tradicional,Rentennials App,2025,Citroen,ox,furgon, compacto,,hibrido,0, ,17158.27219932039,74604.09748118346,0,12000,48.0,125000,Buenos Aires, ,2025-12-12 11:08:31.750715,XXXX,123,contacto@keko.com
+446,Rentcars,carsharing_flota_propia,Despegar Autos,2025,vw,Bronco,SUV,grande,mecánico,DIESEL,4,taxi,20431.47803546163,94223.2410884339,9999,30000,10.0,125000,B.Aires, ,11-16-2025,BS AS,,
+447,KINTO,ALQUILER_TRABAJO,Rentcars App,2023,vw,i10,compacto, compacto,AUTOMATICO,híbrido,5,personal,,,unlimited,25000,3.0,125000,Córdoba,N/A,2025-03-03 11:08:31.740329,1425,0800-KEKO,contacto@keko.com
+448,Alamo,agregador_tradicional,APLICACION,23,Toyota,Kangoo,COMPACTO,economico,auto,DIESEL,5,taxi,134135.1524323168,785571.8753361322,cien,35000,4.0,125.000,Rosario,N/A,24/02/2025,XXXX,123,
+449,Hertz,carsharing_p2p,Kayak App,2025,Honda,yaris,furgon,economico,Mecanica,DIESEL,,personal,100994.32014195646,474184.2044126733,unlimited,20000000,4.0,140000,CABA, ,2025-09-25 11:08:31.751358,1425,123,keko.com
+450,FastGo,alquiler_trabajo,Localiz aMobile,2023,B MW,racker,PickUp,mediano,mecánico,gas,99,remis,,,cien,22000,5.0,15000,B.Aires, ,2025-03-28,,123,usuario@gmail.com
+451,Avis,renta_tradicional,KINTO Share,2023,fiat,Cronos,camion,premium,cvt,DIESEL,tres,re mis,10994.044947874238,62671.44356251423,-50,35000000,12.0,5000,B.Aires,Activo,09-17-2025,XXXX,12345678,N/A
+452,KINTO,carsharing_p2p,,2026,Fiat,Cronos,,,,,7,,50000,10000,,,50,,,INCONSISTENTE,,BS AS,11-1234-5678,usuario@gmail.com
+453,Despegar,alquiler_trabajo,Rentcars App,2024,Ford,Bronco,suv,premium,Mecanica,n/a,,uber_trabajo,130925.03566466512,577859.7423063673,cien,35000000,48.0,140000,Córdoba,ACTIVO,2025-05-02 11:08:31.740037,1000,+54 11 1234-5678,N/A
+454,Europcar,carsharing_p2p,DeRentas Web,2025,Peugeot,Renegade,PickUp,COMPACTO,N/A,n/a,6,taxi,28246.265541878474,143454.86803760065,ilimitado,25000,-2.0,,,activo,2025-05-03 11:08:31.756534,XXXX,123,N/A
+455,TripWip,carsharing_flota_propia,Rentcars App,2023,FIAT,Yaris,compacto,COMPACTO,automatica,diesel,5,personal,94188.17340863428,461010.10471713304,-50,18000000,6.0,125.000,Barilochee,verificar,2025-04-07 11:08:31.756576,0000,sin telefono,usuario@gmail.com
+456,TripWip,carsharing_p2p, ,2025,Renault,Kicks,mediano,grande,auto,electric,4,remis,134582.8438613771,610840.08605118,150,25000,5.0,140000,Barilochee,Cerró enero 2025,14/07/2025,XXXX,sin telefono,info@
+457,Alamo,agregador_tradicional,N/A,2024,Volkswagen,gol,Furgon,mediano,Mecanica,híbrido,4,personal,"14.739,38",81333.34526864787,,15000,0.5,5000,ROSARIO, ,2025-10-05 11:08:31.754188,CABA,+54 11 1234-5678,
+458,DeRentas,agregador_tradicional,Localiza Mobile,2023,Nissan,Maverick,Furgon,COMPACTO,automatico,nafta,3,remis,$30229,170642.23011907339,-50,20000,10.0,N/D,BS AS,Expansión 2025,26/11/2025,C1425,+54 11 1234-5678,N/A
+459,Rentennials,alquiler_trabajo,Despegar Autos,2025,Citrooen,COROLA,suv,mediano,manual,diesel,0, ,,,150,35000,100.0,45mil,ROSARIO,cerró en enero 2025,2025-02-28 11:08:31.755179,BS AS,11-1234-5678,keko.com
+460,Invernalia,carsharing_flota_propia, ,2024,vw,Suburban,Furgon,premium,Mecanica,diesel,5,turismo,35100.74883934793,144329.0423865128,unlimited,22000,6.0,14K,Mendosa,Cerró enero 2025,2025-03-12 11:08:31.746946,XXXX,11-1234-5678,contacto@keko.com
+461,FatsGo,alquiler_trabajo,app,2025,Renault,Cronos,sedán,COMPACTO,Mecanica,n/a,cinco,URBANO,126857.14186461328,709712.6520970633,150,25000,5.0,80000,ROSARIO,PENDIENTE,11-12-2025,1425,sin telefono,
+462,Euro pcar,agregador_tradicional,Rentennials App,2024,Chevrolet,cronnos,mediano,compacto,cvt,electric,5,uber_trabajo,17053.88866335694,69101.06651916768,100,,3.0,,GBA,ACTIVO,03-05-2025,XXXX,12345678,keko.com
+463,New Way,carsharing_flota_propia,TRIPWIP APP,2025,Peugeot,cronnos,sedan,mediano ,MANUAL,gnc,tres,URBANO,,,100,35000,-2.0,N/D,"Barilochee, Argentina", ,2025-10-14,1425,0800-KEKO,N/A
+5042,New Way,alquiler_trabajo,Localiza Mobile,2023,Honda,Uno,camioneta,grande,Mecanica,electrico,99,mixto,12820.16876096521,68026.48822849443,150,50000,-2.0,140000,Buenos Aires,,11-12-2025,1425,+54 11 1234-5678,contacto@keko.com
+465,Keko,alquiler_trabajo,Kayak App,2023,Kia,Bronco,grande,economico,MANUAL,hibrido,3, ,126237.12265767904,676821.7849538607,ILIMITADO,12000,100.0,45000,B.Aires,,2025-02-19 11:08:31.743217,BS AS,12345678,keko.com
+2630,Kayak,carsharing_p2p, ,24,Renault,Etios,compacto,mediano,N/A,diesel,5,turismo,,,9999,22000,-2.0,,GBA,PENDIENTE,2025-09-24,C1425,123,keko@keko
+467,Kayak,renta_tradicional,Keko App,2023,chev,yaris,hatchback,grande,AUTOMATICO,electrico,-1, ,12881.62312676673,71694.21934823487,100,$50000 USD,0.5,140000,BuenosAires,Activo,2025-12-09 11:08:31.763134,,11-1234-5678,
+468,DeRentas,alquiler_trabajo,Keko App,2024,VW,cronnos,SUV,mediano ,,n/a,5,URBANO,17652.451403873783,105643.54635120546,-50,50000,0.5,45mil, ,N/A,2025-10-29,C1425,,info@
+469,Sixt,alquiler_trabajo,app,2023,nissan,Partner,auto,mediano,mecánico,NAFTA,4,mixto,,,,30000,24.0,45000,n/a,verificar,2025-09-13 11:08:31.744637,0000,12345678,N/A
+470,DeRentas,carsharing_flota_propia,Rentennials App,2023,Hyundai,yaris,auto, compacto,N/A,NAFTA,,uber_trabaj o,100722.58809342138,561392.3247904102,unlimited,18000,48.0,80000,Mar del Plata,N/A,12/01/2026,0000,11-1234-5678,info@
+471,KINTO,agregador_tradicional,Keko App,2025,Kia,200 8,utilitario,grande,Mecanica,híbrido,4,Uber,18100.822356970722,97166.97512476677,150,18000,3.0,125000,GBA,ACTIVO,07/12/2025,C1425,,
+472,KINTTO,alquiler_trabajo,FastGo App,2024,Chevrolet,COROLA,grande,grande,auto,n/a,cinco,tursimo,,,-50,,48.0,125000,Buenos Aires,Cerró enero 2025,2025-08-10 11:08:31.758540,1000,123,N/A
+473,Budget,carsharing_p2p,APLICACION,,Hyundai,Tracker,camioneta, compacto,automatico,electrico,tres,alquiler_tradicional,140172.20570153475,713767.0250782376,100,12000,-2.0,45000,BuenosAires, ,2025-07-15 11:08:31.763957,CABA,12345678,keko.com
+474,Avis,carsharing_flota_propia,Avis App,2024,Ctroen,kicks,mediano,mediano ,mecánico,DIESEL,,urbano,149155.30751580466,653284.1557574538,unlimited,,1.0,125000,"Mendoza, Argentina", ,2025-02-09,CABA,11-1234-5678,usuario@gmail.com
+475,Despegar,renta_tradicional,Rentcars App,,Nissan,Yaris,hatchback,economico,,diesel,tres,URBANO,13687.521394023619,58041.73982406187,200,35000,,,n/a,verificar,23/01/2026,XXXX,0800-KEKO,N/A
+9449,Cactus Rent,carsharing_flota_propia,Rentennials App,2023,Toyota,280,furgon,economico,MANUAL,n/a,3,mixto,$114273,495766.13139488315,9999,12000000,12.0,15000,"BuenosAires, Argentina",cerró en enero 2025,14/01/2026,BS AS,,N/A
+477,Budget,agregador_tradicional,Rentennials App,2024,BMW,dos mil ocho,suv,COMPACTO,automatica,n/a,3,taxi,161601.81910154034,949821.1025002949,50,20000,-2.0,N/D,GBA,PENDIENTE,15/12/2025,C1000,123,
+478,Keko,carsharing_p2p,,2019,Toyota,208,,,,,10,,50000,20000,,,50,,,INCONSISTENTE,,1000,sin telefono,contacto@keko.com
+479,DeRentas,carsharing p2p,Rentcars App,,Toyotaa,Fox,Furgon,economico,automatico,nafta,3,mixto,$119817,704363.8749855096,,30000,6.0,15000,"n/a, Argentina",Alianza Uber,25/09/2025,XXXX,,
+480,DeRentas,renta_tradicional,Alamo Web,2025,Toyota,Kicks,sedan,mediano ,AUTOMATICO,DIESEL,3,n/a,34969.13080363482,172741.3435321789,-50,,24.0,125.000,Bariloche,Expansión 2025,2025-02-16 11:08:31.754381,BS AS,11-1234-5678,keko@keko
+481,Avis,carsharing_p2p,Localiza Mobile,2024,Audi,Tracker,SUV,compacto,Mecanica,gas,4,emis,"13.584,55",62104.14139864079,cien,12000,48.0,"80,000",Barilochee,,2025-06-13 11:08:31.760473,,123,info@
+482,MyKeego,agregador_tradicional,TripWip App,23,nissan,gol,suv,economico,cvt,nafta,5,n/a,,,0,30000,24.0,45000,Barilochee,CERRÓ,2025-08-20 11:08:31.741998,0000,sin telefono,keko@keko
+483,Alamo,carsharing_flota_propia,Hertz 24/7,2023,Ford,i10,moto,mediano,automatica,híbrido,cinco,Uber,-108777.97119810367,652463.9192558662,ILIMITADO,,24.0,125.000, ,activo,30/12/2025,0000,12345678,
+484,TripWip,renta_tradicional,MyKeego App,2024,Nissan,Maverick,furgon,premium,Mecanica,diesel,5,remis,104025.40681088455,488690.6001409414,50,30000,0.5,45mil,n/a,dato no confirmado,2025-07-14,BS AS,+54 11 1234-5678,keko.com
+485,FastGo,carsharing_p2p,Keko App,2025,Honda,Mobi,HATCHBACK,premium,manual,diesel,99, ,$35084,145708.72030367627,50 km,,24.0,15000,Mendoza,verificar,20/07/2025,CABA,sin telefono,
+486,Hertz,carsharing_flota_propia,KINTO Share,2025,Nissan,MOBII,auto,grande,manual,gnc,4,n /a,21490.665896934028,96630.24138185916,cien,35000,24.0,140000,BS AS,Cerró enero 2025,2025-03-30,1425,+54 11 1234-5678,keko@keko
+668,Rentennials,alquiler_trabajo,Alamo Web,24,Nissan,Corol la,grande,premium,dsg,,3,mixt,155809.60675003944,739771.361461405,50,12000,4.0,N/D,Rosario,Expansión 2025,2025-11-07 11:08:31.745255,C1000,0800-KEKO,keko@keko
+488,Kayak,carsharing_flota_propia,,2025,Renault,Etius,Furgon,COMPACTO, ,gas,4,mixto,,,ilimitado,15000,100.0,N/D,Mar del Plata,activo,02/12/2025,1425,12345678,contacto@keko.com
+489,TripWip,carsharing_flota_propia,Rentcars pp,2024,Honda,Maverick,grande,grande, ,,3,,11154.662136936317,64870.66138602339,150,15000,10.0,15000,Buenos Aires,PENDIENTE,18/08/2025,C1000,,contacto@keko.com
+490,Europcar,carsharing p2p,Avis App,2023,Citroen,Partner,sedán,mediano, ,electric,tres,alquiler_tradicional,,,50,50000,0.5,"80,000",Barilochee,N/A,22/06/2025,C1425,11-1234-5678,keko@keko
+491,Budget,renta_tradicional,web site,2024,nissan,Maverick,utilitario,mediano ,Mecanica,DIESEL,3,Uber,,,-50,,1.0,45mil,Cordoba,cerró en enero 2025,2025-12-06 11:08:31.759662,BS AS,0800-KEKO,N/A
+492,Alamo,carsharing_p2p,Rentennials App,2023,Honda,Gol,PickUp,mediano ,automatica,gas,5,n/a,,,0,,,140000,n/a,dato no confirmado,2025-09-20,XXXX,11-1234-5678,keko.com
+493,FastGo,carsharing_p2p,Keko App,2024,ford,Maverick,camioneta,mediano ,Mecanica,gas,,turismo,12519.938482283835,51247.64738884674,-50,25000,1.0,,Buenos Aires,cerró en enero 2025,21/02/2025,1425,0800-KEKO,keko@keko
+494,MyKeego,carsharing_p2p,,2026,Toyota,208,,,,,1,,50000,10000,,,25,,,INCONSISTENTE,,C1425,sin telefono,N/A
+495,Cactus Rent,carsharing_p2p,app,2024,TOYOTA,tracker,Furgon,premium,dsg,NAFTA,3,alquiler_tradicional,21570.01431597647,116410.3176838272,200,25000,0.5,80000,ROSARIO,Activo,2025-08-25 11:08:31.747823,CABA,sin telefono,usuario@gmail.com
+496,Kaak,ALQUILER_TRABAJO,N/A,2023,vw,Versa,hatchback,premium,Mecanica,gas,5,turismo,"137.989,88",612838.5643827475,9999,22000,48.0,80000,Córdoba,Expansión 2025,04/11/2025,C1425,12345678,usuario@gmail.com
+497,Despegar,alquiler trabajo,Alamo Web,2025,vw,UP,HATCHBACK,grande,mecánico,hibrido,99,personal,8749.496492402812,36539.867524116176,200,,5.0,14K,Bariloche, ,2025-04-26,CABA,12345678,keko@keko
+5439,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,12345678,usuario@gmail.com
+499,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,12345678,keko@keko
+500,New Way,carsharing_flota_propia,,2024,Peugeot,Mobi,furgon, compacto,mecánico,electrico,5,Ub er,173647.15339764924,965853.7706702662,100,25000,24.0,N/D,Mar del Plata, ,2025-09-08,BS AS,+54 11 1234-5678,keko@keko
+501,Invernalia,renta_tradicional,Avis App,2025,RENAULT,MOBI,sedan,mediano ,dsg,diesel,3,personal,148306.52194375556,784891.4489334477,unlimited,20000,0.5,125000,ROSARIO,N/A,2025-02-06 11:08:31.747431,1425,12345678,contacto@keko.com
+502,Kay ak,alquiler_trabajo,APLICACION,2024,RENAULT,2008,mediano,grande,,DIESEL,-1,remis,,,ILIMITADO,18000,24.0,45mil,B.Aires,PENDIENTE,2025-06-02 11:08:31.752257,,sin telefono,
+503,DeRentas,agregador_tradicional,Rnetennials App,2024,Peugeot,Oinx,pickup, compacto,MANUAL,híbrido,-1,,22040.279726117627,103030.0727748291,cien,50000,5.0,15000,"Mendoza, Argentina",Cerró enero 2025,04-26-2025,XXXX,123,keko@keko
+504,lOCALIZA,agregador_tradicional,Rentcars App,2024,nissan,MOBI,furgon,premium,automatico,DIESEL,6,urbano,152794.00843401058,621179.3209312117,50 km,22000,1.0,80000,Mendosa,CERRÓ,21/10/2025,1000,,keko.com
+505,Rentennials,renta_tradicional,MyKeego App,2025,ford,oFx,moto,COMPACTO,,DIESEL,-1,urbano,,,150,15000000,1.0,140000,Córdoba,Expansión 2025,28/08/2025,XXXX,+54 11 1234-5678,usuario@gmail.com
+506,Budget,carsharing_p2p,web site,2024,Audi,Argo,HATCHBACK,compacto,cvt,,0,alquiler_tradicional,,,100,15000,100.0,125.000,B.Aires,activo,2025-09-19 11:08:31.763536,C1000,123,contacto@keko.com
+507,MyKeego,,,,,,,,,,,,-15000,,,-25000,,,,NEGATIVO,,C1425,0800-KEKO,contacto@keko.com
+508,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,123,N/A
+509,New Way,renta_tradicional,Alamo Web,2024,Peugeot,pALIO,mediano,grande,manual,NAFTA,tres,turismo,21360.96470765913,106642.91836186156,-50,,24.0,80000,ROSARIO,Cerró enero 2025,2025-11-13,C1425,sin telefono,keko.com
+510,TirpWip,carsharing_p2p,Alamo Web,2023,Mercedes,C OROLA,suv,premium,auto,gnc,,n/a,80150.87648459985,383188.7980770418,50 km,,12.0,"80,000",,N/A,2025-10-17 11:08:31.739694,BS AS,+54 11 1234-5678,usuario@gmail.com
+511,  Cactus Rent   ,  carsharing_flota_propia  ,,,   Chevrolet,Yaris    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,XXXX,0800-KEKO,N/A
+512,Keko,carsharing_flota_propia,Keko App,2025,fiat,kicks,sedan,grande,cvt,híbrido,0,n/a,16441.987186789393,96948703.28412342,ilimitado,30000,48.0,125.000,,ACTIVO,2026-01-05 11:08:31.741492,,11-1234-5678,contacto@keko.com
+513,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,12345678,
+514,Hertz,agregador_tradicional,,2024,Hyundai,Siena,PickUp,mediano,auto,gnc,99,remis,86191.37950586766,415349.4726383555,cien,,4.0,15000,Barilochee,cerró en enero 2025,2026-01-15 11:08:31.746459,1000,+54 11 1234-5678,contacto@keko.com
+515,Sixt,renta_tradicional,Keko App,2023,Kia,208,moto,premium,N/A,gnc,6,,17667.09600156644,102749.59879107986,0,18000,24.0,5000,Mendoza,Activo,17/04/2025,1425,+54 11 1234-5678,
+516,Despegar,alquiler_trabajo,app,2023,vw,Palio,pickup,economico,automatica,diesel,5,turismo,,,9999,30000,10.0,N/D,Bariloche,Activo,04-08-2025,C1000,,
+517,Alamo,carsharing_p2p,N/A,2024,Ford,Toro,SUV,COMPACTO,Mecanica,electrico,4,mixto,24034.415722723887,130808.95783765089,200,35000,48.0,45mil,BS AS,dato no confirmado,29/10/2025,BS AS,sin telefono,info@
+518,Keko,carsharing_p2p,DeRentas Web,2025,Ford,onixs,grande, compacto,N/A,n/a,3,uber_trabajo,119878.51556929837,537103.2270195525,,18000,10.0,,n/a,ACTIVO,2025-07-21 11:08:31.761395,CABA,12345678,keko.com
+519,Avis,carsharing_p2p,Kayak App,2025,chevv,yaris,pickup, compacto,AUTOMATICO,diesel,4,alquiler_tradicional,12147.88405399388,56781.93555134952,9999,,100.0,140000, ,PENDIENTE,28/02/2025,1425,12345678,N/A
+520,KINTO,carsharing_p2p,,2027,Toyota,Cronos,,,,,7,,50000,10000,,,30,,,INCONSISTENTE,,C1000,123,usuario@gmail.com
+521,nEW wAY,alquiler_trabajo,Rentennials App,2024,chev,COOLA,SUV,COMPACTO,dsg,diesel,5,urbano,12285.220793058677,71994.85458121322,ILIMITADO,,-2.0,80000,n/a,N/A,2025-06-05 11:08:31.761545,BS AS,12345678,usuario@gmail.com
+522,Alamo,agregador_tradicional,APLICACION,2023,Volkswagen,UP,hatchback, compacto,cvt,nafta,,URBANO,-10753.595088836017,43907.57302639506,50,50000,0.5,140000,BuenosAires,activo,2025-05-02,CABA,12345678,keko.com
+523,New Way,alquiler_trabajo,N/A,2024,iat,Renegade,camion,economico,N/A,gas,,uber_t rabajo,20152.727711673702,88009.66944383967,200,35000,4.0,"80,000","Mendoza, Argentina",,2025-03-03 11:08:31.760153,C1425,123,contacto@keko.com
+524,TripWp,renta_tradicional,app,2023,BMW,i10,SUV,grande,auto,,, ,183474.3671222041,907137.6488007031,150,35000000,3.0,14K,GBA,Cerró enero 2025,2025-08-30,C1000,sin telefono,
+5396,Rentars,alquiler_trabajo,FastGo App,2024,nissan,Suburban,sedán,premium,N/A,diesel,2,personal,11621.973067220053,56752.80469429922,150,22000,2.0,45mil,n/a,dato no confirmado,2025-09-28 11:08:31.762692,CABA,11-1234-5678,keko.com
+526,Invernalia,alquiler_trabajo, ,2024,chev,Cronos,camioneta,COMPACTO,,n/a,5,URBANO,$112593,569520.8433503747,cien,20000,6.0,140000,Cordoba,N/A,2025-12-12 11:08:31.749180,1425,sin telefono,N/A
+527,KINTO,agregador_tradicional,app,2025,ford,yaris,pickup,mediano,mecánico,NAFTA,3,,27976.302706283364,117464.36093163396,ILIMITADO,15000,2.0,"80,000",Rosario,activo,26/01/2026,BS AS,,usuario@gmail.com
+528,Cactus Rent,renta_tradicional,KINTO SHARE,2024,Volkswagen,Siena,pickup,economico,auto,NAFTA,4,personal,12543.766388010878,65869.9332849761,100,35000000,12.0,"80,000","ROSARIO, Argentina",ACTIVO,2025-08-14 11:08:31.742407,C1425,sin telefono,keko.com
+529,Cactus Rent,agregador_tradicional,Alamo Web,2024,Kia,Argo,camioneta,compacto,dsg,NAFTA,0,mixto,204552.7857832918,830030.7495033268,ILIMITADO,18000,5.0,,Mendoza, ,2025-04-02,CABA,+54 11 1234-5678,
+530,Avis,agregador_tradicional,Avis App,2023-01-01,chev,Gol Trend,utilitario,mediano,mecánico,nafta,5,taxi,132648.51532005513,648738.139800417,,18000,12.0,125.000, ,dato no confirmado,2026-01-18 11:08:31.754581,CABA,123,contacto@keko.com
+531,Hertz,alquiler_trabajo,web site,2023,toyota,oCrolla,mediano, compacto,,electrico,2,mixto,23469.805762848056,101092.54359216864,cien,,,45mil,Mendosa,cerró en enero 2025,03-20-2025,CABA,,N/A
+532,Keko,carsharing_p2p,MyKeego App,2025,FIAT,cronnos,Furgon,compacto,,DIESEL,3,,77503.0517655961,411867.3997212653,ilimitado,18000,-2.0,14K,Cordoba,Expansión 2025,16/06/2025,CABA,11-1234-5678,N/A
+9533,MyKeego,carsharing_p2p,,2027,Toyota,Gol,,,,,10,,50000,20000,,,25,,,INCONSISTENTE,,1000,,keko.com
+534,Kayak,carsharing_p2p,Retnennials App,2024,Nissan,Etios,sedán,premium,N/A,gas,4,personal,36405.13347394346,160894080.34854677,150,$25000000 USD,100.0,80000,Barilochee,cerró en enero 2025,2025-06-13 11:08:31.755011,1000,11-1234-5678,contacto@keko.com
+535,rENTENNIALS,CARSHARING_P2P,Kayak App,2023,vw,Fox,suv,grande,manual,hibrido,5,taxi,201434.37207512834,876646.5198175838,unlimited,25000,24.0,125000,Rosario,Alianza Uber,11/11/2025,BS AS,0800-KEKO,
+536,MyKeego,carsharing_p2p,,2019,Toyota,Gol,,,,,10,,100000,10000,,,25,,,INCONSISTENTE,,,123,keko@keko
+537,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1425,+54 11 1234-5678,N/A
+538,TripWip,carsharing_p2p,Localiza Mobile,2024,Kia,Frontier,Furgon,economico,dsg,nafta,5,carga,19746.71763505151,108426.1898342827,unlimited,35000,4.0,80000,n/a, ,2025-11-07 11:08:31.764542,XXXX,,keko@keko
+539,MyKeego,renta_tradicional,,2023,Fiat,Etios,sedan, compacto,manual,,5,uber_trabajo,"10.064,42",47935.92398207774,cien,12000,8.0,125.000,Mendoza,Activo,01-23-2026,C1425,,info@
+540,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,11-1234-5678,info@
+541,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,BS AS,11-1234-5678,keko@keko
+542,Localiz a,carsharing_flota_propia,app,2023,tooyota,Corolla,camion,economico,AUTOMATICO,NAFTA,5,carga,151241.7843566953,832157.2755220099,unlimited,25000,6.0,"80,000",Mendosa,Alianza Uber,05-16-2025,0000,,contacto@keko.com
+543,MyKeego,carsharing_p2p,,2026,Toyota,208,,,,,7,,50000,20000,,,25,,,INCONSISTENTE,,1425,12345678,N/A
+544,Avis,carsharing_p2p,Kayak App,2025,chevv,yaris,pickup, compacto,AUTOMATICO,diesel,4,alquiler_tradicional,12147.88405399388,56781.93555134952,9999,,100.0,140000, ,PENDIENTE,28/02/2025,C1000,,N/A
+6515,MyKeego,carsharing_p2p,,2019,Fiat,Cronos,,,,,1,,50000,10000,,,30,,,INCONSISTENTE,,C1000,+54 11 1234-5678,contacto@keko.com
+546,Sixt,carsharing_flota_propia,,2024,nissan,MOBI,HATCHBACK, compacto,MANUAL,NAFTA,99,URBANO,"174.882,89",828049.9772682987,9999,15000,0.5,5000,Mendoza,PENDIENTE,2025-02-15,C1000,123,info@
+547,Europcar,carsharing_p2p,KEKO APP,2025,Nissan,Cronos,PickUp,economico,automatica,electric,3,n/a,181816.48384198805,899013.2159455193,-50,$50000 USD,48.0,45000,B.Aires,dato no confirmado,2026-01-15 11:08:31.764034,CABA,11-1234-5678,usuario@gmail.com
+6186,Keko,agregador_tradicional,Avis App,,nissan,Etios,sedán,economico,Mecanica,n/a,2,remis,14811.823780828094,69191.7958981718,50,$25000 USD,6.0,15000,n/a,CERRÓ,2025-02-07,1000,123,keko@keko
+549,Kayak,agregador tradicional,Alamo Web,2025,TOYOTAA,Corolla,Furgon,compacto,auto,híbrido,tres,URBANO,109571.99472185355,450233.80013556406,unlimited,35000,6.0,5000,Cordoba,CERRÓ,2025-07-24,C1425,+54 11 1234-5678,N/A
+550,Cactus Rent,alquiler_trabajo,Localiza Mobile,2025,Jeep,UP,camion,compacto,dsg,gnc,5,turismo,126232.16729806855,727111.6611065967,ilimitado,25000,8.0,80000,B.Aires,CERRÓ,2025-07-16 11:08:31.763992,1000,sin telefono,contacto@keko.com
+551,Sixt,agregador_tradicional,Alamo Webb,2025,fiat,trackers,furgon,premium, ,electric,5,URABNO,174115.48472573818,747580.1913154215,50 km,20000,-2.0,125.000,GBA,Expansión 2025,28/01/2026,C1000,12345678,keko.com
+552,Hertz,carsharing_p2p, ,2023,RENAULT,kiicks,camion,economico,mecánico,DIESEL,4,alquiler_tradicional,84444.36722876325,405433.04572674574,100,20000,4.0,15000,Bariloche,Cerró enero 2025,2025-11-07,C1425,123,
+553,Rentennials,agregador tradicional,FastGo App,2023,Honda,Suburban,compacto, compacto,,diesel,5,Uber,15411.320834505887,85205.88591998418,ILIMITADO,15000,6.0,45mil,Buenos Aires,,2026-01-10 11:08:31.749217,,,usuario@gmail.com
+554,FastGo,renta_tradicional,Rentcars App,2023,Volkswagen,Suburban,mediano, compacto, ,gnc,-1,taxi,,,0,$18000 USD,24.0,N/D,n/a,Alianza Uber,2025-06-13 11:08:31.763603,C1425,12345678,keko.com
+555,Invernalia,carsharing_p2p,Hrtz 24/7,2023,Fiat,Etius,SUV, compacto,,,4,uber_trabajo,34610.264658804386,156667.93633582082,9999,,2.0,45mil,BuenosAires,,2025-05-17 11:08:31.744159,1425,,keko@keko
+556,Invernalia,agregador_tradicional,DeRentas Web,2024,Volkswagen,dos mil ocho,SUV,mediano,AUTOMATICO,NAFTA,6,n/a,28763.162196194935,148219.40368262955,0,,3.0,140000,CABA,ACTIVO,20/11/2025,,sin telefono,info@
+557,TripWip,agregador_tradicional,Rentcars App,2023,Volkswagen,Renegade,auto,mediano,auto,híbrido,99,n/a,17995.95370017343,87825.35413635775,cien,35000,-2.0,125000,Bariloche,CERRÓ,16/05/2025,,sin telefono,usuario@gmail.com
+558,bUDGET,carsharing_flota_propia,web site,2025-01-01,Renault,MOBI,pickup,COMPACTO,Mecanica,diesel,4,remis,-13875.707400379139,56370.720519941606,9999,,0.5,14K, ,activo,27/09/2025,CABA,123,info@
+559,Avis,renta_tradicional,Kayak App,2024,Fiat,Voyage,pickup,economico,MANUAL,diesel,cinco,n/a,16721.512807596195,79499689.4782471,100,50000,,125000,BS AS,Cerró enero 2025,10-20-2025,1425,123,info@
+560,Alamo,carsharing_p2p,Rentcars App,2023,toyota,Voyage,sedan,compacto,Mecanica,gnc,0, ,"116.202,97",594607.5447273887,50 km,20000,0.5,5000,Buenos Aires,N/A,2025-11-15 11:08:31.746235,C1000,sin telefono,keko@keko
+561,Keko,carsharing_p2p,app,2024,Toyota,UP,SUV,mediano,,gnc,0,UBANO,96004.39294326112,572277.2159666406,-50,22000,,,Buenos Aires,Alianza Uber,2025-06-06,XXXX,11-1234-5678,N/A
+562,Keko,carsharing_p2p,,2026,Fiat,208,,,,,1,,50000,10000,,,50,,,INCONSISTENTE,,CABA,123,info@
+563,TripWip,agregador_tradicional,Rentennials App,2025,Kia,go l,Furgon,premium,cvt,nafta,,urbano,,,,30000,1.0,15000,Mendosa,,11-20-2025,CABA,,keko@keko
+564,Invernalia,carsharing_p2p,Kayak App,23,Toyota,Corolla,pickup,COMPACTO, ,electrico,99,uber_trabajo,172098.4242853848,974904.1551115093,-50,,48.0,5000,ROSARIO,PENDIENTE,2025-12-31,CABA,12345678,keko.com
+565,Europcar,carsharing_flota_propia,web site,2023,Mercedes,Polo,mediano,compacto,N/A,NAFTA,5,uber_trabajo,19983.565621879312,88721.17874432655,150,50000,100.0,45mil,,,04-09-2025,1000,+54 11 1234-5678,info@
+566,Rentennials,alquiler_trabajo,Rentennials App,2023,renault,Kicks,utilitario,grande,,n/a,4, ,19735.27993432261,110019.23243916722,unlimited,20000,8.0,125000,BuenosAires,verificar,2025-09-16 11:08:31.739882,0000,11-1234-5678,usuario@gmail.com
+567,New Way,renta_tradicional,Despegar Autos,2023,peugeot,Tracker,PICKUP,mediano ,N/A,NAFTA,5,Uber,142027.63155370194,809360.5163703061,0,15000,12.0,5000,ROSARIO,Alianza Uber,2025-09-08 11:08:31.764135,1000,123,
+568,Avis,carsharing_p2p,Renntcars App,2024,TOYOTA,2008,auto,compacto,,hibrido,99,alquiler_tradicional,164441.74968953893,913037.3703015563,0,15000,12.0,, ,ACTIVO,24/11/2025,CABA,,N/A
+569,Alamo,renta_tradicional,Despegar Autos,23,FIAT,Onix,utilitario,economico,Mecanica,electrico,3,mixto,173869.0066281171,940522.8050191121,ILIMITADO,$18000 USD,1.0,45mil,B.Aires, ,13/12/2025,1000,+54 11 1234-5678,N/A
+570,Despegar,carsharing_flota_propia,Rentcars App,2024,Toyota,Cronos,mediano,mediano ,MANUAL,DIESEL,,n/a,106587.32566897091,492822.5799329542,200,,8.0,14K, ,PENDIENTE,01/11/2025,0000,0800-KEKO,keko.com
+571,DeRentas,carsharing_p2p,DeRen tas Web,2023,ford,Etios,pickup,compacto,MANUAL,híbrido,0,taxi,10232.00837172652,53900.290384021275,-50,$35000 USD,8.0,5000,ROSARIO,,2025-04-10 11:08:31.752322,XXXX,12345678,usuario@gmail.com
+572,Kayak,carsharing_flota_propia,web site,2024,VW,208,auto,grande,dsg,,5,personal,147321.23404122307,817345040.8921661,0,,6.0,45mil,Mendosa,Activo,09-03-2025,0000,0800-KEKO,keko@keko
+573,Keko,agregador_tradicional,Rentennials App,2024,Volkswagen,Kicks,furgon,mediano,automatica,nafta,4,mixto,13306.240257139172,71305.23389383941,ILIMITADO,50000,3.0,15000,BuenosAires,,2025-10-03 11:08:31.763667,XXXX,+54 11 1234-5678,keko@keko
+574,MyKeego,renta_tradicional,,2023,Citroen,Bronco,sedan,economico,automatica,híbrido,0,,142060.27770847405,643128.0568725406,50,30000000,8.0,"80,000",Mendoza,Activo,2025-03-01 11:08:31.764197,0000,0800-KEKO,keko@keko
+575,Kaak,carsharing_flota_propia,Hertz 24/7,2024,TOYTA,2008,suv,COMPACTO,N/A,gas,2,personal,18713.267217713823,93041.15213502062,0,20000,,45mil,"B.Aires, Argentina",Alianza Uber,2025-08-18 11:08:31.764432,0000,123,N/A
+576,Kayak,renta_tradicional,KINTO Share,,Fiat,Polo,camioneta, compacto,,electric,4,remis,114542.8293313725,578454.0366960627,0,18000,5.0,140000,GBA,Activo,2025-06-03 11:08:31.750670,CABA,sin telefono,N/A
+6883,KINTO,renta_tradicional,app,2025,VW,Versa,camioneta,compacto,auto,electric,2,mixto,13259.718856316056,60567.417100000326,ILIMITADO,15000000,2.0,125.000,BS AS,Alianza Uber,07-15-2025,0000,,contacto@keko.com
+578,Rentennials,carsharing_flota_propia, ,2024-01-01,Chevrolet,Suburban,PickUp,COMPACTO, ,gas,0, ,35095.371961093115,150083.18664333862,,25000,6.0,125000,BS AS,Alianza Uber,2025-09-03 11:08:31.756849,,,keko.com
+579,Europcar,carsharing_flota_propia,web site,2023,Mercedes,Polo,mediano,compacto,N/A,NAFTA,5,uber_trabajo,19983.565621879312,88721.17874432655,150,50000,100.0,45mil,,,04-09-2025,C1000,11-1234-5678,
+580,Avis,carsharing_p2p,Localiza Mobile,2024,Audi,Tracker,SUV,compacto,Mecanica,gas,4,emis,"13.584,55",62104.14139864079,cien,12000,48.0,"80,000",Barilochee,,2025-06-13 11:08:31.760473,0000,+54 11 1234-5678,N/A
+581,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,BS AS,0800-KEKO,info@
+582,Budget,renta_tradicional,KINTO Share,2025,vw,Polo,grande, compacto,auto,gas,0,turismo,,,cien,22000,6.0,45mil,CABA,Alianza Uber,2025-06-19 11:08:31.762973,1425,0800-KEKO,usuario@gmail.com
+583,DeRentas,alquiler_trabajo,KINTO Share,2025,Jeep,Gol Trend,camion,premium,MANUAL,hibrido,6,remis,30043.190992270203,171346.39209446884,150,,2.0,15000,GBA,N/A,2025-05-20 11:08:31.760511,1425,+54 11 1234-5678,keko.com
+584,Rentennials,carsharing_flota_propia,KINTO Share,2023,Chevrolet,Frontier,furgon,grande,,diesel,4,Uber,16357.409659789393,79373.06967382992,9999,18000,4.0,,Cordoba,Expansión 2025,18/09/2025,,,keko@keko
+585,FastGo,carsharing_flota_propia,Kayak App,25,Adi,Mobi,utilitario,mediano, ,NAFTA,cinco,remis,8259.298759512572,33963135.987755686,100,50000,100.0,45mil,Bariloche,,31/12/2025,,0800-KEKO,usuario@gmail.com
+586,Despegar,alquiler_trabajo,Rentennials App,2023,Hyundai,Toro,suv,COMPACTO,AUTOMATICO,n/a,-1,uber_trabajo,18083.43661581258,75689.85120735894,0,,4.0,5000,Bariloche,Cerró enero 2025,10/09/2025,C1000,11-1234-5678,keko.com
+587,TripWip,,,dos mil veinticinco,,,,,,,,,,noventa mil,,,,,,TEXTO EN LUGAR DE NUMERO,,C1000,+54 11 1234-5678,keko.com
+588,MyKeego,agregador_tradicional,Despegar Autos,2024,Toyota,Suburban,camion,COMPACTO,manual,gas,0, ,94865.19866978088,415536.8319064256,50 km,35000,6.0,"80,000",Mendosa,Cerró enero 2025,2026-01-18,XXXX,0800-KEKO,info@
+589,FastGo,renta_tradicional,FastGo App,,Fiat,Maverick,grande,compacto,,electric,99,mixto,,,ILIMITADO,35000,3.0,14K,,N/A,2025-03-01,C1425,123,N/A
+590,KINTO,agregador_tradicional,Kayak App,2023,toyota,Gol,Furgon,premium,auto,gas,5,URBANO,36951.50576584053,166704.97570361863,9999,25000,0.5,45mil, ,Cerró enero 2025,2025-05-08 11:08:31.759367,C1425,,info@
+591,DeRentas,carsharing_p2p,MyKeego App,24,Volkswagen,Cronos,sedan,mediano,,electrico,3,urbano,112124.08295188693,662812.927958339,ilimitado,18000,,14K,Cordoba,dato no confirmado,23/06/2025,,11-1234-5678,contacto@keko.com
+592,Alamo,agregador_tradicional,DeRentas Web,2025,Mercedes,cronnos,furgon, compacto,,electric,tres,mixto,87723.53141353019,415736.89773923624,ilimitado,35000000,48.0,125.000,"Córdoba, Argentina",N/A,13/09/2025,C1425,+54 11 1234-5678,
+593,Sit,renta_tradicional,Avis App,2024,Ford,fOX,sedan,economico,automatico,gas,0,,140801.39541048868,674528.4599942238,200,30000,2.0,5000,Córdoba, ,10-31-2025,0000,123,N/A
+594,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,123,info@
+595,Avis,carsharing_p2p,Kayak App,2025,Kia,Mobii,grande,economico, ,,2,URBANO,26280.388380635217,136065.3595612376,-50,$12000 USD,2.0,45mil,Mendoza, ,2025-10-16,1425,11-1234-5678,contacto@keko.com
+596,KINTO,carsharing_p2p,,2020,Toyota,208,,,,,7,,50000,10000,,,25,,,INCONSISTENTE,,CABA,0800-KEKO,N/A
+597,Keko,ALQUILER_TRABAJO,Rentennials App,25,Renault,Toro,SUV,mediano ,,electric,5, ,81805.29011469151,397498.4760203378,-50,18000,48.0,80000,Bariloche,activo,31/05/2025,1425,0800-KEKO,keko@keko
+598,Alamo,carsharing_flota_propia,Localiza Mobile,2024,BMW,Tracker,furgon,COMPACTO,auto,nafta,-1,urbano,115084.79961567547,636842.9259223993,200,,100.0,45mil,Barilochee,,2025-09-10 11:08:31.751390,C1425,12345678,usuario@gmail.com
+599,Kayak,agregador tradicional,Alamo Web,2025,TOYOTAA,Corolla,Furgon,compacto,auto,híbrido,tres,URBANO,109571.99472185355,450233.80013556406,unlimited,35000,6.0,5000,Cordoba,CERRÓ,2025-07-24,C1425,+54 11 1234-5678,usuario@gmail.com
+600,Sixt,carsharing_p2p,app,2024,Fiat,Argo,FURGON, compacto,N/A,híbrido,99,urbano,,,0,22000,1.0,N/D,ROSARIO,activo,2025-11-13 11:08:31.756211,1000,,keko.com
+601,Despegar,renta_tradicional,Retennials App,2025,Ford,Fontier,sedán,grande,mecánico,n/a,-1,taxi,20654.002933120828,116006.9736140276,ILIMITADO,15000,0.5,125.000,Buenos Aires,Activo,25/07/2025,1000,sin telefono,info@
+9743,Sixt,carsharing_p2p,Alamo Web,25,Volkswagen,Gol,moto,mediano,automatica,electric,5,urbano,21476.3668815259,88388.55774348085,,50000,6.0,125000,Buenos Aires,CERRÓ,2025-03-30 11:08:31.747544,,,keko@keko
+603,MyKeego,renta_tradicional,web site,2023,Honda,Maverick,moto,compacto,auto,gas,5,alquiler_tradicional,113477.57996633643,469516.4354285334,ILIMITADO,,0.5,14K,Cordoba,N/A,11/04/2025,1425,+54 11 1234-5678,contacto@keko.com
+604,kinto,carsharing_p2p,,,Hyundai,Bronco,furgon,economico,N/A,diesel,4,n/a,,,-50,$30000 USD,,45mil,Buenos Aires,activo,2025-05-17 11:08:31.757923,C1000,12345678,usuario@gmail.com
+3590,Despegar,AGREGADOR_TRADICIONAL,Alamo Webb,25,Kia,dos mil ocho,utilitario,mediano ,MANUAL,gas,99,urbano,21863.613003349838,104526.0725307466,200,18000,48.0,140000,BuenosAires,Alianza Uber,24/08/2025,CABA,12345678,usuario@gmail.com
+606,Alamo,carsharing_flota_propia,KINTO Sharee,2025,Frod,Bronnco,sedan,mediano ,cvt,,4,carga,,,-50,30000,10.0,15000,,ACTIVO,2025-10-15 11:08:31.756898,C1000,+54 11 1234-5678,N/A
+607,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,sin telefono,N/A
+608,Budget,renta_tradicional,app,2024,Volkswagen,kicks,mediano,mediano,AUTOMATICO,,-1, ,10558.985486122254,51726.324691307695,-50,18000,48.0,15000,B.Aires,Activo,21/11/2025,,12345678,info@
+609,Alamo,carsharing_flota_propia,Avis App,2024,Volkswagen,Onix,HATCHBACK,premium,cvt,DIESEL,6,personal,-28579.30659726944,144051.6241762911,,,,125000,Córdoba,Expansión 2025,2025-11-25 11:08:31.756299,CABA,sin telefono,N/A
+610,FastGo,carsharing_p2p,DERENTAS WEB,2023,Mercedes,dos mil ocho,Furgon,premium,,,tres,carga,21077.858772706004,97928.68727303822,100,22000,4.0,"80,000",BuenosAires,PENDIENTE,2025-06-10 11:08:31.756494,1425,0800-KEKO,
+611,FastGo,alquiler_trabajo,Kayak App,2023,Jeep,Partner,furgon,compacto,manual,gas,tres,URBNAO,$161932,872640.3449579347,0,20000,-2.0,15000,GBA,,07-11-2025,0000,123,N/A
+612,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,C1000,0800-KEKO,
+613,Avis,agregador_tradicional,MyKeego App,2025,Fo rd,i10,furgon,grande,Mecanica,,-1,URBANO,$67555,393024.1117931402,-50,,48.0,45mil,,dato no confirmado,2025-04-12 11:08:31.748954,1000,0800-KEKO,keko.com
+614,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,11-1234-5678,contacto@keko.com
+615,Keko,agregador_tradicional,DeRentas Web,2024,peugeot,yaris,grande,economico,,electric,cinco,urbano,,,unlimited,18000000,5.0,5000,ROSARIO,Activo,2025-05-06,CABA,123,N/A
+616,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,11-1234-5678,usuario@gmail.com
+617,Cactus Rent,carsharing_flota_propia,FastGo App,2023,Fiat,Suburban,suv,grande,manual,gnc,cinco,remis,115404.4601905498,551037.0386034895,ilimitado,15000,5.0,N/D,Bariloche,activo,03/03/2025,1000,sin telefono,keko.com
+618,Alamo,carsharing_flota_propia,Avis App,2024,Volkswagen,Onix,HATCHBACK,premium,cvt,DIESEL,6,personal,-28579.30659726944,144051.6241762911,,,,125000,Córdoba,Expansión 2025,2025-11-25 11:08:31.756299,XXXX,sin telefono,usuario@gmail.com
+4158,New Way,renta_tradicional, ,2025,vw,dos mil ocho,auto,mediano,N/A,gas,3,,126888.53970865683,751346.1221227718,200,25000,12.0,125000,,CERRÓ,2026-01-28,C1000,sin telefono,keko.com
+7848,  TripWip   ,  alquiler_trabajo  ,,,   Audi,COROLA    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,1000,,
+621,fastgo,renta_tradicional,Despegar Autos,2025,vw,kicks,mediano,mediano ,dsg,gas,cinco,URBANO,11987.67461788582,52101.62772029047,cien,25000,100.0,N/D,Mar del Plata,verificar,08-21-2025,C1000,,N/A
+622,Alamo,carsharing_flota_propia,Hertz 24/7,2023,Ford,k icks,hatchback,premium,,electric,cinco,alquiler_tradicional,29973.243326647418,127669.00641936471,-50,25000,10.0,N/D,BS AS,verificar,29/04/2025,1000,11-1234-5678,contacto@keko.com
+623,Alamo,carsharing_flota_propia,Hertz 24/7,2023,Ford,i10,moto,mediano,automatica,híbrido,cinco,Uber,-108777.97119810367,652463.9192558662,ILIMITADO,,24.0,125.000, ,activo,30/12/2025,0000,sin telefono,contacto@keko.com
+624,Europcar,carsharing_flota_propia,MyKeego App,2023,OYOTA,UP,utilitario,grande,AUTOMATICO,hibrido,4,n/a,14004.869315369635,80198.12242112457,ILIMITADO,50000,100.0,140000,Mendosa,N/A,28/09/2025,C1425,123,usuario@gmail.com
+625,Localiz a,agregador_tradicional,DeRentas Web,2025,Honda,U no,hatchback,grande,AUTOMATICO,NAFTA,4,remis,-212112.28159562137,1091586.8154465642,unlimited,50000,-2.0,14K,BuenosAires,ACTIVO,2025-12-13 11:08:31.760857,0000,+54 11 1234-5678,keko@keko
+626,Sixt,alquiler_trabajo,app,2023,nissan,Partner,auto,mediano,mecánico,NAFTA,4,mixto,,,,30000,24.0,45000,n/a,verificar,2025-09-13 11:08:31.744637,C1000,11-1234-5678,
+627,New Way,agregador_tradicional,APLICACION,2025,Mercedes,Siena,auto,grande,mecánico,electric,,taxi,20368.32781827304,88110.07216435594,100,35000,2.0,N/D, ,verificar,01-30-2026,C1000,123,keko.com
+628,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,BS AS,11-1234-5678,keko@keko
+629,TripWip,carsharing_flota_propia,Rentcars pp,2024,Honda,Maverick,grande,grande, ,,3,,11154.662136936317,64870.66138602339,150,15000,10.0,15000,Buenos Aires,PENDIENTE,18/08/2025,C1000,12345678,keko@keko
+630,Invernalia,carsharing_flota_propia,FastGo App,2024,Jeep,onixs,suv,economico,,híbrido,99,carga,130092.61993410907,678168557.5042924,ilimitado,35000,12.0,80000,BS AS,dato no confirmado,2025-07-15 11:08:31.754961,C1425,123,info@
+3364,Keko,carsharing_flota_propia,Despegar Autos,2023,fiat,Corolla,sedán,mediano,MANUAL,híbrido,cinco,n/a,-14559.993014385498,74067.45435480407,50,22000,8.0,15000,Buenos Aires,Cerró enero 2025,2025-10-12,0000,11-1234-5678,info@
+632,Alamo,renta_tradicional,,2024,Adui,Kangoo,mediano,grande, ,gnc,3,n/a,12828.800836272196,66328.67680411223,50,22000,5.0,125000,Buenos Aires,verificar,08/12/2025,XXXX,123,info@
+633,Alamo,carsharing_p2p,Rentcars App,2024,Peugeot,kicks,pickup,grande,,DIESEL,3,personal,16081.927455066027,83576.0561965461,0,15000,-2.0,125000,BuenosAires,Cerró enero 2025,2025-07-25,BS AS,123,contacto@keko.com
+634,FastGo,carsharing p2p,Despegar Autos,2025,Toyota,Uno,camion,grande,dsg,gas,tres,Uber,15361.220917993985,79165.71943965946,9999,30000,48.0,45000,"Mendosa, Argentina",N/A,2026-01-21 11:08:31.756656,1425,0800-KEKO,N/A
+635,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,0800-KEKO,keko.com
+6272,Cactus Rent,renta_tradicional,Rentennials App,2023,Audi,Etios,utilitario,mediano ,,hibrido,99,carga,"14.094,68",78384.24250449422,9999,25000,100.0,45000,Bariloche,verificar,2025-05-21 11:08:31.754354,CABA,0800-KEKO,usuario@gmail.com
+637,Kayak,CARSHARING_FLOTA_PROPIA,KINTO Share,2023,Audi,Siena,hatchback,economico, ,,0,remis,$22496,122967.0269887474,ilimitado,30000,2.0,80000,BS AS,Alianza Uber,2025-04-23 11:08:31.750495,XXXX,+54 11 1234-5678,N/A
+638,Europcar,agregador tradicional,N/A,2025,Fiat,UP,PickUp,premium,manual,nafta,0,personal,12877.708475949228,53294.62960262343,-50,22000,,140000,B.Aires,N/A,13/11/2025,CABA,12345678,keko@keko
+639,TripWip,agregador_tradicional,Hertz 24/7,2023,ford,Corolla,HATCHBACK, compacto,cvt,DIESEL,3,personal,124620.99378384932,582652.2808497968,-50,$35000 USD,3.0,14K,CABA,cerró en enero 2025,2025-12-10,BS AS,0800-KEKO,info@
+640,DeRentas,agregador_tradicional,Avis App,2025,TOYOTA,maverick,PICKUP,mediano ,manual,hibrido,0,remis,117730.61588788392,526429.938411607,50 km,15000,3.0,,Cordoba,Expansión 2025,12/11/2025,1425,12345678,info@
+641,Europcar,renta_tradicional, ,2025,toyota,onixs,sedan,economico,cvt,gnc,3,carga,13585.94756847801,78207.08260761679,ilimitado,,4.0,14K,BuenosAires,Activo,2026-01-17 11:08:31.755093,1425,123,keko.com
+642,TripWip,agregador_tradicional,TripWip App,2024,Honda,i10,mediano,grande,MANUAL,hibrido,99,personal,"137.068,74",623360.4945177985,50,18000000,1.0,N/D,ROSARIO,,09/07/2025,XXXX,+54 11 1234-5678,contacto@keko.com
+643,Rentennials,renta_tradicional,app,2025,Renault,Gol,camion,premium,N/A,electrico,6,txi,111006.90036614129,558072.6461378472,100,20000,100.0,5000,BS AS,N/A,23/09/2025,,sin telefono,info@
+644,MyKeego,carsharing_p2p,,2027,Toyota,Gol,,,,,10,,100000,10000,,,50,,,INCONSISTENTE,,BS AS,12345678,
+645,Avis,carsharing_p2p,KINTO Share,2023,Ford,Bronco,mediano,economico,dsg,diesel,2,Uber,-22889.997757672798,111281.41811435958,unlimited,35000,3.0,5000,GBA,dato no confirmado,2025-11-16 11:08:31.757510,BS AS,sin telefono,keko.com
+646,Rentennials,renta_tradicional,DeRentas Web,2023,Honda,onixs,sedán,compacto,Mecanica,,0,,"16.782,70",70982.1154602135,ILIMITADO,35000,1.0,14K,B.Aires,CERRÓ,2025-09-02 11:08:31.759777,1425,11-1234-5678,N/A
+647,KINTO,carsharing_flota_propia,Keko App,2024,VW,Tracker,pickup,economico,AUTOMATICO,electrico,5,alquiler_tradicional,$25853,120325.19449599485,0,,0.5,45mil,Barilochee,Expansión 2025,2026-01-15,XXXX,+54 11 1234-5678,contacto@keko.com
+648,MyKeego,alquiler_trabajo,Keko App,2025,toyota,Tracker,camioneta,compacto,automatica,electrico,99,URBANO,27523.57699759648,130663.71308641552,50,$35000 USD,100.0,"80,000",B.Aires,Activo,18/07/2025,CABA,11-1234-5678,keko@keko
+649,New Way,alquiler_trabajo,KINTO Share,2023,Citroen,Frontier,HATCHBACK,COMPACTO,,hibrido,4,Uber,136178.16660532524,637345.3869664854,cien,,100.0,45mil,Bariloche,Cerró enero 2025,06-15-2025,1000,12345678,keko.com
+650,  Europcar   ,  renta_tradicional  ,,,   peugeot,Gol Trend    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,C1425,0800-KEKO,contacto@keko.com
+1086,,carsharing,,1800,Ford,Gol,,,,,,,,,,,,,,AÑO INCORRECTO,,1000,123,N/A
+652,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,11-1234-5678,N/A
+1553,Invernalia,agregador_tradicional,Keko App,2023,FIAT,COROLLA,hatchback,mediano,automatica,nafta,3,taxi,31315.22109379837,162709.71359280054,unlimited,15000,0.5,5000,Córdoba,CERRÓ,09/09/2025,0000,,
+654,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,CABA,12345678,keko@keko
+655,Budget,alquiler_trabajo,MyKeego App,2025,Renaault,Fox,Furgon,COMPACTO,Mecanica,,2,uber_trabajo,12832.538496180536,65846.54204725169,50 km,35000,1.0,"80,000",Barilochee,ACTIVO,02/10/2025,1000,12345678,
+16184,udget,alquiler_trabajo,web sitte,2024,Honda,i10,sedán,mediano ,Mecanica,electric,4,,24666.769273265134,143726.22715573164,-50,,1.0,15000,Mendoza,Alianza Uber,29/07/2025,,+54 11 1234-5678,keko@keko
+657,Keko,carsharing_flota_propia,APLICACION,,peugeot,Etios,hatchback,mediano,N/A,gas,99,uber_trabajo,89270.21906591146,456611.69087021897,50,18000,0.5,80000,BuenosAires, ,2025-04-07 11:08:31.763186,0000,123,usuario@gmail.com
+658,Localiza,carsharing_flota_propia,FastGo App,2024,Hyundai,2008,grande,mediano,auto,n/a,tres,taxi,,,cien,15000,,125000,Mar del Plata,Cerró enero 2025,12/02/2025,1425,sin telefono,usuario@gmail.com
+659,Keko,alquiler_trabajo,Kayak App,2023,Kia,Bronco,grande,economico,MANUAL,hibrido,3, ,126237.12265767904,676821.7849538607,ILIMITADO,12000,100.0,45000,B.Aires,,2025-02-19 11:08:31.743217,BS AS,11-1234-5678,info@
+660,Europcar,agregador tradicional,N/A,2025,Fiat,UP,PickUp,premium,manual,nafta,0,personal,12877.708475949228,53294.62960262343,-50,22000,,140000,B.Aires,N/A,13/11/2025,0000,0800-KEKO,N/A
+661,Hertz,alquiler trabajo,MyKeego App,2024,chev,yaris,sedán,economico,AUTOMATICO,n/a,4,uber_trabajo,12135.42547030724,61118.14682591482,100,50000,,45mil, ,ACTIVO,2025-04-29 11:08:31.746527,0000,11-1234-5678,keko@keko
+662,Budget,carsharing_p2p,Hertz 247/,2025,Audi,Kiicks,HATCHBACK,mediano ,cvt,diesel,5,uber_trabajo,$30580,168266.8725793377,ILIMITADO,22000,2.0,5000,Mendoza,activo,05-29-2025,,123,contacto@keko.com
+663,Budet,renta_tradicional,,2024,TOYOTA,dos mil ocho,camioneta,mediano ,cvt,electric,99,turismo,20913.14655706758,103753.91185153095,100,18000,3.0,140000,GBA,,2025-06-20 11:08:31.741098,1425,sin telefono,usuario@gmail.com
+664,Kayak,carsharing_flota_propia, ,23,chev,Toro,compacto,premium,Mecanica,híbrido,5,alquiler_tradicionaal,224981.22817081583,1003637.402907584,150,,1.0,14K,B.Aires,PENDIENTE,2025-08-29 11:08:31.762608,C1425,11-1234-5678,keko@keko
+665,KINTO,carsharing_p2p,Hertz 24/7,2025,Ford,UP,grande,premium,AUTOMATICO,electric,cinco,personal,"135.252,22",615136.9676696548,cien,,10.0,N/D,Córdoba, ,2025-07-04 11:08:31.746989,C1000,+54 11 1234-5678,
+666,Europcar,carsharing_p2p,KEKO APP,2025,Nissan,Cronos,PickUp,economico,automatica,electric,3,n/a,181816.48384198805,899013.2159455193,-50,$50000 USD,48.0,45000,B.Aires,dato no confirmado,2026-01-15 11:08:31.764034,1425,11-1234-5678,usuario@gmail.com
+667,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,12345678,usuario@gmail.com
+668,New Wya,renta_tradicional,Rentcars App,2025,Audi,KKangoo,SUV,COMPACTO,,híbrido,cinco,URBANO,87963.31170639952,515725.9883738444,50 km,20000,,125.000," , Argentina",cerró en enero 2025,2025-12-23 11:08:31.748757,CABA,11-1234-5678,info@
+669,KINTO,carsharing_p2p,,2026,Fiat,Gol,,,,,10,,100000,10000,,,25,,,INCONSISTENTE,,C1425,,info@
+670,Alamo,renta_tradicional,Localiza Mobile,23,Renault,Versa,pickup,grande,cvt,,4,,144955.7267720521,853114.795433806,ILIMITADO,,12.0,5000,Buenos Aires,Cerró enero 2025,27/02/2025,0000,12345678,N/A
+671,KINTO,alquiler_trabajo,APLICACION,2023,VW,Partner,mediano,grande, ,NAFTA,3,n/a,"13.458,12",67112.45183325188,50 km,,8.0,15000,Mar del Plata,Expansión 2025,2026-02-03 11:08:31.763373,0000,123,keko@keko
+672,Localiza,carsharing_p2p,ALAMO WEB,2023,toyota,MMOBI,auto,COMPACTO,auto,electric,4,carga,11105.164521705376,61565.710825355025,9999,,2.0,125.000,,dato no confirmado,2025-09-12 11:08:31.749785,XXXX,12345678,keko@keko
+673,Rentcars,alquiler_trabajo,Rentcars App,2023,Jeep,ol,moto,grande,MANUAL,gnc,6,uber_trabajo,13597.867956077122,67534.39339847566,ilimitado,30000000,6.0,140000,GBA,,04/12/2025,C1425,,
+674,Europcar,carsharing_flota_propia,Kayak App,2023,Nissan,Kickks,grande,grande,N/A,n/a,4,uber_trabajo,,,ilimitado,20000,-2.0,"80,000",Buenos Aires,Activo,2025-10-22,BS AS,,keko.com
+675,DeRentas,carsharing_flota_propia,APLICACION,2024,RENAULT,yaris,auto,grande,Mecanica,hibrido,0, ,11737.254231871817,66253.47925834714,50,50000,,5000,Mar del Plata,N/A,02-19-2025,C1425,,usuario@gmail.com
+676,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,11-1234-5678,info@
+677,MyKeego,carsharing_flota_propia,DeRentas Web,2025,Peugeot,Bronco,mediano,mediano ,Mecanica,hibrido,4,mixto,64670.957191247144,286203.64140597027,50,20000,10.0,5000,n/a,dato no confirmado,20/04/2025,0000,0800-KEKO,usuario@gmail.com
+678,Europcar,carsharing_flota_propia,Kayak App,2024-01-01,uAdi,trackes,SUV,mediano,automatica,NAFTA,tres,alquiler_tradicional,$21781,121876.84640257855,,,48.0,125.000,Barilochee,CERRÓ,05/02/2025,BS AS,0800-KEKO,contacto@keko.com
+679,Sixt,renta_tradicional,Keko App,2023,Kia,208,moto,premium,N/A,gnc,6,,17667.09600156644,102749.59879107986,0,18000,24.0,5000,Mendoza,Activo,17/04/2025,XXXX,+54 11 1234-5678,keko@keko
+9957,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,+54 11 1234-5678,usuario@gmail.com
+681,Invernalia,carsharing_p2p,Avi App,2023,vw,MOBI,HATCHBACK,grande,manual,DIESEL,5,personal,107374.41662719566,542851.6429426332,ILIMITADO,25000,48.0,,BS AS,Alianza Uber,16/04/2025,C1425,sin telefono,keko@keko
+682,FastGo,agregador_tradicional,,2023,F ord,kicks,suv,compacto,,nafta,99,mixto,,,0,20000,4.0,5000,Mendoza, ,07-04-2025,CABA,12345678,keko@keko
+683,Rentennials,carsharing_flota_propia,KINTO Share,2023,Chevrolet,Frontier,furgon,grande,,diesel,4,Uber,16357.409659789393,79373.06967382992,9999,18000,4.0,,Cordoba,Expansión 2025,18/09/2025,C1425,12345678,N/A
+684,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,0800-KEKO,keko.com
+685,Cactus Rent,carsharing_flota_propia,Avis App,2024,Chevrolet,Polo,sedán,COMPACTO,cvt,gnc,5,URBANO,10278.0396714592,53828.386075566064,9999,15000,3.0,N/D,ROSARIO,Activo,10/06/2025,C1000,+54 11 1234-5678,usuario@gmail.com
+686,MyKeego,carsharing_p2p,web site,2024,tOYOTA,Mobi,hatchback,grande,mecánico,nafta,4,URBANO,138166.74186913672,567835.7140803683,-50,25000000,4.0,14K,Cordoba,PENDIENTE,12-21-2025,C1000,sin telefono,contacto@keko.com
+687,Cactus Rent,agregador_tradicional,app,2024,BMW,Siena,sedán,premium,Mecanica,n/a,3,mixto,80013.6939498926,325601789.5001764,150,,5.0,,BS AS,,28/08/2025,C1000,12345678,
+688,Localiza,alquiler_trabajo, ,2025,Volkswage,onixs,sedan,COMPACTO,Mecanica,diesel,5,carga,-206321.45174519645,980009.5821855781,9999,50000000,48.0,45mil,"n/a, Argentina",Expansión 2025,2025-10-21 11:08:31.743930,C1425,sin telefono,
+689,MyKeego,carsharing_p2p,TripWip App,2025,Citroen,Toro,pickup, compacto,MANUAL,electric,,taxi,20698.567206082924,118750.8750515493,cien,,10.0,140000,Cordoba,cerró en enero 2025,2025-06-08 11:08:31.763711,C1000,12345678,usuario@gmail.com
+690,FastGo,carsharing_p2p,DERENTAS WEB,2023,Mercedes,dos mil ocho,Furgon,premium,,,tres,carga,21077.858772706004,97928.68727303822,100,22000,4.0,"80,000",BuenosAires,PENDIENTE,2025-06-10 11:08:31.756494,BS AS,11-1234-5678,N/A
+691,Kayak,agregador_tradicional,Localiza Mobile,2024,BMW,Partner,utilitario,compacto,automatico,diesel,4,URBANO,35213.73928842342,175826.70930538964,cien,15000,100.0,140000,Bariloche,activo,2025-09-27 11:08:31.761080,0000,+54 11 1234-5678,keko.com
+10618,Europcar,renta_tradicional,Despegar Autos,2025,Ford,Etius,utilitario, compacto,automatico,electric,3,remis,136105.6757170353,598716.8832840088,100,20000,,,Cordoba,dato no confirmado,2025-11-07,C1000,0800-KEKO,info@
+693,DeRen tas,carsharing_p2p,Rentennials App,2023,Chevrolet,Etios,auto, compacto,,híbrido,6,personal,72453.61447801231,299709.6304064441,-50,35000,100.0,80000,GBA,dato no confirmado,2025-12-21 11:08:31.740957,1000,123,usuario@gmail.com
+694,New Way,RENTA_TRADICIONAL,Kayak App,2024,Honda,Gol,moto,grande,Mecanica,n/a,-1,turismo,199550.23642046395,1086555.16853727,cien,,8.0,45000,ROSARIO,CERRÓ,01-21-2026,,sin telefono,N/A
+695,New Way,alquiler_trabajo,KINTO Share,2023,Citroen,Frontier,HATCHBACK,COMPACTO,,hibrido,4,Uber,136178.16660532524,637345.3869664854,cien,,100.0,45mil,Bariloche,Cerró enero 2025,06-15-2025,0000,11-1234-5678,contacto@keko.com
+696,Localiza,carsharing_p2p,app,2023,Kia,trckers,camion,grande,automatico,nafta,5,urbano,64883.740676624984,293971.03589481936,unlimited,50000,4.0,125.000,CABA,dato no confirmado,2025-03-05 11:08:31.740709,C1000,sin telefono,
+697,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,XXXX,12345678,
+698,Alamo,renta_tradicional,Despegar Autos,2023,toyot,Fox,camion,mediano,auto,electrico,5,remis,-23621.180435427734,94654.82005499999,cien,50000,5.0,45000,BS AS,CERRÓ,07/12/2025,1000,11-1234-5678,keko@keko
+699,Cactus Rent,agregador_tradicional,Avis App,2025,Peugeot,Renegade,sedan,economico, ,,3,urbano,216134.4593979864,1079733.4164586652,cien,30000,100.0,140000,BS AS,Expansión 2025,2025-04-06,C1000,,contacto@keko.com
+700,Rentennials,alquiler_trabajo,Despegar Autos,2025,Citrooen,COROLA,suv,mediano,manual,diesel,0, ,,,150,35000,100.0,45mil,ROSARIO,cerró en enero 2025,2025-02-28 11:08:31.755179,BS AS,0800-KEKO,contacto@keko.com
+4745,FastGo,agregador_tradicional,Keko App,2023,Kia,Yaris,camioneta,mediano,auto,electric,4,taxi,20281.73512674575,89950.54393432554,9999,20000,5.0,,Barilochee,Alianza Uber,16/09/2025,XXXX,12345678,keko.com
+702,Budget,carsharing_p2p,FastGo App,2023,TOYOTA,Bronco,pickup,premium,N/A,electric,4,,14979.00309672108,66994.25232862045,50 km,,48.0,125.000,n/a,CERRÓ,01/09/2025,,11-1234-5678,keko.com
+703,Sixt,carsharing_flota_propia,N/A,2025,fiat,DOS MIL OCHO,suv,mediano ,AUTOMATICO,n/a,-1, ,125818.22845622382,676340.0986498909,,50000,5.0,"80,000",Barilochee,PENDIENTE,2025-04-29 11:08:31.744278,1425,123,keko@keko
+704,Keko,carsharing_flota_propia,MyKeego App,2024,Toyota,gol,furgon,COMPACTO,manual,n/a,2,urbano,,,ilimitado,15000,5.0,80000,BuenosAires,CERRÓ,2025-11-22 11:08:31.755783,C1425,+54 11 1234-5678,
+705,Kayak,carsharing_flota_propia,Despegar Autos,2023,nissan,COROLA,auto,economico,manual,electric,2, ,100203.08655880879,528455.4307689744,ILIMITADO,,0.5,125000,Buenos Aires,Activo,04-12-2025,CABA,+54 11 1234-5678,keko.com
+706,FastGo,carsharing flota propia,Kayak App,2023,Honda,Suburban,camion,mediano ,automatica,nafta,5,alquiler_tradicional,114969.02676876492,600433.0615828728,150,$18000 USD,4.0,45000,BS AS,Cerró enero 2025,2025-09-26 11:08:31.760935,1000,sin telefono,
+15621,Invernalia,carsharing_flota_propia,appp,2023,RENAULT,UP,sedan,grande,dsg,,0,urbano,140625.48897032643,672184.9604511119,0,22000,-2.0,125000,GBA,activo,2025-05-20,0000,sin telefono,
+708,Alamo,carsharing_flota_propia,Rentennials App,2023,VW,gol,furgon,mediano,,n/a,,remis,164768.78528027664,811339.3456492217,ILIMITADO,20000,1.0,N/D,Rosario,verificar,2025-02-10,1425,123,contacto@keko.com
+709,FastGo,carsharing flota propia,Av is App,2025,NISSAN,Renegade,grande, compacto,MANUAL,NAFTA,5,alquiler_tradicional,,,200,,3.0,15000,Cordoba,CERRÓ,01-28-2026,C1000,11-1234-5678,
+710,FastGo,carsharing flota propia,Av is App,2025,NISSAN,Renegade,grande, compacto,MANUAL,NAFTA,5,alquiler_tradicional,,,200,,3.0,15000,Cordoba,CERRÓ,01-28-2026,1425,sin telefono,usuario@gmail.com
+711,Europcar,agregador_tradicional,KINTO Share,25,Honda,dos mil ocho,moto,compacto,cvt,gnc,99,urbano,$161539,883674.2404546704,,22000,3.0,140000,BS AS,Cerró enero 2025,2025-02-17,1425,0800-KEKO,keko.com
+712,  Cactus Rent   ,  carsharing_flota_propia  ,,,   Toyota,Gol Trend    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,XXXX,,contacto@keko.com
+713,Cactus Rent,carsharing_flota_propia,app,2023,Nissan,cronnos,HATCHBACK,grande,Mecanica,electrico,4,remis,114670.73213765633,565915.8848651812,150,,4.0,125000,"ROSARIO, Argentina",N/A,23/12/2025,0000,,
+714,Localiza,renta_tradicional,Keko App,2024,FIAT,MOBI,auto, compacto,mecánico,híbrido,3, ,23934.75979125612,109557.54822921916,-50,15000,6.0,45mil,CABA,cerró en enero 2025,02/05/2025,1425,+54 11 1234-5678,usuario@gmail.com
+715,Rentennials,carsharing_flota_propia,Despegar Autos,2025,ford,Tracker,furgon,economico,dsg,gas,5,,17426.618276243673,96629.93212045447,cien,50000,12.0,"80,000","B.Aires, Argentina",PENDIENTE,31/05/2025,0000,sin telefono,keko.com
+716,Invernalia,renta_tradicional,Localiza Mobile,2025,RENAULT,Frontie,SUV,compacto,dsg,híbrido,tres,turismo,16315.681049006087,82831.85072478768,200,50000,6.0,140000,Bariloche,PENDIENTE,2025-07-31,1425,sin telefono,usuario@gmail.com
+717,Despegar,carsharing_p2p,N/A,2023,Mercedes,Palio,sedán,mediano,cvt,NAFTA,99,alquiler_tradicional,,,9999,25000,4.0,15000,Mar del Plata,Cerró enero 2025,2025-08-05 11:08:31.741298,C1000,+54 11 1234-5678,info@
+718,Cactus Rent,carsharing_p2p,Avis App,23,TOYOTA,Yaris,furgon,mediano ,auto,diesel,,URBANO,,,100,15000,48.0,15000,Rosario,ACTIVO,31/03/2025,1000,12345678,contacto@keko.com
+719,MyKeego,agregador_tradicional,Despegar Autos,2024,Toyota,Suburban,camion,COMPACTO,manual,gas,0, ,94865.19866978088,415536.8319064256,50 km,35000,6.0,"80,000",Mendosa,Cerró enero 2025,2026-01-18,C1000,+54 11 1234-5678,usuario@gmail.com
+720,Europcra,carsharing_flota_propia,APLICACION,2024,Audi,TRACKERS,camioneta,COMPACTO,automatico,,2,URBANO,,,ilimitado,35000,100.0,15000,Buenos Aires,verificar,2025-02-08 11:08:31.747708,C1000,,keko.com
+721,MyKeego,renta_tradicional,TripWip App,2024,Honda,Gol,camion,mediano ,Mecanica,DIESEL,0,personal,17492.202919232648,70290.26665749036,200,35000,-2.0,"80,000",CABA,N/A,2025-05-24,C1000,11-1234-5678,info@
+722,Alamo,carsharing_flota_propia,wbe site,,Ford,Crono,sedán,COMPACTO,MANUAL,electric,6,remis,11897.026826736643,61666.26655858559,50,,0.5,"80,000",Barilochee, ,2025-02-14,C1000,sin telefono,keko.com
+723,Budget,alquiler_trabajo,web sitte,2024,Honda,i10,sedán,mediano ,Mecanica,electric,4,,24666.769273265134,143726.22715573164,-50,,1.0,15000,Mendoza,Alianza Uber,29/07/2025,BS AS,0800-KEKO,usuario@gmail.com
+724,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,+54 11 1234-5678,keko.com
+725,Budget,carsharing_p2p, ,2024,Citoren,cronnos,suv,economico,Mecanica,electric,-1,carga,16629.56786501193,80933.95437889086,-50,$20000 USD,24.0,14K,Rosario,PENDIENTE,09-18-2025,1000,sin telefono,usuario@gmail.com
+726,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,BS AS,,keko.com
+727,FastGo,agregador_tradicional,Alamo Web,2025,Kia,Toro,HATCHBACK,compacto,mecánico,gas,3,remis,8486.178802618784,35559.12277313739,ILIMITADO,$25000 USD,5.0,N/D,ROSARIO,Activo,12-05-2025,CABA,0800-KEKO,usuario@gmail.com
+728,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,BS AS,11-1234-5678,N/A
+729,Rentennials,carsharing_p2p,Hertz 24/7,2023,Ford,Kango,suv,compacto,Mecanica,hibrido,3,personal,29088.638168532216,141950.83003983862,200,15000,24.0,5000,Córdoba,dato no confirmado,2025-02-19,1000,,info@
+730,Invernalia,alquiler_trabajo,FastGo App,2025,vw,Etios,furgon,COMPACTO,dsg,electric,tres,mixto,"102.417,38",479409.1323323534,ILIMITADO,12000,24.0,,Buenos Aires,PENDIENTE,01/05/2025,C1000,123,contacto@keko.com
+731,MyKeego©,,,,Peugeot£,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,,12345678,usuario@gmail.com
+732,KINTO,alquiler_trabajo,Localiza Mobile,23,vw,onixs,PickUp,compacto, ,gas,-1,personal,,,-50,50000,10.0,N/D,Mar del Plata,Cerró enero 2025,09-15-2025,BS AS,123,keko@keko
+733,Keko,alquiler_trabajo,Avis App,2024,Kia,dos mil ocho,pickup,COMPACTO,dsg,híbrido,2,taxi,,,200,,2.0,45mil,Barilochee,Expansión 2025,2025-08-21 11:08:31.748268,C1000,+54 11 1234-5678,keko@keko
+734,Keko,carsharing_flota_propia,FastGo App,2023,Nissan,i10,SUV,premium,cvt,diesel,99,taxi,29499.693184688647,128133301.63583896,50 km,20000,10.0,125000,Cordoba,Expansión 2025,2025-11-05 11:08:31.746590,C1425,,N/A
+735,KINTO,alquiler_trabajo,Rentennials App,2023,iKa,gl,HATCHBACK,premium,manual,electrico,3,remis,,,100,30000,8.0,45mil,Cordoba,verificar,2025-09-07 11:08:31.763164,BS AS,11-1234-5678,N/A
+736,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1425,123,usuario@gmail.com
+737,Alamo,renta_tradicional,Kayak App,2025,ford,Un,SUV,premium,auto,diesel,3,urbano,,,0,20000,2.0,15000,Mar del Plata,Alianza Uber,2025-06-30 11:08:31.756257,XXXX,11-1234-5678,keko.com
+6261,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,,0800-KEKO,N/A
+739,Budget,alquiler_trabajo,FastGo App,2025,Fiat,Suburbban,utilitario,compacto,dsg,NAFTA,2,URBANO,,,unlimited,25000,4.0,125000,"Rosario, Argentina", ,2025-04-08,1000,+54 11 1234-5678,N/A
+740,Kayak,carsharing_p2p,N/A,2025,fiat,Onix,moto,COMPACTO,mecánico,diesel,,URBANO,23317.95880224022,135679.70429148563,0,50000,10.0,"80,000",Bariloche,CERRÓ,2026-02-05 11:08:31.744231,XXXX,123,contacto@keko.com
+7369,Kaayk,alquiler_trabajo,Despegar Autos,2025,Chevroet,Fox,sedan,COMPACTO,cvt,,3,personal,140870.96891850777,566990.8793994533,ILIMITADO,30000,4.0,N/D,Mar del Plata,PENDIENTE,30/11/2025,BS AS,,
+742,DeRentas,agregador_tradicional,FASTGO APP,2025,nissan,Etius,sedán,grande,dsg,híbrido,,Uber,$119450,539971.94055419,ILIMITADO,50000,24.0,5000,Bariloche,,2025-02-12 11:08:31.755696,C1425,11-1234-5678,usuario@gmail.com
+743,Rentcars,carsharing_flota_propia,Avis App,2024,Chevrolet,Partner,suv,grande,cvt,electric,cinco,URBANO,,,50 km,25000,4.0,,B.Aires,Expansión 2025,2025-10-20 11:08:31.738990,C1000,sin telefono,keko.com
+744,Keko,carsharing_p2p,,2027,Toyota,Cronos,,,,,7,,100000,10000,,,25,,,INCONSISTENTE,,1425,0800-KEKO,keko.com
+745,Invernalia,carsharing_p2p,N/A,2025,BMW,UP,pickup,compacto,automatica,n/a,6,alquilerr_tradicional,179439.39998624174,871396.1791138987,0,50000,1.0,"80,000",Mendosa,Alianza Uber,03/02/2026,C1000,+54 11 1234-5678,usuario@gmail.com
+1640,Hert z,carsharing_p2p,Kayak App,2023,Hyundai,gol,grande,mediano ,auto,gas,4,alquiler_tradicional,118125.66801163816,670263.645595015,9999,50000,4.0,45mil,CABA,dato no confirmado,2025-05-14 11:08:31.743014,,sin telefono,keko.com
+747,Despegar,carsharing_p2p,DeRentas Web,2024,Cheevrolet,Palio,mediano,premium,mecánico,,0,remis,"12.881,19",59467.947141492674,50,30000,6.0,45000,"Rosario, Argentina",PENDIENTE,01-22-2026,1425,+54 11 1234-5678,
+748,Hertz,agregador_tradicional,MyKeego App,2024,TOYOTA,Eti us,hatchback,grande,MANUAL,gnc,,turismo,$34777,146144.83237803652,ilimitado,,24.0,15000,Barilochee,Alianza Uber,02-16-2025,CABA,sin telefono,info@
+749,Avis,alquiler_trabajo, ,2025,RENAULT,Mobi,camioneta,COMPACTO,,DIESEL,tres,n/a,,,ILIMITADO,,1.0,125000,"Mendoza, Argentina",Activo,2025-04-25,0000,0800-KEKO,info@
+750,Alamo,renta_tradicional,,2024,Adui,Kangoo,mediano,grande, ,gnc,3,n/a,12828.800836272196,66328.67680411223,50,22000,5.0,125000,Buenos Aires,verificar,08/12/2025,0000,,contacto@keko.com
+751,Alamo,carsharing_flota_propia,FastGo App,24,Mercedes,onixs,camioneta, compacto,automatico,n/a,,n/a,-14515.252295710585,78623.22820228896,200,15000000,5.0,"80,000",Rosario,verificar,30/01/2026,1000,11-1234-5678,contacto@keko.com
+752,TripWip,carsharing_p2p,app,2025,Ford,Bronco,grande,compacto,cvt,nafta,5,alquiler_tradicional,14540.218446759336,75869.96144520605,50 km,20000,1.0,5000,Barilochee,N/A,2025-06-15 11:08:31.754657,1425,123,keko@keko
+753,KITO,alquiler_trabajo,Despegar Autos,2024,chevrolet,gol,compacto,compacto,auto,híbrido,cinco, ,134541.50062130333,702672.1607787751,unlimited,,2.0,140000,"ROSARIO, Argentina",N/A,2025-03-07 11:08:31.743575,0000,0800-KEKO,contacto@keko.com
+754,FastGo,agregador_tradicional,Kayak App,2023,Mercedes,GGol,camion,premium,N/A,diesel,,alquiler_tradicional,18273.930069248017,96314.46342664158,ILIMITADO,25000,0.5,"80,000",BuenosAires,Alianza Uber,03/01/2026,0000,11-1234-5678,usuario@gmail.com
+865,New Wya,renta_tradicional,MyKeego App,2025,Chevrolet,kicks,grande,premium,,diesel,tres, ,94498.10613357504,392933.27823705814,,30000,0.5,5000,"Barilochee, Argentina",cerró en enero 2025,08/06/2025,C1425,11-1234-5678,N/A
+756,New Way,carsharing_p2p,Keko App,,Citroen,UP,PickUp,mediano ,auto,nafta,6,carga,14182.81729207902,58315.750361029684,150,18000,48.0,125000,Mendosa,PENDIENTE,2025-08-14 11:08:31.753847,BS AS,+54 11 1234-5678,info@
+757,Rentennials,renta_tradicional,HERTZ 24/7,2025,p eugeot,Kicks,HATCHBACK,mediano ,automatico,gnc,6,uber_trabajo,"214.513,28",1057487.4225308546,50 km,30000,6.0,5000,B.Aires,activo,02/06/2025,C1000,0800-KEKO,info@
+758,Despegar,carsharing_flota_propia,Avis App,2023,Honda,gol trend,sedán,COMPACTO,automatica,gas,3, ,"13.550,58",74501.73218155753,ilimitado,15000,48.0,,Mar del Plata,Cerró enero 2025,24/03/2025,BS AS,0800-KEKO,info@
+759,Kayak,alquiler_trabajo,MyKeego App,2023-01-01,TOYOTA,cronnos,utilitario,premium,N/A,electrico,2, ,,,-50,50000,12.0,15000,Mendosa,Activo,11-13-2025,1000,11-1234-5678,keko.com
+760,nEW wAY,carsharing_flota_propia,,2024,Peugeot,Mobi,furgon, compacto,mecánico,electrico,5,Ub er,173647.15339764924,965853.7706702662,100,25000,24.0,N/D,Mar del Plata, ,2025-09-08,C1425,,info@
+761,Rentennials,carsharing_flota_propia,MyKeego App,,nissan,Partner,furgon,mediano ,automatico,,2,Uber,24564.836499563662,102853.46942935178,200,22000,-2.0,N/D,Buenos Aires,cerró en enero 2025,10-18-2025,C1425,0800-KEKO,N/A
+762,Rentcars,alquiler_trabajo,TripWip App,2024,Cirtoen,gol,camioneta,premium,dsg,electric,tres,turismo,18358.229474968677,102653.9301805271,150,20000,1.0,15000,Mendoza,verificar,04-28-2025,0000,+54 11 1234-5678,keko@keko
+763,Avis,carsharing_flota_propia,FastGo App,2025,Kia,Frontier,PickUp,mediano,cvt,NAFTA,3,carga,24744.01206076467,146382.65869726273,0,,10.0,140000,Rosario,Expansión 2025,03-09-2025,BS AS,123,N/A
+764,MyKeego©,,,,Fiatø,,,,,,,,,,,,,,,CARACTERES ESPECIALES,,1000,12345678,N/A
+765,Tr ipWip,renta_tradicional,Hertz 24/7,2025,Ford,mOBI,SUV,grande,auto,híbrido,4,carga,12601.835284326728,63188.32077112377,200,20000,0.5,14K,ROSARIO, ,04-15-2025,XXXX,,info@
+766,New Way,carsharing_p2p,Hertz 24/7,2024,Nissan,gol,sedán,mediano,auto,híbrido,3, ,85575.5336141241,472077.3371735924,200,20000,2.0,15000,Mendoza,Expansión 2025,12/01/2026,,11-1234-5678,keko.com
+767,  Sixt   ,  carsharing_flota_propia  ,,,   peugeot,Renegade    ,,,,,,,,,,,,,,ESPACIOS EN BLANCO,,CABA,sin telefono,usuario@gmail.com
+768,rENTENNIALS,renta_tradicional,MyKeego App,2025,Renault,Palio,camioneta,economico,AUTOMATICO,diesel,0,carga,159886.15233751602,690668.5145183451,200,20000,8.0,45mil,Mendoza,activo,2025-10-03 11:08:31.761156,,,usuario@gmail.com
+769,Alamo,renta_tradicional,Alamo Web,2024,TO YOTA,Etios,pickup,COMPACTO,manual,gnc,5,Uber,98396.18859029129,535725.1408087417,9999,,2.0,,Rosario,,2025-07-05 11:08:31.749928,CABA,,contacto@keko.com
+1410,FastGo,agregador_tradicional, ,,Fiat,trackers,sedan,compacto,,híbrido,-1,taaxi,25530.492439763428,148611.39022397817,-50,12000,4.0,15000,Mendoza,Activo,14/07/2025,C1000,123,keko.com
+771,Hertz,carsharing_flota_propia,TripWip App,2024,Audi,Versa,hatchback,economico,mecánico,n/a,5,mixto,22750.26617382963,119151.00668989404,200,15000,1.0,45000,"Córdoba, Argentina",activo,03/03/2025,XXXX,,usuario@gmail.com
+772,iSxt,renta_tradicional,Keko App,2023,Kia,208,moto,premium,N/A,gnc,6,,17667.09600156644,102749.59879107986,0,18000,24.0,5000,Mendoza,Activo,17/04/2025,1425,+54 11 1234-5678,info@
+773,Alamo,carsharing_flota_propia,Keko App,2023,Kia,Bronco,furgon,premium,mecánico,electrico,5,uber_trabajo,162743.0286770546,808563.1905676684,0,20000,3.0,80000,Córdoba,dato no confirmado,03-17-2025,1000,123,keko.com
+774,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,1000,+54 11 1234-5678,N/A
+775,FastGo,renta_tradicional,Kayak App,2025,vw,Frontier,moto,COMPACTO,auto,electric,3,alquiler_tradicional,13422.170180408195,66742.81376734466,,12000000,12.0,14K,Barilochee,CERRÓ,03-02-2025,C1000,12345678,N/A
+776,Hertz,agregador_tradicional,KINTO Shaare,2025,Volkswagen,trackers,camioneta,COMPACTO,automatica,híbrido,3,taxi,84832.74919435829,468800.10399782966,200,,1.0,N/D,Cordoba,PENDIENTE,24/04/2025,XXXX,11-1234-5678,N/A
+777,Europcar,ALQUILER_TRABAJO,Alamo Web,2024,vw,i10,sedan,premium,dsg,electrico,4,remis,150759.5642416379,711327.1130650969,unlimited,22000000,24.0,,Mendoza, ,2025-10-30 11:08:31.761359,BS AS,0800-KEKO,info@
+778,MyKeego,alquiler_trabajo,MyKeego App,2025-01-01,vw,i10,camioneta,COMPACTO,cvt,gas,5,personal,"33.965,97",184306.70186286818,150,18000,2.0,5000,Buenos Aires,cerró en enero 2025,2025-08-05,1425,0800-KEKO,contacto@keko.com
+779,eRentas,alquiler_trabajo,KEKO APP,2024,Toyota,dos mil ocho,PickUp,mediano ,mecánico,,cinco,urbano,115431.2331282485,645927.7575192145,cien,25000,12.0,125.000,,PENDIENTE,09/08/2025,1425,sin telefono,usuario@gmail.com
+780,Sixt,agregador_tradicional,Alamo Webb,2025,fiat,trackers,furgon,premium, ,electric,5,URABNO,174115.48472573818,747580.1913154215,50 km,20000,-2.0,125.000,GBA,Expansión 2025,28/01/2026,C1000,,keko@keko
+781,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,,info@
+4370,Retncars,agregador_tradicional,Hertz 24/7,2023,nissan,Renegade,sedan,economico,automatico,n/a,2, ,21711.013275731468,112178.77362679756,ILIMITADO,15000,10.0,"80,000",, ,03/06/2025,CABA,+54 11 1234-5678,
+783,Cactus Rent,carsharing_p2p,Rentennials App,2024,Kia,cronnos,hatchback,economico,dsg,,cinco,n/a,82616.63751980195,456518.50104058895,200,20000,6.0,N/D,,verificar,2025-07-25 11:08:31.740423,1425,,
+784,Europcar,renta_tradicional,Rentennials App,2025,Toyota,Fox,furgon,economico,auto,NAFTA,4,,174274.95763154735,1041342.6894223501,150,12000,0.5,,Rosario,Cerró enero 2025,11-24-2025,CABA,sin telefono,info@
+785,Sixt,renta_tradicional,MyKeego App,,nissan,Tracker,furgon,compacto,,DIESEL,,Uber,16940.362346655464,100933.70946384102,150,,5.0,125000,BS AS,Activo,2025-12-18,BS AS,12345678,usuario@gmail.com
+1408,MyKeego,carsharing_p2p,Kayak App,2024,chev,Suburban,HATCHBACK,premium,auto,electric,-1,turismo,13168.362610063496,72768995.6417671,unlimited,$12000 USD,0.5,45mil,CABA,N/A,14/01/2026,,12345678,contacto@keko.com
+787,DeRentas,alquiler_trabajo,Rentcars App,2023,FIAT,Track er,MEDIANO,compacto,automatica,híbrido,5,,120775.09281867441,509577.86510923266,,18000,2.0,125000,GBA,,12-29-2025,C1425,123,contacto@keko.com
+3785,Keko,CARSHARING_P2P,NA,2025,nissan,Fox,suv, compacto,,gas,99,taxi,8873.347053221223,42068194.82546626,50 km,22000,4.0,5000,BS AS,,10-09-2025,1000,0800-KEKO,usuario@gmail.com
+789,Kayak,alquiler_trabajo,N/A,2025,Mercedes,Maverick,grande,mediano ,AUTOMATICO,hibrido,cinco,ALQUILER_TRADICIONAL,13153.156185974149,71585.85969078391,cien,30000000,,5000,Mar del Plata,N/A,2025-10-03 11:08:31.755507,BS AS,sin telefono,usuario@gmail.com
+790,FastGo,alquiler_trabajo,kinto share,2024,TOYOTA,Corolla,compacto,premium,Mecanica,electrico,4,turismo,66564.36151936038,394034.42250686884,100,15000000,10.0,140000, ,Expansión 2025,02-14-2025,1000,0800-KEKO,keko@keko
+791,cactus rent,carsharing_p2p,Hertz 24/7,25,Renault,Kangoo,hatchback,compacto,automatica,NAFTA,,remis,14547.222893587843,74282.50538492805,cien,12000000,-2.0,140000,Cordoba,verificar,06-27-2025,,123,
+792,Cactus Rent,alquiler_trabajo,Localiza Mobile,2023,nissan,Toro,utilitario, compacto,manual,diesel,5, ,171548.75012921076,892945.4775038064,cien,22000,48.0,,,Activo,2026-02-04 11:08:31.753778,C1425,sin telefono,usuario@gmail.com
+9066,Keko,carsharing_p2p,,2019,Toyota,Cronos,,,,,1,,100000,20000,,,25,,,INCONSISTENTE,,0000,+54 11 1234-5678,contacto@keko.com
+794,Despegar,carsharing_flota_propia,Alamo Web,2023,TOYOTA,cronnos,PickUp,COMPACTO, ,NAFTA,2,mixto,17783.511309993573,98897.24377851449,unlimited,20000,8.0,80000,ROSARIO,ACTIVO,2025-11-20,1425,12345678,info@
+795,Retncars,agregador_tradicional,Hertz 24/7,2023,nissan,Renegade,sedan,economico,automatico,n/a,2, ,21711.013275731468,112178.77362679756,ILIMITADO,15000,10.0,"80,000",, ,03/06/2025,CABA,123,
+796,Rentennials,carsharing_flota_propia,,2023,Renualt,MOBI,camion, compacto,MANUAL,,cinco,Uber,$9712,49484.61836959193,150,25000000,0.5,125.000,BS AS,Expansión 2025,11/01/2026,0000,11-1234-5678,info@
+797,Hertz,agregador_tradicional,MyKeego App,2024,TOYOTA,Eti us,hatchback,grande,MANUAL,gnc,,turismo,$34777,146144.83237803652,ilimitado,,24.0,15000,Barilochee,Alianza Uber,02-16-2025,XXXX,+54 11 1234-5678,contacto@keko.com
+798,Alamo,carsharing_p2p,Alamo Web,2025,Volkswagen,Sububan,CAMION,economico,Mecanica,,5,URBANO,14092.608708512418,74449.07439985989,100,50000,5.0,125.000,GBA,cerró en enero 2025,2025-07-25 11:08:31.743976,C1000,12345678,keko@keko
+799,Hertz,carsharing_p2p,Avis App,2023,Hyundai,Tracker,sedán,mediano,automatico,n/a,3,alquiler_tradicional,17448.743702087595,97489.25026847744,50,25000,-2.0,125000,"GBA, Argentina",N/A,20/08/2025,1000,12345678,N/A
+800,KINTO,carsharing_p2p,Alamo Web,2025,Kia,Onix,auto,grande,automatica,nafta,cinco,carga,"17.140,56",94738.24321484487,0,30000,8.0,,CABA,ACTIVO,2025-07-29 11:08:31.743304,0000,12345678,keko@keko
+801,DeRentas,renta_tradicional,Avis Ap,2023,FIAT,Etios,camioneta,grande,manual,diesel,4, ,120642.51604674695,528183.8237151782,9999,25000,2.0,45mil,,Activo,2025-08-02 11:08:31.759132,CABA,+54 11 1234-5678,info@
+802,Kayak,alquiler_trabajo,TripWip App,2024,FIAT,kangoo,sedan,grande,automatico,diesel,,URBANO,16641.250090811514,92163.45538824343,50 km,12000,5.0,15000,Mendosa,Activo,2026-01-08,0000,+54 11 1234-5678,contacto@keko.com
+803,New Way,renta_tradicional,Rentcars App,2025,Audi,KKangoo,SUV,COMPACTO,,híbrido,cinco,URBANO,87963.31170639952,515725.9883738444,50 km,20000,,125.000," , Argentina",cerró en enero 2025,2025-12-23 11:08:31.748757,CABA,123,info@
+804,Kayak,alquiler_trabajo,Rentennials App,2025-01-01,Honda,Palio,UTILITARIO,economico,auto,n/a,2,uber_trabajo,20921.18484869364,111622.79984777683,150,,100.0,5000,BS AS,N/A,2025-10-19,1000,11-1234-5678,
+805,Cactus Rent,agregador_tradicional,app,2024,BMW,Siena,sedán,premium,Mecanica,n/a,3,mixto,80013.6939498926,325601789.5001764,150,,5.0,,BS AS,,28/08/2025,BS AS,+54 11 1234-5678,info@
+806,KINTO,carsharing_flota_propia,Keko App,2024,VW,Tracker,pickup,economico,AUTOMATICO,electrico,5,alquiler_tradicional,$25853,120325.19449599485,0,,0.5,45mil,Barilochee,Expansión 2025,2026-01-15,CABA,11-1234-5678,keko.com
+807,Budget,alquiler_trabajo,Avis App,,BM W,Palio,mediano,grande,AUTOMATICO,n/a,cinco,uber_trabaj,121435.81876893638,584832.6413980464,9999,,10.0,N/D,BS AS,N/A,07-08-2025,CABA,123,keko@keko
+808,,,,,,,,,,,,,,,,,,,,DATO NO DISPONIBLE,,0000,sin telefono,keko@keko
+809,Keko,agregador_tradicional,APLICACION,2025,Ciroen,Tracker,furgon,mediano,MANUAL,nafta,3,n/a,-126574.02569182422,739249.6595313695,cien,,-2.0,"80,000",Córdoba,,2025-07-07 11:08:31.742564,C1425,,keko@keko
+810,Sixt,carsharing_flota_propia,N/A,2025,fiat,DOS MIL OCHO,suv,mediano ,AUTOMATICO,n/a,-1, ,125818.22845622382,676340.0986498909,,50000,5.0,"80,000",Barilochee,PENDIENTE,2025-04-29 11:08:31.744278,BS AS,sin telefono,usuario@gmail.com
+811,Rentcars,alquiler_trabajo,web site,2024,fiat,trackkers,compacto,compacto,,nafta,4,Uber,84100.93851812126,494317.4384967964,150,22000,4.0,"80,000",Cordoba,activo,07/03/2025,BS AS,123,contacto@keko.com
+812,MyKeego,agregador_tradicional,Rentcars App,2024,peugeot,Renegade,camion,premium,N/A,gas,-1,taxi,160022.05375252847,740054.0905839561,ilimitado,,1.0,5000,Mendoza,ACTIVO,2025-04-05,1425,0800-KEKO,keko.com
+813,DeRentas,carsharing_flota_propia,Rentennials App,2025,peugoet,Gol Trend,Furgon,premium,manual,electrico,tres,Uber,95631.46533370485,530208.5470139221,ILIMITADO,12000,48.0,125.000,Cordoba,Alianza Uber,22/06/2025,0000,11-1234-5678,
